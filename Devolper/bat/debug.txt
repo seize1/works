@@ -1,0 +1,16 @@
+http://ask-contactless.com/Portals/0/Flyers/C_ticket/cticket_flyer.pdf
+
+
+echo -n 'file mdss_fb.c +p' > d/dynamic_debug/control
+echo -n 'file leds-pwm.c +p' > d/dynamic_debug/control
+echo -n 'file leds-qpnp-wled.c +p' > d/dynamic_debug/control
+echo -n 'file leds-qpnp-flash.c +p' > d/dynamic_debug/control
+echo -n 'file leds-qpnp.c +p' > d/dynamic_debug/control
+
+
+cat /proc/kmsg
+
+leds-pwm.c
+leds-qpnp-flash.c
+leds-qpnp-wled.c
+leds-qpnp.c

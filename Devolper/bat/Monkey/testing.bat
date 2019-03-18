@@ -1,0 +1,1 @@
+adb push ./monkey.script /sdcard/Download

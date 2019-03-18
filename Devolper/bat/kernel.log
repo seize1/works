@@ -1,0 +1,1457 @@
+<3>[   23.009111] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.029701] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.050291] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.070882] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.091474] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.112065] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.132656] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.153247] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.173838] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.194428] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.215020] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.235610] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.256200] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.276791] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.297381] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.317971] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.338561] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.359189] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.379780] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.400370] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.420961] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.441552] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.462144] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.482735] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.503326] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.523918] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.544507] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.565098] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.585689] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.606319] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.626909] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.647499] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.668089] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.688680] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.709269] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.729860] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.750449] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.771041] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.791633] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.812225] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.832815] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.853446] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.874035] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.894626] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.915215] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.935806] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.956396] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.976986] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   23.997576] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.018166] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.038756] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.059361] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.079980] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.100570] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.121200] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.141792] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.162383] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.182973] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.203564] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.224155] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.244745] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.265335] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.285926] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.306517] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.327106] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.347695] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.368327] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.388918] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.409508] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.430098] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.450689] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x011363c8 OPER:0x00000010
+<3>[   24.471281] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.491872] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.512464] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.533055] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.553645] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.574236] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.594825] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<3>[   24.615456] i2c-msm-v2 78b6000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 tx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x12 MSTR_STS:0x0d1343c8 OPER:0x00000010
+<6>[   24.635901] 
+<6>[   24.635901] [E]3<BMP280><bmm_i2c_read><448>I2C xfer error
+<6>[   24.641835] 
+<6>[   24.641835] [I]6<BMP280><bmm_wakeup><383>wake up result: fail, tried times: 6
+<6>[   24.650497] 
+<6>[   24.650497] [E]3<BMP280><bmm_probe><1565>Cannot wake up bmm050, I2C xfer error
+<4>[   24.659292] bmm050: probe of 0-0012 failed with error -5
+<4>[   24.664604] i2c-core: driver [bmm050] using legacy suspend method
+<4>[   24.670653] i2c-core: driver [bmm050] using legacy resume method
+<6>[   24.676919] qcom,qpnp-rtc qpnp-rtc-ffffffc074f69c00: rtc core: registered qpnp_rtc as rtc0
+<6>[   24.685106] i2c /dev entries driver
+<6>[   24.691038] platform 1d00000.qcom,vidc: Driver msm_vidc_v4l2 requests probe deferral
+<3>[   24.702377] msm_flash_init_module:1026 Enter
+<3>[   24.705891] msm_flash_lm3642_init entry
+<3>[   24.711411] g_sctrl[0] ffffffc0742b3000
+<3>[   24.714264] g_sctrl[1] ffffffc0742b4000<6>[   24.717857] mt9m114_init_module:1155
+<3>[   24.721736] mt9m114_init_module:1160 rc -19
+<3>[   24.725599] ov5645_init_module:557
+<3>[   24.729208] ov7695_init_module:315
+<3>[   24.732943] MSM-CPP cpp_probe:3033 Bus master 0
+<6>[   24.751683] MSM-CPP cpp_init_hardware:953 CPP HW Version: 0x40000000
+<3>[   24.756994] MSM-CPP cpp_init_hardware:974 stream_cnt:0
+<3>[   24.765565] __msm_jpeg_init:1522] Jpeg Device id 0
+<6>[   24.769826] usbcore: registered new interface driver uvcvideo
+<6>[   24.775092] USB Video Class driver (1.1.1)
+<3>[   24.779921] i2c-msm-v2 78b8000.i2c: msm_bus_scale_register_client(mstr-id:86):0xc (ok)
+<6>[   24.793161] smb1360_otg_vreg: no parameters
+<6>[   24.802002] smb1360-chg-fg 4-0014: SMB1360 revision=0x3 probe success! batt=1 usb=0 soc=100
+<3>[   24.809549] BMS: bms_get_adc: vadc not found - defer probe rc=-517
+<3>[   24.815504] BMS: qpnp_vm_bms_probe: Failed to get adc rc=-517
+<6>[   24.821232] spmi qpnp-vm-bms-ffffffc074f6b000: Driver qcom,qpnp-vm-bms requests probe deferral
+<3>[   24.829980] CHG: qpnp_lbc_probe: Failed to read DT properties rc=-517
+<6>[   24.836277] spmi qpnp-linear-charger-ffffffc074f6ac00: Driver qcom,qpnp-linear-charger requests probe deferral
+<3>[   24.847038] unable to find DT imem DLOAD mode node
+<3>[   24.851468] unable to find DT imem EDLOAD mode node
+<6>[   24.873966] device-mapper: ioctl: 4.24.0-ioctl (2013-01-15) initialised: dm-devel@redhat.com
+<6>[   24.881543] device-mapper: req-crypt: dm-req-crypt successfully initalized.
+<6>[   24.881543] 
+<6>[   24.890464] cpuidle: using governor ladder
+<6>[   24.893880] cpuidle: using governor menu
+<6>[   24.897786] sdhci: Secure Digital Host Controller Interface driver
+<6>[   24.903942] sdhci: Copyright(c) Pierre Ossman
+<6>[   24.908268] sdhci-pltfm: SDHCI platform and OF driver helper
+<6>[   24.914329] sdhci_msm 7824900.sdhci: no qcom,cpu-dma-latency-us-r property found
+<6>[   24.921314] sdhci_msm 7824900.sdhci: no qcom,cpu-dma-latency-us-w property found
+<6>[   24.932244] sdhci_msm 7824900.sdhci: host_use_default_qos = 1
+<6>[   24.936947] sdhci_msm 7824900.sdhci: For Qos_policy(default qos) = 0, tbl_sz = 3, qos type = 2
+<6>[   24.945560] sdhci_msm 7824900.sdhci: 	dma_lat = 2
+<6>[   24.950226] sdhci_msm 7824900.sdhci: 	dma_lat = 401
+<6>[   24.955106] sdhci_msm 7824900.sdhci: 	dma_lat = 701
+<6>[   24.959950] sdhci_msm 7824900.sdhci: For Qos_policy(modified dynamic qos) = 1, tbl_sz = 1, qos type = 2
+<6>[   24.969340] sdhci_msm 7824900.sdhci: 	dma_lat = 200
+<6>[   24.974202] sdhci_msm 7824900.sdhci: For Qos_policy(modified dynamic qos) = 2, tbl_sz = 1, qos type = 2
+<6>[   24.983575] sdhci_msm 7824900.sdhci: 	dma_lat = 200
+<6>[   24.988421] sdhci_msm 7824900.sdhci: Host using default Qos
+<6>[   24.994869] mmc0: no vqmmc regulator found
+<6>[   24.998062] mmc0: no vmmc regulator found
+<6>[   25.031158] mmc0: SDHCI controller on 7824900.sdhci [7824900.sdhci] using 32-bit ADMA
+<6>[   25.038408] sdhci_msm 7864900.sdhci: no qcom,cpu-dma-latency-us-r property found
+<6>[   25.045405] sdhci_msm 7864900.sdhci: no qcom,cpu-dma-latency-us-w property found
+<6>[   25.061005] sdhci_msm 7864900.sdhci: host_use_default_qos = 1
+<6>[   25.065709] sdhci_msm 7864900.sdhci: For Qos_policy(default qos) = 0, tbl_sz = 1, qos type = 2
+<6>[   25.074355] sdhci_msm 7864900.sdhci: 	dma_lat = 701
+<6>[   25.079164] sdhci_msm 7864900.sdhci: For Qos_policy(modified dynamic qos) = 1, tbl_sz = 1, qos type = 2
+<6>[   25.088554] sdhci_msm 7864900.sdhci: 	dma_lat = 200
+<6>[   25.093418] sdhci_msm 7864900.sdhci: For Qos_policy(modified dynamic qos) = 2, tbl_sz = 1, qos type = 2
+<6>[   25.102922] sdhci_msm 7864900.sdhci: 	dma_lat = 200
+<6>[   25.107766] sdhci_msm 7864900.sdhci: Host using default Qos
+<6>[   25.114325] mmc1: no vqmmc regulator found
+<6>[   25.117515] mmc1: no vmmc regulator found
+<6>[   25.152294] mmc1: SDHCI controller on 7864900.sdhci [7864900.sdhci] using 32-bit ADMA
+<6>[   25.162481] qce 720000.qcedev: Qualcomm Crypto 5.3.1 device found @0x720000
+<6>[   25.168405] qce 720000.qcedev: CE device = 0x0
+<6>[   25.168405] , IO base, CE = 0xffffff80011c0000
+<6>[   25.168405] , Consumer (IN) PIPE 2,    Producer (OUT) PIPE 3
+<6>[   25.168405] IO base BAM = 0x          (null)
+<6>[   25.168405] BAM IRQ 239
+<6>[   25.168405] Engines Availability = 0x2010853
+<6>[   25.193901] mmc0: BKOPS_EN bit = 0
+<6>[   25.197452] sps:BAM 0x0000000000704000 is registered.
+<6>[   25.197452] sps:BAM 0x0000000000704000 (va:0xffffff80012c0000) enabled: ver:0x25, number of pipes:8
+<6>[   25.211757] QCE50: qce_sps_init:  Qualcomm MSM CE-BAM at 0x0000000000704000 irq 239
+<6>[   25.220519] qcedev: FIPS140-2 Known Answer Tests : Skipped
+<6>[   25.226151] qcrypto 720000.qcrypto: Qualcomm Crypto 5.3.1 device found @0x720000
+<6>[   25.228608] mmc0: new HS200 MMC card at address 0001
+<6>[   25.237517] qcrypto 720000.qcrypto: CE device = 0x0
+<6>[   25.237517] , IO base, CE = 0xffffff80013c0000
+<6>[   25.237517] , Consumer (IN) PIPE 4,    Producer (OUT) PIPE 5
+<6>[   25.237517] IO base BAM = 0x          (null)
+<6>[   25.237517] BAM IRQ 239
+<6>[   25.237517] Engines Availability = 0x2010853
+<6>[   25.237561] mmcblk0: mmc0:0001 HAG2e 14.6 GiB 
+<6>[   25.267876] mmcblk0rpmb: mmc0:0001 HAG2e partition 3 4.00 MiB
+<6>[   25.274422] QCE50: qce_sps_init:  Qualcomm MSM CE-BAM at 0x0000000000704000 irq 239
+<6>[   25.281951] qcrypto 720000.qcrypto: qcrypto-ecb-aes
+<6>[   25.286377] qcrypto 720000.qcrypto: qcrypto-cbc-aes
+<6>[   25.291235] qcrypto 720000.qcrypto: qcrypto-ctr-aes
+<6>[   25.296080] qcrypto 720000.qcrypto: qcrypto-ecb-des
+<6>[   25.300923] qcrypto 720000.qcrypto: qcrypto-cbc-des
+<6>[   25.301142]  mmcblk0: p1 p2 p3 p4 p5 p6 p7 p8 p9 p10 p11 p12 p13 p14 p15 p16 p17 p18 p19 p20 p21 p22 p23 p24 p25 p26 p27 p28 p29 p30 p31
+<6>[   25.318058] qcrypto 720000.qcrypto: qcrypto-ecb-3des
+<6>[   25.323046] qcrypto 720000.qcrypto: qcrypto-cbc-3des
+<6>[   25.327897] qcrypto 720000.qcrypto: qcrypto-xts-aes
+<6>[   25.332804] qcrypto 720000.qcrypto: qcrypto-sha1
+<6>[   25.337346] qcrypto 720000.qcrypto: qcrypto-sha256
+<6>[   25.342119] qcrypto 720000.qcrypto: qcrypto-aead-hmac-sha1-cbc-aes
+<6>[   25.348402] qcrypto 720000.qcrypto: qcrypto-aead-hmac-sha1-cbc-des
+<6>[   25.354938] qcrypto 720000.qcrypto: qcrypto-aead-hmac-sha1-cbc-3des
+<6>[   25.360861] qcrypto 720000.qcrypto: qcrypto-aead-hmac-sha256-cbc-aes
+<6>[   25.367080] qcrypto 720000.qcrypto: qcrypto-aead-hmac-sha256-cbc-des
+<6>[   25.373464] qcrypto 720000.qcrypto: qcrypto-aead-hmac-sha256-cbc-3des
+<6>[   25.379793] qcrypto 720000.qcrypto: qcrypto-hmac-sha1
+<6>[   25.384851] qcrypto 720000.qcrypto: qcrypto-hmac-sha256
+<6>[   25.390012] qcrypto 720000.qcrypto: qcrypto-aes-ccm
+<6>[   25.394975] qcrypto 720000.qcrypto: qcrypto-rfc4309-aes-ccm
+<6>[   25.400295] qcrypto: FIPS140-2 Known Answer Tests: Skipped
+<6>[   25.406445] usbcore: registered new interface driver usbhid
+<6>[   25.411342] usbhid: USB HID core driver
+<6>[   25.415405] zram: Created 1 device(s) ...
+<6>[   25.419570] ashmem: initialized
+<6>[   25.422372] logger: created 256K log 'log_main'
+<6>[   25.426862] logger: created 256K log 'log_events'
+<6>[   25.431566] logger: created 256K log 'log_radio'
+<6>[   25.436145] logger: created 256K log 'log_system'
+<6>[   25.441273] sps:BAM 0x00000000078c4000 is registered.
+<6>[   25.445977] qcom,qpnp-power-on qpnp-power-on-ffffffc074f69000: PMIC@SID0 Power-on reason: Triggered from KPD (power key press) and 'cold' boot
+<6>[   25.458607] qcom,qpnp-power-on qpnp-power-on-ffffffc074f69000: PMIC@SID0: Power-off reason: Triggered from PS_HOLD (PS_HOLD/MSM controlled shutdown)
+<6>[   25.471995] input: qpnp_pon as /devices/virtual/input/input4
+<6>[   25.479004] PMIC@SID0: PM8916 v2.0 options: 0, 2, 0, 0
+<6>[   25.483228] pft [pft_init]: Drivr initialized successfully Aug 29 2018 11:17:46.n
+<3>[   25.492443] devfreq qcom,cpubw.30: Couldn't update frequency transition information.
+<6>[   25.500175] coresight-fuse 5e01c.fuse: Fuse initialized
+<6>[   25.505022] coresight-cti 810000.cti: CTI initialized
+<6>[   25.509686] coresight-cti 811000.cti: CTI initialized
+<6>[   25.514739] coresight-cti 812000.cti: CTI initialized
+<6>[   25.519745] coresight-cti 813000.cti: CTI initialized
+<6>[   25.524798] coresight-cti 814000.cti: CTI initialized
+<6>[   25.529814] coresight-cti 815000.cti: CTI initialized
+<6>[   25.534858] coresight-cti 816000.cti: CTI initialized
+<6>[   25.539876] coresight-cti 817000.cti: CTI initialized
+<6>[   25.544931] coresight-cti 818000.cti: CTI initialized
+<6>[   25.549953] coresight-cti 858000.cti: CTI initialized
+<6>[   25.555004] coresight-cti 859000.cti: CTI initialized
+<6>[   25.560027] coresight-cti 85a000.cti: CTI initialized
+<6>[   25.565109] coresight-cti 85b000.cti: CTI initialized
+<6>[   25.570083] coresight-cti 830000.cti: CTI initialized
+<6>[   25.575157] coresight-cti 835000.cti: CTI initialized
+<6>[   25.580149] coresight-cti 838000.cti: CTI initialized
+<6>[   25.585211] coresight-cti 83c000.cti: CTI initialized
+<6>[   25.590520] coresight-csr 801000.csr: CSR initialized
+<6>[   25.595655] coresight-tmc 826000.tmc: Byte Counter feature enabled
+<6>[   25.601338] sps:BAM 0x0000000000884000 is registered.
+<6>[   25.606291] coresight-tmc 826000.tmc: TMC initialized
+<6>[   25.611652] coresight-tmc 825000.tmc: TMC initialized
+<6>[   25.617668] nidnt boot config: 0
+<6>[   25.620481] coresight-tpiu 820000.tpiu: NIDnT on SDCARD only mode
+<6>[   25.626014] coresight-tpiu 820000.tpiu: TPIU initialized
+<6>[   25.631705] coresight-funnel 821000.funnel: FUNNEL initialized
+<6>[   25.637141] coresight-funnel 841000.funnel: FUNNEL initialized
+<6>[   25.642972] coresight-funnel 869000.funnel: FUNNEL initialized
+<6>[   25.648762] coresight-funnel 868000.funnel: FUNNEL initialized
+<6>[   25.654923] coresight-replicator 824000.replicator: REPLICATOR initialized
+<6>[   25.661845] coresight-stm 802000.stm: STM initialized
+<6>[   25.666784] coresight-hwevent 86c000.hwevent: Hardware Event driver initialized
+<6>[   25.674217] coresight-etmv4 85c000.etm: ETMv4 initialized
+<6>[   25.679280] coresight-etmv4 85d000.etm: ETMv4 initialized
+<6>[   25.684704] coresight-etmv4 85e000.etm: ETMv4 initialized
+<6>[   25.690039] coresight-etmv4 85f000.etm: ETMv4 initialized
+<6>[   25.695865] coresight-modem-etm modem_etm0.3: Modem ETM initialized
+<6>[   25.702106] coresight-wcn-etm wcn_etm0.2: Wireless ETM initialized
+<6>[   25.708206] coresight-rpm-etm rpm_etm0.1: RPM ETM initialized
+<6>[   25.714055] usbcore: registered new interface driver snd-usb-audio
+<6>[   25.720078] spmi msm8x16_wcd_codec-ffffffc074f90000: Driver wcd-spmi-core requests probe deferral
+<6>[   25.728408] spmi msm8x16_wcd_codec-ffffffc074f90400: Driver wcd-spmi-core requests probe deferral
+<6>[   25.746852] msm-pcm-lpa qcom,msm-pcm-lpa.39: msm_pcm_probe: dev name qcom,msm-pcm-lpa.39
+<6>[   25.754597] platform qcom,msm-voip-dsp.41: Driver msm-voip-dsp requests probe deferral
+<6>[   25.762153] platform qcom,msm-pcm-voice.42: Driver msm-pcm-voice requests probe deferral
+<6>[   25.773677] msm8x16-asoc-wcd sound.64: default codec configured
+<3>[   25.780203] msm8x16-asoc-wcd sound.64: ASoC: platform (null) not registered
+<3>[   25.786184] msm8x16-asoc-wcd sound.64: snd_soc_register_card failed (-517)
+<6>[   25.793079] platform sound.64: Driver msm8x16-asoc-wcd requests probe deferral
+<6>[   25.800848] u32 classifier
+<6>[   25.802869]     Actions configured
+<6>[   25.806260] Netfilter messages via NETLINK v0.30.
+<6>[   25.811045] nf_conntrack version 0.5.0 (16384 buckets, 65536 max)
+<6>[   25.817341] ctnetlink v0.93: registering with nfnetlink.
+<6>[   25.822427] NF_TPROXY: Transparent proxy support initialized, version 4.1.0
+<6>[   25.829259] NF_TPROXY: Copyright (c) 2006-2007 BalaBit IT Ltd.
+<6>[   25.835412] xt_time: kernel timezone is -0000
+<6>[   25.839608] ip_tables: (C) 2000-2006 Netfilter Core Team
+<6>[   25.844859] arp_tables: (C) 2002 David S. Miller
+<6>[   25.849340] TCP: cubic registered
+<6>[   25.852627] Initializing XFRM netlink socket
+<6>[   25.857269] NET: Registered protocol family 10
+<6>[   25.861882] mip6: Mobile IPv6
+<6>[   25.864265] ip6_tables: (C) 2000-2006 Netfilter Core Team
+<6>[   25.869741] sit: IPv6 over IPv4 tunneling driver
+<6>[   25.874587] NET: Registered protocol family 17
+<5>[   25.878710] Bridge firewalling registered
+<6>[   25.882670] Ebtables v2.0 registered
+<6>[   25.886373] Bluetooth: RFCOMM TTY layer initialized
+<6>[   25.891101] Bluetooth: RFCOMM socket layer initialized
+<6>[   25.896186] Bluetooth: RFCOMM ver 1.11
+<6>[   25.899920] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+<6>[   25.905232] Bluetooth: BNEP filters: protocol multicast
+<6>[   25.910429] Bluetooth: BNEP socket layer initialized
+<6>[   25.915385] Bluetooth: HIDP (Human Interface Emulation) ver 1.2
+<6>[   25.921294] Bluetooth: HIDP socket layer initialized
+<6>[   25.929572] cma: Assigned CMA region at 0 to qcom,mba-mem.148 device
+<6>[   25.937170] msm_otg 78d9000.usb: phy_reset: success
+<6>[   25.937173] BMS: qpnp_vm_bms_probe: VMBMS disabled (disable-bms = 1)
+<4>[   26.030789] CHG: qpnp_lbc_probe: Disabling Linear Charger (e-external-charger = 1)
+<6>[   26.037421] spmi msm8x16_wcd_codec-ffffffc074f90000: Driver wcd-spmi-core requests probe deferral
+<6>[   26.046254] spmi msm8x16_wcd_codec-ffffffc074f90400: Driver wcd-spmi-core requests probe deferral
+<3>[   26.050792] get_bam_type_from_core_name: invalid BAM name()
+<3>[   26.050796] usb_bam_get_connection_idx: Invalid bam, type=-22, name=
+<3>[   26.050798] msm_bam_device_lpm_ok: Going to LPM now
+<6>[   26.052994] msm_otg 78d9000.usb: USB in low power mode
+<6>[   26.079141] msm8x16-asoc-wcd sound.64: default codec configured
+<3>[   26.084652] msm8x16-asoc-wcd sound.64: ASoC: CODEC (null) not registered
+<3>[   26.090749] msm8x16-asoc-wcd sound.64: snd_soc_register_card failed (-517)
+<6>[   26.097610] platform sound.64: Driver msm8x16-asoc-wcd requests probe deferral
+<6>[   26.104856] spmi msm8x16_wcd_codec-ffffffc074f90000: Driver wcd-spmi-core requests probe deferral
+<6>[   26.113674] spmi msm8x16_wcd_codec-ffffffc074f90400: Driver wcd-spmi-core requests probe deferral
+<5>[   26.122859] Registering SWP/SWPB emulation handler
+<5>[   26.127470] Loading module verification certificates
+<5>[   26.134776] MODSIGN: Loaded cert 'Magrathea: Glacier signing key: 7606c3699d98d693f9c5ccacd955c6522bca584b'
+<6>[   26.243589] mem_acc_corner: disabling
+<6>[   26.246210] regulator-dummy: disabling
+<6>[   26.251351] msm8x16-asoc-wcd sound.64: default codec configured
+<3>[   26.256828] msm8x16-asoc-wcd sound.64: ASoC: CODEC (null) not registered
+<3>[   26.262962] msm8x16-asoc-wcd sound.64: snd_soc_register_card failed (-517)
+<6>[   26.269820] platform sound.64: Driver msm8x16-asoc-wcd requests probe deferral
+<6>[   26.277077] spmi msm8x16_wcd_codec-ffffffc074f90000: Driver wcd-spmi-core requests probe deferral
+<6>[   26.285886] spmi msm8x16_wcd_codec-ffffffc074f90400: Driver wcd-spmi-core requests probe deferral
+<6>[   26.295844] file system registered
+<6>[   26.298236] mbim_init: initialize 1 instances
+<6>[   26.302638] mbim_init: Initialized 1 ports
+<6>[   26.306620] mbim_bam_setup: no_ports:1
+<6>[   26.310448] mbim_bam_setup: Initialized 1 ports
+<6>[   26.315694] rndis_qc_init: initialize rndis QC instance
+<6>[   26.320369] android_usb gadget: Mass Storage Function, version: 2009/09/11
+<6>[   26.326952] android_usb gadget: Number of LUNs=2
+<6>[   26.331571]  lun0: LUN: removable file: (no medium)
+<6>[   26.336395]  lun1: LUN: removable file: (no medium)
+<6>[   26.341481] android_usb gadget: android_usb ready
+<6>[   26.345948] msm_hsusb msm_hsusb: [ci13xxx_start] hw_ep_max = 16
+<6>[   26.352572] msm8x16-asoc-wcd sound.64: default codec configured
+<6>[   26.353298] input: gpio-keys as /devices/soc.0/gpio_keys.65/input/input5
+<6>[   26.364445] qcom,qpnp-rtc qpnp-rtc-ffffffc074f69c00: setting system clock to 1970-01-01 01:44:21 UTC (6261)
+<3>[   26.365112] msm8x16-asoc-wcd sound.64: ASoC: CODEC (null) not registered
+<3>[   26.365139] msm8x16-asoc-wcd sound.64: snd_soc_register_card failed (-517)
+<6>[   26.365192] platform sound.64: Driver msm8x16-asoc-wcd requests probe deferral
+<6>[   26.365263] spmi msm8x16_wcd_codec-ffffffc074f90000: Driver wcd-spmi-core requests probe deferral
+<6>[   26.365301] spmi msm8x16_wcd_codec-ffffffc074f90400: Driver wcd-spmi-core requests probe deferral
+<6>[   26.365835] msm8x16-asoc-wcd sound.64: default codec configured
+<3>[   26.366398] msm8x16-asoc-wcd sound.64: ASoC: CODEC (null) not registered
+<3>[   26.366421] msm8x16-asoc-wcd sound.64: snd_soc_register_card failed (-517)
+<6>[   26.366468] platform sound.64: Driver msm8x16-asoc-wcd requests probe deferral
+<6>[   26.440768] spmi msm8x16_wcd_codec-ffffffc074f90000: Driver wcd-spmi-core requests probe deferral
+<6>[   26.440926] msm_thermal:interrupt_mode_init Interrupt mode init
+<6>[   26.454609] spmi msm8x16_wcd_codec-ffffffc074f90400: Driver wcd-spmi-core requests probe deferral
+<6>[   26.455149] /soc/qcom,lpm-levels/qcom,pm-cluster@0: No CPU phandle, assuming single cluster
+<6>[   26.472350] msm8x16-asoc-wcd sound.64: default codec configured
+<6>[   26.475919] qcom,cc-debug-8916 1874000.qcom,cc-debug: Registered Debug Mux successfully
+<6>[   26.476659] clock_late_init: Removing enables held for handed-off clocks
+<6>[   26.479609] ALSA device list:
+<6>[   26.479610]   No soundcards found.
+<6>[   26.498840] Freeing unused kernel memory: 148K (ffffffc001400000 - ffffffc001425000)
+<3>[   26.499330] msm8x16-asoc-wcd sound.64: ASoC: CODEC (null) not registered
+<3>[   26.499356] msm8x16-asoc-wcd sound.64: snd_soc_register_card failed (-517)
+<6>[   26.499414] platform sound.64: Driver msm8x16-asoc-wcd requests probe deferral
+<6>[   26.499502] spmi msm8x16_wcd_codec-ffffffc074f90000: Driver wcd-spmi-core requests probe deferral
+<6>[   26.499541] spmi msm8x16_wcd_codec-ffffffc074f90400: Driver wcd-spmi-core requests probe deferral
+<6>[   26.500095] msm8x16-asoc-wcd sound.64: default codec configured
+<3>[   26.500715] msm8x16-asoc-wcd sound.64: ASoC: CODEC (null) not registered
+<3>[   26.500739] msm8x16-asoc-wcd sound.64: snd_soc_register_card failed (-517)
+<6>[   26.500787] platform sound.64: Driver msm8x16-asoc-wcd requests probe deferral
+<7>[   26.595700] SELinux: 2048 avtab hash slots, 8053 rules.
+<7>[   26.599345] SELinux: 2048 avtab hash slots, 8053 rules.
+<7>[   26.599375] SELinux:  1 users, 2 roles, 640 types, 0 bools, 1 sens, 1024 cats
+<7>[   26.599384] SELinux:  86 classes, 8053 rules
+<7>[   26.600808] SELinux:  Completing initialization.
+<7>[   26.600816] SELinux:  Setting up existing superblocks.
+<7>[   26.600837] SELinux: initialized (dev sysfs, type sysfs), uses genfs_contexts
+<7>[   26.600859] SELinux: initialized (dev rootfs, type rootfs), uses genfs_contexts
+<7>[   26.600942] SELinux: initialized (dev bdev, type bdev), not configured for labeling
+<7>[   26.600956] SELinux: initialized (dev proc, type proc), uses genfs_contexts
+<7>[   26.600978] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+<7>[   26.601000] SELinux: initialized (dev debugfs, type debugfs), uses genfs_contexts
+<7>[   26.610590] SELinux: initialized (dev sockfs, type sockfs), uses task SIDs
+<7>[   26.610607] SELinux: initialized (dev pipefs, type pipefs), uses task SIDs
+<7>[   26.610707] SELinux: initialized (dev anon_inodefs, type anon_inodefs), not configured for labeling
+<7>[   26.610728] SELinux: initialized (dev devpts, type devpts), uses transition SIDs
+<7>[   26.610752] SELinux: initialized (dev selinuxfs, type selinuxfs), uses genfs_contexts
+<7>[   26.610837] SELinux: initialized (dev configfs, type configfs), not configured for labeling
+<7>[   26.610848] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+<7>[   26.610880] SELinux: initialized (dev sysfs, type sysfs), uses genfs_contexts
+<5>[   26.867061] type=1403 audit(6261.999:2): policy loaded auid=4294967295 ses=4294967295
+<5>[   26.883770] type=1404 audit(6262.019:3): enforcing=1 old_enforcing=0 auid=4294967295 ses=4294967295
+<11>[   27.231804] init: /init.qcom.rc: 499: user option requires a user id
+<11>[   27.239903] init: init.target.rc: 195: ignored duplicate definition of service 'ppd'
+<11>[   27.246933] init: -update_bluebirdinfo
+<11>[   27.253228] init: invalid uid 'fm_radio'
+<7>[   27.679298] SELinux: initialized (dev cgroup, type cgroup), uses genfs_contexts
+<7>[   27.679860] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+<7>[   27.684051] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+<7>[   27.684467] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+<7>[   27.688271] SELinux: initialized (dev cgroup, type cgroup), uses genfs_contexts
+<11>[   27.696915] init: property 'ro.serialno' doesn't exist while expanding '${ro.serialno}'
+<11>[   27.704003] init: cannot expand '${ro.serialno}' while writing to '/sys/class/android_usb/android0/iSerial'
+<7>[   27.719337] SELinux: initialized (dev functionfs, type functionfs), uses genfs_contexts
+<6>[   27.819218] EXT4-fs (mmcblk0p24): mounted filesystem with ordered data mode. Opts: barrier=1,discard
+<7>[   27.827373] SELinux: initialized (dev mmcblk0p24, type ext4), uses xattr
+<14>[   27.827473] fs_mgr: __mount(source=/dev/block/bootdevice/by-name/system,target=/system,type=ext4)=0
+<4>[   27.836973] EXT4-fs (mmcblk0p31): Ignoring removed nomblk_io_submit option
+<6>[   27.847783] EXT4-fs (mmcblk0p31): mounted filesystem with ordered data mode. Opts: nomblk_io_submit,errors=remount-ro
+<7>[   27.857421] SELinux: initialized (dev mmcblk0p31, type ext4), uses xattr
+<14>[   27.857490] fs_mgr: check_fs(): mount(/dev/block/bootdevice/by-name/userdata,/data,ext4)=0
+<14>[   27.867612] fs_mgr: Running /system/bin/e2fsck on /dev/block/bootdevice/by-name/userdata
+<4>[   27.933643] e2fsck (213) used greatest stack depth: 12216 bytes left
+<14>[   27.939040] e2fsck: e2fsck 1.42.9 (28-Dec-2013)
+<14>[   27.943538] e2fsck: /dev/block/bootdevice/by-name/userdata: clean, 1728/776720 files, 325242/3102323 blocks
+<6>[   27.959213] EXT4-fs (mmcblk0p31): mounted filesystem with ordered data mode. Opts: barrier=1,noauto_da_alloc,discard
+<7>[   27.968760] SELinux: initialized (dev mmcblk0p31, type ext4), uses xattr
+<14>[   27.968830] fs_mgr: __mount(source=/dev/block/bootdevice/by-name/userdata,target=/data,type=ext4)=0
+<6>[   27.983891] EXT4-fs (mmcblk0p26): mounted filesystem with ordered data mode. Opts: barrier=1
+<7>[   27.991354] SELinux: initialized (dev mmcblk0p26, type ext4), uses xattr
+<6>[   27.995788] EXT4-fs (mmcblk0p25): mounted filesystem with ordered data mode. Opts: barrier=1
+<7>[   28.003292] SELinux: initialized (dev mmcblk0p25, type ext4), uses xattr
+<7>[   28.010990] SELinux: initialized (dev mmcblk0p1, type vfat), uses mountpoint labeling
+<6>[   28.014153] pil-q6v5-mss 4080000.qcom,mss: modem: loading from 0x0000000086800000 to 0x000000008bd00000
+<6>[   28.028042] pil-q6v5-mss 4080000.qcom,mss: MBA: loading from 0x00000000ffc00000 to 0x00000000ffd00000
+<6>[   28.074488] pil-q6v5-mss 4080000.qcom,mss: MBA boot done
+<6>[   28.667444] pil-q6v5-mss 4080000.qcom,mss: modem: Brought out of reset
+<6>[   28.765650] pil-q6v5-mss 4080000.qcom,mss: modem: Power/Clock ready interrupt received
+<6>[   28.772576] pil-q6v5-mss 4080000.qcom,mss: Subsystem error monitoring/handling services are up
+<3>[   28.782003] M-Notify: General: 7
+<6>[   28.786685] msm8x16-asoc-wcd sound.64: default codec configured
+<3>[   28.792913] wcd-spmi-core msm8x16_wcd_codec-ffffffc074f90000: Error: regulator not found
+<4>[   28.809343] msm-pcm-routing qcom,msm-pcm-routing.37: ASoC: no dapm match for VOICE2_STUB_DL --> Voice2 Stub --> INTERNAL_BT_SCO_RX_Voice Mixer
+<3>[   28.821137] msm-pcm-routing qcom,msm-pcm-routing.37: ASoC: Failed to add route VOICE2_STUB_DL -> Voice2 Stub -> INTERNAL_BT_SCO_RX_Voice Mixer
+<11>[   28.848904] init: ro.build.fingerprint Ininit: property_get ro.product.brand Bluebird
+<3>[   28.855619] msm-pcm-routing qcom,msm-pcm-routing.37: ASoC: mux SLIM_0_RX AANC MUX has no paths
+<3>[   28.857961] wcd-spmi-core msm8x16_wcd_codec-ffffffc074f90000: ASoC: mux RX3 MIX1 INP3 has no paths
+<3>[   28.858075] wcd-spmi-core msm8x16_wcd_codec-ffffffc074f90000: ASoC: mux RX2 MIX1 INP3 has no paths
+<11>[   28.882249] init: property_get ro.product.name SF550
+<11>[   28.887123] init: property_get ro.product.device SF550
+<11>[   28.895799] init: Detected MSM SOC ID=206 SOC VER=65536 BOARD TYPE=MTP
+<11>[   28.901574] init: failed to open '/sys/class/graphics/fb2/msm_fb_type'
+<11>[   28.914884] init: property 'persist.sys.ssr.enable_debug' doesn't exist while expanding '${persist.sys.ssr.enable_debug}'
+<11>[   28.924986] init: cannot expand '${persist.sys.ssr.enable_debug}' while writing to '/sys/module/subsystem_restart/parameters/enable_debug'
+<11>[   28.937265] init: property 'persist.sys.mba_boot_timeout' doesn't exist while expanding '${persist.sys.mba_boot_timeout}'
+<11>[   28.948174] init: cannot expand '${persist.sys.mba_boot_timeout}' while writing to '/sys/module/pil_msa/parameters/pbl_mba_boot_timeout_ms'
+<11>[   28.960803] init: property 'persist.sys.modem_auth_timeout' doesn't exist while expanding '${persist.sys.modem_auth_timeout}'
+<11>[   28.971960] init: cannot expand '${persist.sys.modem_auth_timeout}' while writing to '/sys/module/pil_msa/parameters/modem_auth_timeout_ms'
+<11>[   28.984472] init: property 'persist.sys.pil_proxy_timeout' doesn't exist while expanding '${persist.sys.pil_proxy_timeout}'
+<11>[   28.995568] init: cannot expand '${persist.sys.pil_proxy_timeout}' while writing to '/sys/module/peripheral_loader/parameters/proxy_timeout_ms'
+<6>[   29.148587] binder: 253:253 transaction failed 29189, size 0-0
+<6>[   29.164108] sps:BAM 0x0000000007884000 (va:0xffffff8000cc0000) enabled: ver:0x18, number of pipes:16
+<11>[   29.207460] init: cannot find '/system/bin/cnss_diag', disabling 'cnss_diag'
+<11>[   29.215743] init: cannot find '/system/bin/qrngd', disabling 'qrngd'
+<11>[   29.223302] init: cannot find '/system/bin/dts_configurator', disabling 'dts_configurator'
+<11>[   29.239442] init: [LYH]bb info BB_SERIAL_FILE 1
+<11>[   29.243514] init: bb info SF550A4LAIRFEE277
+<38>[   29.265554] logd.auditd: start
+<7>[   29.301761] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+<7>[   29.302008] SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+<6>[   29.440053] warning: `ptt_socket_app' uses 32-bit capabilities (legacy support in use)
+<11>[   29.546902] init: BB_USB_SERIAL_FILE 0
+<11>[   29.549638] init: BB_USB_SERIAL_FILE write result : 128
+<3>[   29.556189] enable_store: android_usb: already disabled
+<6>[   29.563087] read descriptors
+<6>[   29.563104] read strings
+<6>[   29.563150] mtp_bind_config
+<4>[   29.587630] getprop (266) used greatest stack depth: 12168 bytes left
+<4>[   29.589762] sh (258) used greatest stack depth: 11896 bytes left
+<11>[   29.654261] init: cannot find '/system/bin/ipacm-diag', disabling 'ipacm-diag'
+<11>[   29.666224] init: cannot find '/system/bin/ipacm', disabling 'ipacm'
+<12>[   30.155999] healthd: BatteryTechnologyPath not found
+<12>[   30.165584] healthd: battery l=100 v=4229 t=31.0 h=2 st=3 c=619 chg=
+<6>[   30.287010] msm_thermal:set_enabled enabled = 0
+<3>[   30.356996] diag: In diag_dci_write_proc, invalid data 0xffffffc074290000, peripheral: 0, len: 527
+<6>[   30.374833] apr_tal:Modem Is Up
+<14>[   30.494555] avc:  denied  { set } for property=sys.listeners.registered scontext=u:r:tee:s0 tcontext=u:object_r:system_prop:s0 tclass=property_service
+<11>[   30.494580] init: sys_prop: permission denied uid:1000  name:sys.listeners.registered
+<6>[   30.611309] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> MultiMedia1 mapping ok
+<6>[   30.612002] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> MultiMedia2 mapping ok
+<6>[   30.612497] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> CS-VOICE mapping ok
+<6>[   30.613738] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> VoIP mapping ok
+<6>[   30.614378] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> MultiMedia3 mapping ok
+<6>[   30.615535] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> PRI_MI2S_RX_HOSTLESS mapping ok
+<6>[   30.617196] input input0: Already in awake state
+<6>[   30.617320] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> INT_FM_HOSTLESS mapping ok
+<6>[   30.618422] msm8x16-asoc-wcd sound.64:  msm-stub-rx <-> qcom,msm-dai-q6-afe-proxy-rx.13 mapping ok
+<6>[   30.620995] msm8x16-asoc-wcd sound.64:  msm-stub-tx <-> qcom,msm-dai-q6-afe-proxy-tx.13 mapping ok
+<6>[   30.621781] compress asoc: snd-soc-dummy-dai <-> MultiMedia4 mapping ok
+<6>[   30.622284] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> AUXPCM_HOSTLESS mapping ok
+<6>[   30.622609] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> TERT_MI2S_TX_HOSTLESS mapping ok
+<6>[   30.623166] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> MultiMedia5 mapping ok
+<6>[   30.623625] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> Voice2 mapping ok
+<6>[   30.624248] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> MultiMedia9 mapping ok
+<6>[   30.627133] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> VoLTE mapping ok
+<6>[   30.628035] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> VoWLAN mapping ok
+<6>[   30.628416] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> INT_HFP_BT_HOSTLESS mapping ok
+<6>[   30.628891] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> MultiMedia6 mapping ok
+<6>[   30.629196] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> LSM1 mapping ok
+<6>[   30.629494] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> LSM2 mapping ok
+<6>[   30.630421] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> LSM3 mapping ok
+<6>[   30.631090] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> LSM4 mapping ok
+<6>[   30.631546] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> LSM5 mapping ok
+<6>[   30.632388] compress asoc: snd-soc-dummy-dai <-> MultiMedia7 mapping ok
+<6>[   30.635129] msm8x16-asoc-wcd sound.64:  snd-soc-dummy-dai <-> QUAT_MI2S_RX_HOSTLESS mapping ok
+<6>[   30.636503] msm8x16-asoc-wcd sound.64:  msm8x16_wcd_i2s_rx1 <-> qcom,msm-dai-q6-mi2s-prim.144 mapping ok
+<6>[   30.641533] msm8x16-asoc-wcd sound.64:  msm-stub-rx <-> qcom,msm-dai-q6-mi2s-sec.145 mapping ok
+<6>[   30.641822] msm8x16-asoc-wcd sound.64:  msm8x16_wcd_i2s_tx1 <-> qcom,msm-dai-q6-mi2s-tert.147 mapping ok
+<6>[   30.642027] msm8x16-asoc-wcd sound.64:  msm-stub-rx <-> qcom,msm-dai-q6-bt-sco-rx.132 mapping ok
+<6>[   30.642206] msm8x16-asoc-wcd sound.64:  msm-stub-tx <-> qcom,msm-dai-q6-bt-sco-tx.133 mapping ok
+<6>[   30.642398] msm8x16-asoc-wcd sound.64:  msm-stub-rx <-> qcom,msm-dai-q6-int-fm-rx.134 mapping ok
+<6>[   30.642568] msm8x16-asoc-wcd sound.64:  msm-stub-tx <-> qcom,msm-dai-q6-int-fm-tx.135 mapping ok
+<6>[   30.642754] msm8x16-asoc-wcd sound.64:  msm-stub-rx <-> qcom,msm-dai-q6-be-afe-pcm-rx.1 mapping ok
+<6>[   30.642932] msm8x16-asoc-wcd sound.64:  msm-stub-tx <-> qcom,msm-dai-q6-be-afe-pcm-tx.1 mapping ok
+<6>[   30.643130] msm8x16-asoc-wcd sound.64:  msm-stub-tx <-> qcom,msm-dai-q6-incall-record-t mapping ok
+<6>[   30.643310] msm8x16-asoc-wcd sound.64:  msm-stub-tx <-> qcom,msm-dai-q6-incall-record-r mapping ok
+<6>[   30.644491] msm8x16-asoc-wcd sound.64:  msm-stub-rx <-> qcom,msm-dai-q6-incall-music-rx mapping ok
+<6>[   30.644888] msm8x16-asoc-wcd sound.64:  msm-stub-rx <-> qcom,msm-dai-q6-incall-music-2- mapping ok
+<6>[   30.672153] input: msm8x16-snd-card-mtp Button Jack as /devices/soc.0/sound.64/sound/card0/input6
+<6>[   30.672358] input: msm8x16-snd-card-mtp Headset Jack as /devices/soc.0/sound.64/sound/card0/input7
+<4>[   30.708447] QSEECOM: qseecom_load_app: App (keymaste) does'nt exist, loading apps for first time
+<4>[   30.719532] QSEECOM: qseecom_load_app: App with id 3 (keymaste) now loaded
+<14>[   30.877059] avc:  denied  { set } for property=sys.keymaster.loaded scontext=u:r:tee:s0 tcontext=u:object_r:system_prop:s0 tclass=property_service
+<11>[   30.877082] init: sys_prop: permission denied uid:1000  name:sys.keymaster.loaded
+<6>[   30.926980] sps:BAM 0x0000000004044000 is registered.
+<6>[   30.927063] sps:BAM 0x0000000004044000 (va:0xffffff8002ce0000) enabled: ver:0x25, number of pipes:6
+<3>[   30.938743] Generating power_down_setting
+<3>[   30.941716] msm_camera_fill_vreg_params:76 i 3 j 2 cam_vana
+<3>[   30.947493] msm_camera_fill_vreg_params:65 i 4 j 1 cam_vio
+<3>[   30.952856] msm_camera_fill_vreg_params:54 i 5 j 0 cam_vdig
+<3>[   30.958296] msm_camera_fill_vreg_params:87 i 6 j 3 cam_vaf
+<3>[   30.963800] msm_camera_fill_vreg_params:87 i 5 j 3 cam_vaf
+<3>[   30.969231] msm_camera_fill_vreg_params:54 i 6 j 0 cam_vdig
+<3>[   30.974823] msm_camera_fill_vreg_params:65 i 7 j 1 cam_vio
+<3>[   30.980256] msm_camera_fill_vreg_params:76 i 8 j 2 cam_vana
+<6>[   31.016401] input input0: Already in awake state
+<3>[   31.130892]  msm_cci_init: Failed in getting TOP gdscr regulator handle
+<6>[   31.136780] msm_cci_init:763: hw_version = 0x10000008
+<3>[   31.136940] msm_cci_irq:930 MASTER_0 error 0x10000000
+<3>[   31.141561] msm_cci_i2c_read:428 read_words = 0, exp words = 1
+<3>[   31.147320] msm_cci_i2c_read_bytes:506 failed rc -22
+<3>[   31.152313] msm_camera_cci_i2c_read: line 48 rc = -22
+<3>[   31.157298] msm_sensor_match_id: s5k3l8: read id failed
+<3>[   31.162843] msm_sensor_check_id:1328 match id failed rc -22
+<7>[   31.470458] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+<3>[   31.480747]  msm_cci_init: Failed in getting TOP gdscr regulator handle
+<6>[   31.487235] msm_cci_init:763: hw_version = 0x10000008
+<3>[   31.487426] msm_cci_irq:930 MASTER_0 error 0x10000000
+<3>[   31.491508] msm_cci_i2c_read:428 read_words = 0, exp words = 1
+<3>[   31.497257] msm_cci_i2c_read_bytes:506 failed rc -22
+<3>[   31.502266] msm_camera_cci_i2c_read: line 48 rc = -22
+<3>[   31.507237] msm_sensor_match_id: s5k3l8: read id failed
+<3>[   31.512598] msm_sensor_check_id:1328 match id failed rc -22
+<3>[   31.555930] diag: In diag_process_smd_read_data, diag_device_write error: -19
+<7>[   31.577839] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+<3>[   31.820789]  msm_cci_init: Failed in getting TOP gdscr regulator handle
+<6>[   31.827266] msm_cci_init:763: hw_version = 0x10000008
+<3>[   31.834810] msm_cci_irq:930 MASTER_0 error 0x10000000
+<3>[   31.838887] msm_cci_i2c_read:428 read_words = 0, exp words = 1
+<3>[   31.844753] msm_cci_i2c_read_bytes:506 failed rc -22
+<3>[   31.849595] msm_camera_cci_i2c_read: line 48 rc = -22
+<3>[   31.854693] msm_sensor_match_id: s5k3l8: read id failed
+<3>[   31.859832] msm_sensor_check_id:1328 match id failed rc -22
+<3>[   32.030672] s5k3l8 power up failed
+<3>[   32.032865] MSM-SENSOR-INIT msm_sensor_driver_cmd:80 failed: msm_sensor_driver_probe rc -22
+<3>[   32.043081] Generating power_down_setting
+<3>[   32.045885] msm_camera_fill_vreg_params:65 i 0 j 1 cam_vio
+<3>[   32.051690] msm_camera_fill_vreg_params:76 i 1 j 2 cam_vana
+<3>[   32.057079] msm_camera_fill_vreg_params:54 i 2 j 0 cam_vdig
+<3>[   32.062730] msm_camera_fill_vreg_params:54 i 6 j 0 cam_vdig
+<3>[   32.068190] msm_camera_fill_vreg_params:76 i 7 j 2 cam_vana
+<3>[   32.073783] msm_camera_fill_vreg_params:65 i 8 j 1 cam_vio
+<3>[   32.110104]  msm_cci_init: Failed in getting TOP gdscr regulator handle
+<6>[   32.115911] msm_cci_init:763: hw_version = 0x10000008
+<3>[   32.116391] msm_cci_irq:930 MASTER_0 error 0x10000000
+<3>[   32.120798] msm_cci_i2c_read:428 read_words = 0, exp words = 1
+<3>[   32.126545] msm_cci_i2c_read_bytes:506 failed rc -22
+<3>[   32.131514] msm_camera_cci_i2c_read: line 48 rc = -22
+<3>[   32.136512] msm_sensor_match_id: s5k5e8_8909: read id failed
+<3>[   32.142231] msm_sensor_check_id:1328 match id failed rc -22
+<6>[   32.183857] wcnss_wlan triggered by userspace
+<6>[   32.184085] wcnss_pm_qos_add_request: add request
+<6>[   32.184099] wcnss_pm_qos_update_request: update request 100
+<6>[   32.184580] snoc_qosgen configured successfully
+<6>[   32.184738] wcnss_notif_cb: wcnss notification event: 2
+<6>[   32.187850] subsys-pil-tz a21b000.qcom,pronto: wcnss: loading from 0x000000008bd00000 to 0x000000008c2f1000
+<6>[   32.188138] wcnss_notif_cb: wcnss notification event: 6
+<6>[   32.190072] wcnss: IRIS Reg: 04000004
+<3>[   32.229373]  msm_cci_init: Failed in getting TOP gdscr regulator handle
+<6>[   32.235135] msm_cci_init:763: hw_version = 0x10000008
+<3>[   32.235620] msm_cci_irq:930 MASTER_0 error 0x10000000
+<3>[   32.240029] msm_cci_i2c_read:428 read_words = 0, exp words = 1
+<3>[   32.245847] msm_cci_i2c_read_bytes:506 failed rc -22
+<3>[   32.250832] msm_camera_cci_i2c_read: line 48 rc = -22
+<3>[   32.255801] msm_sensor_match_id: s5k5e8_8909: read id failed
+<3>[   32.261521] msm_sensor_check_id:1328 match id failed rc -22
+<3>[   32.349595]  msm_cci_init: Failed in getting TOP gdscr regulator handle
+<6>[   32.355519] msm_cci_init:763: hw_version = 0x10000008
+<3>[   32.356028] msm_cci_irq:930 MASTER_0 error 0x10000000
+<3>[   32.360257] msm_cci_i2c_read:428 read_words = 0, exp words = 1
+<3>[   32.366412] msm_cci_i2c_read_bytes:506 failed rc -22
+<3>[   32.370994] msm_camera_cci_i2c_read: line 48 rc = -22
+<3>[   32.375999] msm_sensor_match_id: s5k5e8_8909: read id failed
+<3>[   32.381674] msm_sensor_check_id:1328 match id failed rc -22
+<3>[   32.440647] s5k5e8_8909 power up failed
+<3>[   32.443275] MSM-SENSOR-INIT msm_sensor_driver_cmd:80 failed: msm_sensor_driver_probe rc -22
+<6>[   32.445527] subsys-pil-tz a21b000.qcom,pronto: wcnss: Brought out of reset
+<3>[   32.452326] msm_cci_release invalid ref count 0 / cci state 1
+<3>[   32.457510] msm_sensor_cci_i2c_util line 497 rc = -22
+<3>[   32.462613] msm_actuator_close:877 cci_init failed
+<3>[   32.471126] msm_vfe40_init_qos_parms: NO D/S entries found
+<3>[   32.475572] msm_vfe40_init_vbif_parms: NO VBIF entries found
+<6>[   32.498367] MSM-CPP cpp_init_hardware:953 CPP HW Version: 0x40000000
+<3>[   32.498380] MSM-CPP cpp_init_hardware:974 stream_cnt:0
+<6>[   32.548691] MSM-CPP cpp_load_fw:1111 MC Bootloader Version: 0x312e3176
+<6>[   32.554845] MSM-CPP cpp_load_fw:1124 CPP FW Version: 0x10040005
+<6>[   32.779778] subsys-pil-tz a21b000.qcom,pronto: wcnss: Power/Clock ready interrupt received
+<6>[   32.780078] wcnss_notif_cb: wcnss notification event: 7
+<6>[   32.798530] subsys-pil-tz a21b000.qcom,pronto: Subsystem error monitoring/handling services are up
+<6>[   32.798744] wcnss_notif_cb: wcnss notification event: 3
+<6>[   32.798769] wcnss_pm_qos_update_request: update request -1
+<6>[   32.798779] wcnss_pm_qos_remove_request: remove request
+<6>[   32.932006] wcnss_wlan_ctrl_probe: SMD ctrl channel up
+<6>[   32.932332] wcnss: version 01050102
+<6>[   32.932350] wcnss: schedule dnld work for pronto
+<6>[   32.932595] wcnss: build version CNSS-PR-2-0-1-1-c1-00192
+<6>[   32.932357] wcnss: NV download
+<6>[   32.938208] wcnss: NV bin size: 29812, total_fragments: 10
+<3>[   32.938258] wcnss: no space available for smd frame
+<3>[   32.970720] wcnss: no space available for smd frame
+<3>[   33.000754] wcnss: no space available for smd frame
+<3>[   33.030714] wcnss: no space available for smd frame
+<3>[   35.308097] msm_qti_pp_get_rms_value_control, back not active to query rms be_idx:3
+<6>[   35.317615] core_get_license_status: cmdrsp_license_result.result = 0x15 for module 0x1
+<3>[   35.317853] msm_dolby_dap_param_to_get_control_get, port_id not set, do not query ADM
+<3>[   35.325094] APR: Wrong parameters
+<3>[   35.327939] adm_get_params: Failed to Get Params on port_id 0x0 -22
+<3>[   35.334375] msm_dolby_dap_param_visualizer_control_get: get parameters failed
+<3>[   35.342165] msm_pcm_volume_ctl_get substream runtime not found
+<3>[   35.347528] msm_pcm_volume_ctl_get substream runtime not found
+<3>[   35.353671] msm_pcm_volume_ctl_get substream runtime not found
+<3>[   35.358934] msm_pcm_volume_ctl_get substream runtime not found
+<3>[   35.364809] msm_pcm_volume_ctl_get substream runtime not found
+<3>[   35.417001] wcdcal_hwdep_ioctl_shared: incorrect firmware size -1423802984 for mad
+<3>[   35.426084] msm_ds2_dap_set_security_control: dmid 0 license key 0
+<3>[   35.431286] core_set_license: Invalid cal block to send
+<3>[   35.436898] wcdcal_hwdep_ioctl_shared: incorrect firmware size -1423802984 for mad
+<12>[   40.021626] healthd: battery l=100 v=4231 t=32.0 h=2 st=3 c=567 chg=
+<6>[   40.235933] lowmemorykiller: lowmem_shrink: convert oom_adj to oom_score_adj:
+<6>[   40.235945] lowmemorykiller: oom_adj 0 => oom_score_adj 0
+<6>[   40.235950] lowmemorykiller: oom_adj 1 => oom_score_adj 58
+<6>[   40.235954] lowmemorykiller: oom_adj 2 => oom_score_adj 117
+<6>[   40.235959] lowmemorykiller: oom_adj 3 => oom_score_adj 176
+<6>[   40.235964] lowmemorykiller: oom_adj 9 => oom_score_adj 529
+<6>[   40.235968] lowmemorykiller: oom_adj 15 => oom_score_adj 1000
+<3>[   40.573555] msm_qti_pp_get_rms_value_control, back not active to query rms be_idx:3
+<6>[   40.582492] core_get_license_status: cmdrsp_license_result.result = 0x15 for module 0x1
+<3>[   40.582684] msm_dolby_dap_param_to_get_control_get, port_id not set, do not query ADM
+<3>[   40.589790] adm_callback: cmd = 0x1032a returned error = 0x2
+<3>[   40.595123] adm_callback: ADM get param error = 2, resuming
+<3>[   41.580682] adm_get_params: get params timed out port_id = 0x0
+<3>[   41.585546] msm_dolby_dap_param_visualizer_control_get: get parameters failed
+<3>[   41.593154] msm_pcm_volume_ctl_get substream runtime not found
+<3>[   41.598606] msm_pcm_volume_ctl_get substream runtime not found
+<3>[   41.604860] msm_pcm_volume_ctl_get substream runtime not found
+<3>[   41.610259] msm_pcm_volume_ctl_get substream runtime not found
+<3>[   41.616202] msm_pcm_volume_ctl_get substream runtime not found
+<6>[   41.672773] acc_open
+<6>[   41.672796] acc_release
+<6>[   42.178247] wcnss: received WCNSS_CBC_COMPLETE_IND from FW
+<6>[   42.620067] evrc_in_open:session id 1: NT mode encoder success
+<6>[   42.620077] evrc_in_open:session id 1: success
+<6>[   42.621690] audio_in_release: session id 1
+<6>[   42.628513] qcelp_in_open:session id 1: NT mode encoder success
+<6>[   42.628523] qcelp_in_open:session id 1: success
+<6>[   42.630024] audio_in_release: session id 1
+<6>[   42.635457] msm_vidc: info: Opening video instance: ffffffc0737bc000, 0
+<6>[   42.666193] subsys-pil-tz 1de0000.qcom,venus: venus: loading from 0x000000008ed00000 to 0x000000008f200000
+<6>[   42.730585] subsys-pil-tz 1de0000.qcom,venus: venus: Brought out of reset
+<6>[   42.762240] msm_vidc: info: Closed video instance: ffffffc0737bc000
+<6>[   42.763082] msm_vidc: info: Opening video instance: ffffffc0738b2000, 0
+<6>[   42.768722] msm_vidc: info: Closed video instance: ffffffc0738b2000
+<6>[   42.769516] msm_vidc: info: Opening video instance: ffffffc06dfda000, 0
+<6>[   42.775155] msm_vidc: info: Closed video instance: ffffffc06dfda000
+<6>[   42.775876] msm_vidc: info: Opening video instance: ffffffc06dfda000, 0
+<6>[   42.781690] msm_vidc: info: Closed video instance: ffffffc06dfda000
+<6>[   42.800000] msm_vidc: info: Opening video instance: ffffffc06dfda000, 1
+<6>[   42.815556] msm_vidc: info: Closed video instance: ffffffc06dfda000
+<6>[   42.816270] msm_vidc: info: Opening video instance: ffffffc0737be000, 1
+<6>[   42.829832] msm_vidc: info: Closed video instance: ffffffc0737be000
+<6>[   42.830525] msm_vidc: info: Opening video instance: ffffffc043a86000, 1
+<6>[   42.838147] msm_vidc: info: Closed video instance: ffffffc043a86000
+<6>[   42.838763] msm_vidc: info: Opening video instance: ffffffc043ad4000, 1
+<6>[   42.846541] msm_vidc: info: Closed video instance: ffffffc043ad4000
+<6>[   42.847189] msm_vidc: info: Opening video instance: ffffffc0439ec000, 1
+<6>[   42.854616] msm_vidc: info: Closed video instance: ffffffc0439ec000
+<6>[   42.855247] msm_vidc: info: Opening video instance: ffffffc043b0a000, 1
+<6>[   42.862711] msm_vidc: info: Closed video instance: ffffffc043b0a000
+<6>[   42.863442] msm_vidc: info: Opening video instance: ffffffc06d942000, 1
+<6>[   42.874667] msm_vidc: info: Closed video instance: ffffffc06d942000
+<6>[   42.875834] msm_vidc: info: Opening video instance: ffffffc043b22000, 1
+<6>[   42.889482] msm_vidc: info: Closed video instance: ffffffc043b22000
+<6>[   42.890084] msm_vidc: info: Opening video instance: ffffffc043aa0000, 1
+<6>[   42.899978] msm_vidc: info: Closed video instance: ffffffc043aa0000
+<6>[   42.901693] msm_vidc: info: Opening video instance: ffffffc0738b4000, 1
+<6>[   42.909592] msm_vidc: info: Closed video instance: ffffffc0738b4000
+<6>[   42.910349] msm_vidc: info: Opening video instance: ffffffc0439e8000, 1
+<6>[   42.916639] msm_vidc: info: Closed video instance: ffffffc0439e8000
+<4>[   43.035175] TimedEventQueue (1117) used greatest stack depth: 10456 bytes left
+<6>[   47.793765] binder: 1285:1299 refcount change on invalid ref 104
+<6>[   47.815116] binder: 1285:1858 refcount change on invalid ref 104
+<6>[   47.815127] binder: 1285:1858 refcount change on invalid ref 104
+<3>[   47.815134] binder: transaction release 13305 bad handle 104
+<6>[   97.511206] binder: release 1064:1064 transaction 17154 out, still active
+<6>[   97.515397] binder: 804:983 transaction failed 29189, size 324-0
+<6>[   97.516413] binder: 804:2117 transaction failed 29189, size 96-0
+<6>[  138.278684] SysRq : Show Blocked State
+<6>[  138.281400]   task                        PC stack   pid father
+<6>[  138.281409] kworker/u8:0    D ffffffc000204c30 12952     6      2 0x00000000
+<6>[  138.281431] Workqueue: mpm msm_mpm_work_fn
+<6>[  138.281436] Call trace:
+<6>[  138.281445] [<ffffffc000204c30>] __switch_to+0x70/0x7c
+<6>[  138.281453] [<ffffffc000bd378c>] __schedule+0x4f4/0x71c
+<6>[  138.281460] [<ffffffc000bd3a18>] schedule+0x64/0x70
+<6>[  138.281468] [<ffffffc000bd1508>] schedule_timeout+0x2c/0x238
+<6>[  138.281475] [<ffffffc000bd3074>] wait_for_common+0xfc/0x140
+<6>[  138.281482] [<ffffffc000bd30c8>] wait_for_completion+0x10/0x1c
+<6>[  138.281489] [<ffffffc0004ef63c>] msm_mpm_work_fn+0x30/0x94
+<6>[  138.281497] [<ffffffc00023565c>] process_one_work+0x258/0x3d0
+<6>[  138.281504] [<ffffffc00023669c>] worker_thread+0x1f0/0x340
+<6>[  138.281512] [<ffffffc00023bb68>] kthread+0xac/0xb8
+<6>[  138.281532] kworker/u9:0    D ffffffc000204c30 12776    43      2 0x00000000
+<6>[  138.281551] Workqueue: rpm-smd msm_rpm_smd_work
+<6>[  138.281555] Call trace:
+<6>[  138.281563] [<ffffffc000204c30>] __switch_to+0x70/0x7c
+<6>[  138.281569] [<ffffffc000bd378c>] __schedule+0x4f4/0x71c
+<6>[  138.281576] [<ffffffc000bd3a18>] schedule+0x64/0x70
+<6>[  138.281582] [<ffffffc000bd1508>] schedule_timeout+0x2c/0x238
+<6>[  138.281589] [<ffffffc000bd3074>] wait_for_common+0xfc/0x140
+<6>[  138.281595] [<ffffffc000bd30c8>] wait_for_completion+0x10/0x1c
+<6>[  138.281602] [<ffffffc0004f0ff8>] msm_rpm_smd_work+0x50/0x178
+<6>[  138.281609] [<ffffffc00023565c>] process_one_work+0x258/0x3d0
+<6>[  138.281615] [<ffffffc00023669c>] worker_thread+0x1f0/0x340
+<6>[  138.281623] [<ffffffc00023bb68>] kthread+0xac/0xb8
+<6>[  138.281643] mdss_dsi_event  D ffffffc000204c30 14376   122      2 0x00000000
+<6>[  138.281658] Call trace:
+<6>[  138.281666] [<ffffffc000204c30>] __switch_to+0x70/0x7c
+<6>[  138.281673] [<ffffffc000bd378c>] __schedule+0x4f4/0x71c
+<6>[  138.281679] [<ffffffc000bd3a18>] schedule+0x64/0x70
+<6>[  138.281688] [<ffffffc0004c59b0>] dsi_event_thread+0x110/0x468
+<6>[  138.281695] [<ffffffc00023bb68>] kthread+0xac/0xb8
+<6>[  138.281808] mdss_fb0        D ffffffc000204c30 11672   515      2 0x00000000
+<6>[  138.281821] Call trace:
+<6>[  138.281829] [<ffffffc000204c30>] __switch_to+0x70/0x7c
+<6>[  138.281836] [<ffffffc000bd378c>] __schedule+0x4f4/0x71c
+<6>[  138.281842] [<ffffffc000bd3a18>] schedule+0x64/0x70
+<6>[  138.281851] [<ffffffc0004d54ac>] __mdss_fb_display_thread+0xd4/0x2c4
+<6>[  138.281858] [<ffffffc00023bb68>] kthread+0xac/0xb8
+<6>[  138.282062] Sched Debug Version: v0.10, 3.10.49 #1
+<6>[  138.282067] ktime                                   : 138251.454009
+<6>[  138.282073] sched_clk                               : 138282.059692
+<6>[  138.282078] cpu_clk                                 : 138282.059796
+<6>[  138.282083] jiffies                                 : 4294951120
+<6>[  138.282087] 
+<6>[  138.282091] sysctl_sched
+<6>[  138.282096]   .sysctl_sched_latency                    : 10.000000
+<6>[  138.282101]   .sysctl_sched_min_granularity            : 2.250000
+<6>[  138.282107]   .sysctl_sched_wakeup_granularity         : 2.000000
+<6>[  138.282112]   .sysctl_sched_child_runs_first           : 0
+<6>[  138.282117]   .sysctl_sched_features                   : 11835
+<6>[  138.282122]   .sched_small_task                        : 1000000
+<6>[  138.282127]   .sched_upmigrate                         : 8000000
+<6>[  138.282132]   .sched_downmigrate                       : 6000000
+<6>[  138.282137]   .sched_init_task_load_windows            : 1500000
+<6>[  138.282142]   .sched_init_task_load_pelt               : 7161
+<6>[  138.282147]   .min_capacity                            : 1024
+<6>[  138.282152]   .max_capacity                            : 1024
+<6>[  138.282157]   .sched_use_pelt                          : 0
+<6>[  138.282161]   .sched_ravg_window                       : 10000000
+<6>[  138.282167]   .sysctl_sched_tunable_scaling            : 1 (logaritmic)
+<6>[  138.282171] 
+<6>[  138.282176] cpu#0
+<6>[  138.282180]   .nr_running                    : 0
+<6>[  138.282186]   .load                          : 0
+<6>[  138.282190]   .nr_switches                   : 86394
+<6>[  138.282195]   .nr_load_updates               : 5975
+<6>[  138.282200]   .nr_uninterruptible            : -293
+<6>[  138.282206]   .next_balance                  : 4294.950954
+<6>[  138.282210]   .curr->pid                     : 0
+<6>[  138.282216]   .clock                         : 136603.326353
+<6>[  138.282221]   .cpu_load[0]                   : 0
+<6>[  138.282225]   .cpu_load[1]                   : 11
+<6>[  138.282230]   .cpu_load[2]                   : 122
+<6>[  138.282234]   .cpu_load[3]                   : 262
+<6>[  138.282239]   .cpu_load[4]                   : 351
+<6>[  138.282244]   .cpu_power                     : 1023
+<6>[  138.282249]   .mostly_idle_load              : 2000000
+<6>[  138.282253]   .mostly_idle_nr_run            : 3
+<6>[  138.282258]   .load_scale_factor             : 1024
+<6>[  138.282263]   .capacity                      : 1024
+<6>[  138.282268]   .max_possible_capacity         : 1024
+<6>[  138.282273]   .efficiency                    : 1024
+<6>[  138.282278]   .cur_freq                      : 1209600
+<6>[  138.282283]   .max_freq                      : 1209600
+<6>[  138.282288]   .nr_big_tasks                  : 0
+<6>[  138.282293]   .nr_small_tasks                : 0
+<6>[  138.282297]   .yld_count                     : 1585
+<6>[  138.282301]   .sched_count                   : 89219
+<6>[  138.282306]   .sched_goidle                  : 20271
+<6>[  138.282311]   .avg_idle                      : 377404
+<6>[  138.282316]   .ttwu_count                    : 60548
+<6>[  138.282320]   .ttwu_local                    : 39718
+<6>[  138.282327] 
+<6>[  138.282327] cfs_rq[0]:/
+<6>[  138.282334]   .exec_clock                    : 25208.106171
+<6>[  138.282340]   .MIN_vruntime                  : 0.000001
+<6>[  138.282345]   .min_vruntime                  : 286831.378619
+<6>[  138.282350]   .max_vruntime                  : 0.000001
+<6>[  138.282355]   .spread                        : 0.000000
+<6>[  138.282361]   .spread0                       : 0.000000
+<6>[  138.282366]   .nr_spread_over                : 555
+<6>[  138.282370]   .nr_running                    : 0
+<6>[  138.282375]   .load                          : 0
+<6>[  138.282380]   .runnable_load_avg             : 0
+<6>[  138.282385]   .blocked_load_avg              : 532
+<6>[  138.282390]   .tg_load_avg                   : 646
+<6>[  138.282395]   .tg_load_contrib               : 532
+<6>[  138.282400]   .tg_runnable_contrib           : 33
+<6>[  138.282404]   .tg->runnable_avg              : 239
+<6>[  138.282409]   .avg->runnable_avg_sum         : 1528
+<6>[  138.282414]   .avg->runnable_avg_period      : 46400
+<6>[  138.282420] 
+<6>[  138.282420] rt_rq[0]:/bg_non_interactive
+<6>[  138.282427]   .rt_nr_running                 : 0
+<6>[  138.282431]   .rt_throttled                  : 0
+<6>[  138.282436]   .rt_time                       : 0.000000
+<6>[  138.282442]   .rt_runtime                    : 700.000000
+<6>[  138.282447] 
+<6>[  138.282447] rt_rq[0]:/
+<6>[  138.282453]   .rt_nr_running                 : 0
+<6>[  138.282457]   .rt_throttled                  : 0
+<6>[  138.282462]   .rt_time                       : 0.000000
+<6>[  138.282468]   .rt_runtime                    : 800.000000
+<6>[  138.282475] 
+<6>[  138.282475] runnable tasks:
+<6>[  138.282475]             task   PID         tree-key  switches  prio     exec-runtime         sum-exec        sum-sleep
+<6>[  138.282475] ----------------------------------------------------------------------------------------------------------
+<6>[  138.282631] 
+<6>[  138.282636] cpu#1
+<6>[  138.282640]   .nr_running                    : 0
+<6>[  138.282644]   .load                          : 0
+<6>[  138.282649]   .nr_switches                   : 54307
+<6>[  138.282654]   .nr_load_updates               : 4207
+<6>[  138.282659]   .nr_uninterruptible            : 214
+<6>[  138.282663]   .next_balance                  : 4294.950941
+<6>[  138.282668]   .curr->pid                     : 0
+<6>[  138.282673]   .clock                         : 136470.679582
+<6>[  138.282678]   .cpu_load[0]                   : 1024
+<6>[  138.282683]   .cpu_load[1]                   : 846
+<6>[  138.282687]   .cpu_load[2]                   : 698
+<6>[  138.282692]   .cpu_load[3]                   : 675
+<6>[  138.282696]   .cpu_load[4]                   : 688
+<6>[  138.282701]   .cpu_power                     : 1023
+<6>[  138.282706]   .mostly_idle_load              : 2000000
+<6>[  138.282711]   .mostly_idle_nr_run            : 3
+<6>[  138.282716]   .load_scale_factor             : 1024
+<6>[  138.282720]   .capacity                      : 1024
+<6>[  138.282725]   .max_possible_capacity         : 1024
+<6>[  138.282730]   .efficiency                    : 1024
+<6>[  138.282735]   .cur_freq                      : 1209600
+<6>[  138.282739]   .max_freq                      : 1209600
+<6>[  138.282744]   .nr_big_tasks                  : 0
+<6>[  138.282749]   .nr_small_tasks                : 0
+<6>[  138.282754]   .yld_count                     : 1696
+<6>[  138.282759]   .sched_count                   : 57000
+<6>[  138.282763]   .sched_goidle                  : 14152
+<6>[  138.282768]   .avg_idle                      : 1000000
+<6>[  138.282773]   .ttwu_count                    : 25533
+<6>[  138.282778]   .ttwu_local                    : 14029
+<6>[  138.282783] 
+<6>[  138.282783] cfs_rq[1]:/
+<6>[  138.282789]   .exec_clock                    : 16006.552012
+<6>[  138.282794]   .MIN_vruntime                  : 0.000001
+<6>[  138.282800]   .min_vruntime                  : 199276.201403
+<6>[  138.282805]   .max_vruntime                  : 0.000001
+<6>[  138.282810]   .spread                        : 0.000000
+<6>[  138.282815]   .spread0                       : -87555.177216
+<6>[  138.282820]   .nr_spread_over                : 483
+<6>[  138.282825]   .nr_running                    : 0
+<6>[  138.282830]   .load                          : 0
+<6>[  138.282834]   .runnable_load_avg             : 0
+<6>[  138.282839]   .blocked_load_avg              : 1
+<6>[  138.282843]   .tg_load_avg                   : 646
+<6>[  138.282849]   .tg_load_contrib               : 1
+<6>[  138.282854]   .tg_runnable_contrib           : 88
+<6>[  138.282858]   .tg->runnable_avg              : 239
+<6>[  138.282863]   .avg->runnable_avg_sum         : 4097
+<6>[  138.282868]   .avg->runnable_avg_period      : 46805
+<6>[  138.282873] 
+<6>[  138.282873] rt_rq[1]:/bg_non_interactive
+<6>[  138.282879]   .rt_nr_running                 : 0
+<6>[  138.282884]   .rt_throttled                  : 0
+<6>[  138.282889]   .rt_time                       : 0.000000
+<6>[  138.282894]   .rt_runtime                    : 700.000000
+<6>[  138.282899] 
+<6>[  138.282899] rt_rq[1]:/
+<6>[  138.282905]   .rt_nr_running                 : 0
+<6>[  138.282909]   .rt_throttled                  : 0
+<6>[  138.282914]   .rt_time                       : 0.000000
+<6>[  138.282919]   .rt_runtime                    : 800.000000
+<6>[  138.282925] 
+<6>[  138.282925] runnable tasks:
+<6>[  138.282925]             task   PID         tree-key  switches  prio     exec-runtime         sum-exec        sum-sleep
+<6>[  138.282925] ----------------------------------------------------------------------------------------------------------
+<6>[  138.283082] 
+<6>[  138.283086] cpu#2
+<6>[  138.283090]   .nr_running                    : 1
+<6>[  138.283096]   .load                          : 1024
+<6>[  138.283100]   .nr_switches                   : 30070
+<6>[  138.283105]   .nr_load_updates               : 1842
+<6>[  138.283110]   .nr_uninterruptible            : 110
+<6>[  138.283115]   .next_balance                  : 4294.951121
+<6>[  138.283120]   .curr->pid                     : 1176
+<6>[  138.283126]   .clock                         : 138270.743233
+<6>[  138.283131]   .cpu_load[0]                   : 2048
+<6>[  138.283135]   .cpu_load[1]                   : 1024
+<6>[  138.283140]   .cpu_load[2]                   : 512
+<6>[  138.283144]   .cpu_load[3]                   : 256
+<6>[  138.283149]   .cpu_load[4]                   : 128
+<6>[  138.283154]   .cpu_power                     : 1023
+<6>[  138.283159]   .mostly_idle_load              : 2000000
+<6>[  138.283163]   .mostly_idle_nr_run            : 3
+<6>[  138.283168]   .load_scale_factor             : 1024
+<6>[  138.283172]   .capacity                      : 1024
+<6>[  138.283177]   .max_possible_capacity         : 1024
+<6>[  138.283182]   .efficiency                    : 1024
+<6>[  138.283187]   .cur_freq                      : 1209600
+<6>[  138.283192]   .max_freq                      : 1209600
+<6>[  138.283196]   .nr_big_tasks                  : 0
+<6>[  138.283201]   .nr_small_tasks                : 1
+<6>[  138.283206]   .yld_count                     : 843
+<6>[  138.283210]   .sched_count                   : 31545
+<6>[  138.283215]   .sched_goidle                  : 5483
+<6>[  138.283220]   .avg_idle                      : 1000000
+<6>[  138.283224]   .ttwu_count                    : 16006
+<6>[  138.283229]   .ttwu_local                    : 8064
+<6>[  138.283234] 
+<6>[  138.283234] cfs_rq[2]:/
+<6>[  138.283240]   .exec_clock                    : 8507.657092
+<6>[  138.283246]   .MIN_vruntime                  : 0.000001
+<6>[  138.283251]   .min_vruntime                  : 186273.249591
+<6>[  138.283256]   .max_vruntime                  : 0.000001
+<6>[  138.283261]   .spread                        : 0.000000
+<6>[  138.283266]   .spread0                       : -100558.129028
+<6>[  138.283271]   .nr_spread_over                : 350
+<6>[  138.283277]   .nr_running                    : 1
+<6>[  138.283281]   .load                          : 1024
+<6>[  138.283286]   .runnable_load_avg             : 113
+<6>[  138.283291]   .blocked_load_avg              : 114
+<6>[  138.283295]   .tg_load_avg                   : 646
+<6>[  138.283300]   .tg_load_contrib               : 113
+<6>[  138.283305]   .tg_runnable_contrib           : 118
+<6>[  138.283309]   .tg->runnable_avg              : 239
+<6>[  138.283314]   .avg->runnable_avg_sum         : 5446
+<6>[  138.283319]   .avg->runnable_avg_period      : 46766
+<6>[  138.283324] 
+<6>[  138.283324] rt_rq[2]:/bg_non_interactive
+<6>[  138.283330]   .rt_nr_running                 : 0
+<6>[  138.283335]   .rt_throttled                  : 0
+<6>[  138.283340]   .rt_time                       : 0.000000
+<6>[  138.283345]   .rt_runtime                    : 700.000000
+<6>[  138.283350] 
+<6>[  138.283350] rt_rq[2]:/
+<6>[  138.283356]   .rt_nr_running                 : 0
+<6>[  138.283361]   .rt_throttled                  : 0
+<6>[  138.283366]   .rt_time                       : 0.005572
+<6>[  138.283371]   .rt_runtime                    : 800.000000
+<6>[  138.283378] 
+<6>[  138.283378] runnable tasks:
+<6>[  138.283378]             task   PID         tree-key  switches  prio     exec-runtime         sum-exec        sum-sleep
+<6>[  138.283378] ----------------------------------------------------------------------------------------------------------
+<6>[  138.283460] R       watchdog  1176    186274.184329       513   120    186274.184329        42.864273     95488.039667 /
+<6>[  138.283549] 
+<6>[  138.283553] cpu#3
+<6>[  138.283558]   .nr_running                    : 0
+<6>[  138.283563]   .load                          : 0
+<6>[  138.283567]   .nr_switches                   : 22920
+<6>[  138.283572]   .nr_load_updates               : 1316
+<6>[  138.283576]   .nr_uninterruptible            : -27
+<6>[  138.283582]   .next_balance                  : 4294.950741
+<6>[  138.283587]   .curr->pid                     : 0
+<6>[  138.283592]   .clock                         : 136040.649425
+<6>[  138.283597]   .cpu_load[0]                   : 0
+<6>[  138.283601]   .cpu_load[1]                   : 0
+<6>[  138.283606]   .cpu_load[2]                   : 0
+<6>[  138.283610]   .cpu_load[3]                   : 0
+<6>[  138.283615]   .cpu_load[4]                   : 0
+<6>[  138.283620]   .cpu_power                     : 1023
+<6>[  138.283624]   .mostly_idle_load              : 2000000
+<6>[  138.283629]   .mostly_idle_nr_run            : 3
+<6>[  138.283633]   .load_scale_factor             : 1024
+<6>[  138.283639]   .capacity                      : 1024
+<6>[  138.283643]   .max_possible_capacity         : 1024
+<6>[  138.283648]   .efficiency                    : 1024
+<6>[  138.283653]   .cur_freq                      : 1209600
+<6>[  138.283658]   .max_freq                      : 1209600
+<6>[  138.283663]   .nr_big_tasks                  : 0
+<6>[  138.283667]   .nr_small_tasks                : 0
+<6>[  138.283672]   .yld_count                     : 905
+<6>[  138.283677]   .sched_count                   : 24413
+<6>[  138.283682]   .sched_goidle                  : 3618
+<6>[  138.283687]   .avg_idle                      : 1000000
+<6>[  138.283691]   .ttwu_count                    : 12986
+<6>[  138.283696]   .ttwu_local                    : 6137
+<6>[  138.283701] 
+<6>[  138.283701] cfs_rq[3]:/bg_non_interactive
+<6>[  138.283708]   .exec_clock                    : 1342.967644
+<6>[  138.283714]   .MIN_vruntime                  : 0.000001
+<6>[  138.283718]   .min_vruntime                  : 3977.900641
+<6>[  138.283724]   .max_vruntime                  : 0.000001
+<6>[  138.283729]   .spread                        : 0.000000
+<6>[  138.283735]   .spread0                       : -282853.477978
+<6>[  138.283739]   .nr_spread_over                : 58
+<6>[  138.283744]   .nr_running                    : 0
+<6>[  138.283749]   .load                          : 0
+<6>[  138.283754]   .runnable_load_avg             : 0
+<6>[  138.283758]   .blocked_load_avg              : 0
+<6>[  138.283763]   .tg_load_avg                   : 0
+<6>[  138.283768]   .tg_load_contrib               : 0
+<6>[  138.283773]   .tg_runnable_contrib           : 0
+<6>[  138.283778]   .tg->runnable_avg              : 0
+<6>[  138.283783]   .se->exec_start                : 135893.488382
+<6>[  138.283789]   .se->vruntime                  : 156295.582981
+<6>[  138.283794]   .se->sum_exec_runtime          : 1345.148899
+<6>[  138.283799]   .se->statistics.wait_start     : 0.000000
+<6>[  138.283804]   .se->statistics.sleep_start    : 0.000000
+<6>[  138.283810]   .se->statistics.block_start    : 0.000000
+<6>[  138.283815]   .se->statistics.sleep_max      : 0.000000
+<6>[  138.283820]   .se->statistics.block_max      : 0.000000
+<6>[  138.283825]   .se->statistics.exec_max       : 10.002865
+<6>[  138.283831]   .se->statistics.slice_max      : 5.058021
+<6>[  138.283835]   .se->statistics.wait_max       : 12.971615
+<6>[  138.283841]   .se->statistics.wait_sum       : 684.529197
+<6>[  138.283846]   .se->statistics.wait_count     : 2703
+<6>[  138.283850]   .se->load.weight               : 2
+<6>[  138.283855]   .se->avg.runnable_avg_sum      : 28
+<6>[  138.283860]   .se->avg.runnable_avg_period   : 47719
+<6>[  138.283864]   .se->avg.load_avg_contrib      : 0
+<6>[  138.283869]   .se->avg.decay_count           : 129599
+<6>[  138.283874] 
+<6>[  138.283874] cfs_rq[3]:/
+<6>[  138.283881]   .exec_clock                    : 6196.487636
+<6>[  138.283886]   .MIN_vruntime                  : 0.000001
+<6>[  138.283891]   .min_vruntime                  : 156296.980768
+<6>[  138.283896]   .max_vruntime                  : 0.000001
+<6>[  138.283901]   .spread                        : 0.000000
+<6>[  138.283907]   .spread0                       : -130534.397851
+<6>[  138.283912]   .nr_spread_over                : 271
+<6>[  138.283917]   .nr_running                    : 0
+<6>[  138.283922]   .load                          : 0
+<6>[  138.283926]   .runnable_load_avg             : 0
+<6>[  138.283931]   .blocked_load_avg              : 0
+<6>[  138.283936]   .tg_load_avg                   : 646
+<6>[  138.283941]   .tg_load_contrib               : 0
+<6>[  138.283945]   .tg_runnable_contrib           : 0
+<6>[  138.283950]   .tg->runnable_avg              : 239
+<6>[  138.283955]   .avg->runnable_avg_sum         : 37
+<6>[  138.283960]   .avg->runnable_avg_period      : 47456
+<6>[  138.283965] 
+<6>[  138.283965] rt_rq[3]:/bg_non_interactive
+<6>[  138.283971]   .rt_nr_running                 : 0
+<6>[  138.283976]   .rt_throttled                  : 0
+<6>[  138.283980]   .rt_time                       : 0.000000
+<6>[  138.283985]   .rt_runtime                    : 700.000000
+<6>[  138.283990] 
+<6>[  138.283990] rt_rq[3]:/
+<6>[  138.283997]   .rt_nr_running                 : 0
+<6>[  138.284001]   .rt_throttled                  : 0
+<6>[  138.284006]   .rt_time                       : 0.000000
+<6>[  138.284011]   .rt_runtime                    : 800.000000
+<6>[  138.284017] 
+<6>[  138.284017] runnable tasks:
+<6>[  138.284017]             task   PID         tree-key  switches  prio     exec-runtime         sum-exec        sum-sleep
+<6>[  138.284017] ----------------------------------------------------------------------------------------------------------
+<6>[  138.284172] 
+<6>[  138.284496] SysRq : Show backtrace of all active CPUs
+<6>[  138.288514] Backtrace for cpu 2 (current):
+<6>[  138.288523] CPU: 2 PID: 1176 Comm: watchdog Tainted: G        W    3.10.49 #1
+<6>[  138.288528] Call trace:
+<6>[  138.288537] [<ffffffc000206a2c>] dump_backtrace+0x0/0x248
+<6>[  138.288545] [<ffffffc000206c84>] show_stack+0x10/0x1c
+<6>[  138.288553] [<ffffffc000bccce0>] dump_stack+0x1c/0x28
+<6>[  138.288561] [<ffffffc00020d884>] arch_trigger_all_cpu_backtrace+0x60/0xd4
+<6>[  138.288570] [<ffffffc00054840c>] sysrq_handle_showallcpus+0x8/0x14
+<6>[  138.288578] [<ffffffc0005489cc>] __handle_sysrq+0xa4/0x158
+<6>[  138.288586] [<ffffffc000548df0>] write_sysrq_trigger+0x58/0x70
+<6>[  138.288594] [<ffffffc000344284>] proc_reg_write+0x64/0x84
+<6>[  138.288602] [<ffffffc0002f68e0>] vfs_write+0xcc/0x178
+<6>[  138.288609] [<ffffffc0002f6fc0>] SyS_write+0x44/0x74
+<6>[  138.288614] 
+<6>[  138.288614] sending IPI to all other CPUs:
+<4>[  138.288625] IPI backtrace for cpu 3
+<6>[  138.291985] 
+<6>[  138.291993] CPU: 3 PID: 0 Comm: swapper/3 Tainted: G        W    3.10.49 #1
+<6>[  138.291999] task: ffffffc00c3dab00 ti: ffffffc075168000 task.ti: ffffffc075168000
+<6>[  138.292008] PC is at lpm_cpuidle_enter+0x448/0x4c8
+<6>[  138.292015] LR is at lpm_cpuidle_enter+0x434/0x4c8
+<6>[  138.292020] pc : [<ffffffc00085b324>] lr : [<ffffffc00085b310>] pstate: 80000145
+<6>[  138.292025] sp : ffffffc07516be50
+<6>[  138.292030] x29: ffffffc07516be50 x28: 0000000000000001 
+<6>[  138.292038] x27: ffffffc073bff018 x26: ffffffc000c00fd8 
+<6>[  138.292046] x25: ffffffc001564000 x24: 00000000000003e8 
+<6>[  138.292054] x23: ffffffc001568e98 x22: ffffffc077f16270 
+<6>[  138.292062] x21: ffffffc073408818 x20: 0000000000000000 
+<6>[  138.292069] x19: ffffffc075168000 x18: 0000007f7cd25470 
+<6>[  138.292077] x17: 0000007f7fadf664 x16: ffffffc000332040 
+<6>[  138.292085] x15: 0000000000430000 x14: 000000000000004c 
+<6>[  138.292092] x13: ffffffc000c021e0 x12: 0000000000000004 
+<6>[  138.292100] x11: 000000000000001c x10: 0000000000000000 
+<6>[  138.292107] x9 : ffffffc077f13d48 x8 : 00380742d6d2fc00 
+<6>[  138.292115] x7 : 0000000000000018 x6 : 0000000034155555 
+<6>[  138.292122] x5 : 00000000121ed3a0 x4 : 0000000000000089 
+<6>[  138.292130] x3 : 00ffffffffffffff x2 : 0000000225c17d03 
+<6>[  138.292137] x1 : 0000001fe5d61a00 x0 : 00000000001ca7b4 
+<6>[  138.292145] 
+<6>[  138.292145] PC: 0xffffffc00085b224:
+<6>[  138.292152] b220  f9400260b9005260 940de29036080040 913882f72a1403e0 97ff1e599101e2f7 52800021f9424ea0 b94008008b1b1400 53001c1c97ff1683 2a1403e02a1c03e1
+<6>[  138.292174] b260  b9400ae097ff1f8c b940526034000260 b900526011000400 b4000117f94012f7 2a1403e1f94002e3 2a1c03e2f94006e0 f8410ee0d63f0060 b9405260b5ffff40
+<6>[  138.292193] b2a0  b900526051000400 36080040f9400260 aa1503e0940de26f 2a1403e2aa1a03e1 97fffe2752800023 b9405661f9424ea0 b9008fa18b1b141b 3500008039403360
+<6>[  138.292214] b2e0  6b00029fb9448aa0 d28000a05400008b 97e85753910233a1 5280000197efd840 2a0103e32a0103e2 97e8412397e7b65b d2807d18cb180000 b9000ac09ad80800
+<6>[  138.292234] b320  91370339d50342ff b9400b20b94006d6 97e8d582340002a0 11000400b9405260 f9401335b9005260 f94002a3b4000115 f94006a012800001 d63f00602a1603e2
+<6>[  138.292254] b360  b5ffff40f8410ea0 51000400b9405260 f9400260b9005260 940de23c36080040 2a1403e097e8d547 a9425bf5a94153f3 a9446bf9a94363f7 a8c97bfda94573fb
+<6>[  138.292274] b3a0  52800140d65f03c0 a9be7bfdd65f03c0 a90153f3910003fd 2a0103f4aa0003f3 121e7800b9401000 540000417100041f 7100129f940382af f00021e0540001e8
+<6>[  138.292295] b3e0  387448009107a000 8b20882010000061 52800020d61f0000 5280006014000002 94038213b9001260 b900127f14000005 b900127f14000003 9400057e52800014
+<6>[  138.292316] b420  340000c053001c00 2a1403e1f9400260 97f2dc1052800022 f940026014000005 528000222a1403e1 2a0003f397f2dc11 f00021e134000120 9107c021f0004040
+<6>[  138.292337] 
+<6>[  138.292337] LR: 0xffffffc00085b210:
+<6>[  138.292343] b210  b5ffff60f8410f80 51000400b9405260 f9400260b9005260 940de29036080040 913882f72a1403e0 97ff1e599101e2f7 52800021f9424ea0 b94008008b1b1400
+<6>[  138.292363] b250  53001c1c97ff1683 2a1403e02a1c03e1 b9400ae097ff1f8c b940526034000260 b900526011000400 b4000117f94012f7 2a1403e1f94002e3 2a1c03e2f94006e0
+<6>[  138.292383] b290  f8410ee0d63f0060 b9405260b5ffff40 b900526051000400 36080040f9400260 aa1503e0940de26f 2a1403e2aa1a03e1 97fffe2752800023 b9405661f9424ea0
+<6>[  138.292403] b2d0  b9008fa18b1b141b 3500008039403360 6b00029fb9448aa0 d28000a05400008b 97e85753910233a1 5280000197efd840 2a0103e32a0103e2 97e8412397e7b65b
+<6>[  138.292424] b310  d2807d18cb180000 b9000ac09ad80800 91370339d50342ff b9400b20b94006d6 97e8d582340002a0 11000400b9405260 f9401335b9005260 f94002a3b4000115
+<6>[  138.292444] b350  f94006a012800001 d63f00602a1603e2 b5ffff40f8410ea0 51000400b9405260 f9400260b9005260 940de23c36080040 2a1403e097e8d547 a9425bf5a94153f3
+<6>[  138.292464] b390  a9446bf9a94363f7 a8c97bfda94573fb 52800140d65f03c0 a9be7bfdd65f03c0 a90153f3910003fd 2a0103f4aa0003f3 121e7800b9401000 540000417100041f
+<6>[  138.292484] b3d0  7100129f940382af f00021e0540001e8 387448009107a000 8b20882010000061 52800020d61f0000 5280006014000002 94038213b9001260 b900127f14000005
+<6>[  138.292505] 
+<6>[  138.292505] SP: 0xffffffc07516bd50:
+<6>[  138.292511] bd50  0000000000000089 00000000121ed3a0 0000000034155555 0000000000000018 00380742d6d2fc00 ffffffc077f13d48 0000000000000000 000000000000001c
+<6>[  138.292531] bd90  0000000000000004 ffffffc000c021e0 000000000000004c 0000000000430000 ffffffc000332040 0000007f7fadf664 0000007f7cd25470 ffffffc075168000
+<6>[  138.292550] bdd0  0000000000000000 ffffffc073408818 ffffffc077f16270 ffffffc001568e98 00000000000003e8 ffffffc001564000 ffffffc000c00fd8 ffffffc073bff018
+<6>[  138.292570] be10  0000000000000001 ffffffc07516be50 ffffffc00085b310 ffffffc07516be50 ffffffc00085b324 0000000080000145 ffffffc001568e98 0000001fc0e2d34a
+<6>[  138.292590] be50  ffffffc07516bee0 ffffffc000857708 ffffffc077f16270 0000000000000000 0000001fc0e2d2e2 ffffffc07346c800 ffffffc001726000 0000000000000000
+<6>[  138.292610] be90  000000008007b000 000000008007d000 ffffffc000200180 0000004080000000 ffffffc077f16270 0000000000000000 0000000000000002 ffffffc001726000
+<6>[  138.292630] bed0  ffffffc001726000 0000000300000000 ffffffc07516bf20 ffffffc000857864 ffffffc077f16270 0000000000000000 0000000000000002 0000004080000000
+<6>[  138.292650] bf10  ffffffc07346c800 0000000000000002 ffffffc07516bf70 ffffffc0002047e4 ffffffc075168000 0000000000000e11 ffffffc001563e66 ffffffc0015fe3f0
+<6>[  138.292669] 
+<4>[  138.292675] IPI backtrace for cpu 1
+<6>[  138.295456] 
+<6>[  138.295463] CPU: 1 PID: 0 Comm: swapper/1 Tainted: G        W    3.10.49 #1
+<6>[  138.295470] task: ffffffc00c3d9580 ti: ffffffc075160000 task.ti: ffffffc075160000
+<6>[  138.295477] PC is at lpm_cpuidle_enter+0x448/0x4c8
+<6>[  138.295483] LR is at lpm_cpuidle_enter+0x434/0x4c8
+<6>[  138.295489] pc : [<ffffffc00085b324>] lr : [<ffffffc00085b310>] pstate: 80000145
+<6>[  138.295494] sp : ffffffc075163e50
+<6>[  138.295499] x29: ffffffc075163e50 x28: 0000000000000001 
+<6>[  138.295506] x27: ffffffc073bff018 x26: ffffffc000c00fc8 
+<6>[  138.295515] x25: ffffffc001564000 x24: 00000000000003e8 
+<6>[  138.295522] x23: ffffffc001568e98 x22: ffffffc077ef4270 
+<6>[  138.295530] x21: ffffffc073408818 x20: 0000000000000000 
+<6>[  138.295538] x19: ffffffc075160000 x18: 0000000000000010 
+<6>[  138.295545] x17: 0000000000000220 x16: 0000000000000001 
+<6>[  138.295553] x15: 0000000000000000 x14: 0000000000001000 
+<6>[  138.295561] x13: 0000000000000001 x12: 0000000000127500 
+<6>[  138.295568] x11: 0000000000000001 x10: 0000000000000000 
+<6>[  138.295576] x9 : ffffffc077ef1d48 x8 : 00380742d6d2fc00 
+<6>[  138.295583] x7 : 0000000000000018 x6 : 0000000034155555 
+<6>[  138.295591] x5 : 00000000121ed3a0 x4 : 0000000000000089 
+<6>[  138.295599] x3 : 00ffffffffffffff x2 : 0000000225c17d03 
+<6>[  138.295606] x1 : 0000001fe5d61a00 x0 : 00000000001bbd4d 
+<6>[  138.295614] 
+<6>[  138.295614] PC: 0xffffffc00085b224:
+<6>[  138.295620] b220  f9400260b9005260 940de29036080040 913882f72a1403e0 97ff1e599101e2f7 52800021f9424ea0 b94008008b1b1400 53001c1c97ff1683 2a1403e02a1c03e1
+<6>[  138.295641] b260  b9400ae097ff1f8c b940526034000260 b900526011000400 b4000117f94012f7 2a1403e1f94002e3 2a1c03e2f94006e0 f8410ee0d63f0060 b9405260b5ffff40
+<6>[  138.295661] b2a0  b900526051000400 36080040f9400260 aa1503e0940de26f 2a1403e2aa1a03e1 97fffe2752800023 b9405661f9424ea0 b9008fa18b1b141b 3500008039403360
+<6>[  138.295681] b2e0  6b00029fb9448aa0 d28000a05400008b 97e85753910233a1 5280000197efd840 2a0103e32a0103e2 97e8412397e7b65b d2807d18cb180000 b9000ac09ad80800
+<6>[  138.295701] b320  91370339d50342ff b9400b20b94006d6 97e8d582340002a0 11000400b9405260 f9401335b9005260 f94002a3b4000115 f94006a012800001 d63f00602a1603e2
+<6>[  138.295721] b360  b5ffff40f8410ea0 51000400b9405260 f9400260b9005260 940de23c36080040 2a1403e097e8d547 a9425bf5a94153f3 a9446bf9a94363f7 a8c97bfda94573fb
+<6>[  138.295741] b3a0  52800140d65f03c0 a9be7bfdd65f03c0 a90153f3910003fd 2a0103f4aa0003f3 121e7800b9401000 540000417100041f 7100129f940382af f00021e0540001e8
+<6>[  138.295762] b3e0  387448009107a000 8b20882010000061 52800020d61f0000 5280006014000002 94038213b9001260 b900127f14000005 b900127f14000003 9400057e52800014
+<6>[  138.295781] b420  340000c053001c00 2a1403e1f9400260 97f2dc1052800022 f940026014000005 528000222a1403e1 2a0003f397f2dc11 f00021e134000120 9107c021f0004040
+<6>[  138.295803] 
+<6>[  138.295803] LR: 0xffffffc00085b210:
+<6>[  138.295808] b210  b5ffff60f8410f80 51000400b9405260 f9400260b9005260 940de29036080040 913882f72a1403e0 97ff1e599101e2f7 52800021f9424ea0 b94008008b1b1400
+<6>[  138.295828] b250  53001c1c97ff1683 2a1403e02a1c03e1 b9400ae097ff1f8c b940526034000260 b900526011000400 b4000117f94012f7 2a1403e1f94002e3 2a1c03e2f94006e0
+<6>[  138.295848] b290  f8410ee0d63f0060 b9405260b5ffff40 b900526051000400 36080040f9400260 aa1503e0940de26f 2a1403e2aa1a03e1 97fffe2752800023 b9405661f9424ea0
+<6>[  138.295868] b2d0  b9008fa18b1b141b 3500008039403360 6b00029fb9448aa0 d28000a05400008b 97e85753910233a1 5280000197efd840 2a0103e32a0103e2 97e8412397e7b65b
+<6>[  138.295888] b310  d2807d18cb180000 b9000ac09ad80800 91370339d50342ff b9400b20b94006d6 97e8d582340002a0 11000400b9405260 f9401335b9005260 f94002a3b4000115
+<6>[  138.295908] b350  f94006a012800001 d63f00602a1603e2 b5ffff40f8410ea0 51000400b9405260 f9400260b9005260 940de23c36080040 2a1403e097e8d547 a9425bf5a94153f3
+<6>[  138.295929] b390  a9446bf9a94363f7 a8c97bfda94573fb 52800140d65f03c0 a9be7bfdd65f03c0 a90153f3910003fd 2a0103f4aa0003f3 121e7800b9401000 540000417100041f
+<6>[  138.295948] b3d0  7100129f940382af f00021e0540001e8 387448009107a000 8b20882010000061 52800020d61f0000 5280006014000002 94038213b9001260 b900127f14000005
+<6>[  138.295969] 
+<6>[  138.295969] SP: 0xffffffc075163d50:
+<6>[  138.295975] 3d50  0000000000000089 00000000121ed3a0 0000000034155555 0000000000000018 00380742d6d2fc00 ffffffc077ef1d48 0000000000000000 0000000000000001
+<6>[  138.295994] 3d90  0000000000127500 0000000000000001 0000000000001000 0000000000000000 0000000000000001 0000000000000220 0000000000000010 ffffffc075160000
+<6>[  138.296014] 3dd0  0000000000000000 ffffffc073408818 ffffffc077ef4270 ffffffc001568e98 00000000000003e8 ffffffc001564000 ffffffc000c00fc8 ffffffc073bff018
+<6>[  138.296033] 3e10  0000000000000001 ffffffc075163e50 ffffffc00085b310 ffffffc075163e50 ffffffc00085b324 0000000080000145 ffffffc001568e98 0000001fc47676fa
+<6>[  138.296053] 3e50  ffffffc075163ee0 ffffffc000857708 ffffffc077ef4270 0000000000000000 0000001fc476765d ffffffc07346c800 ffffffc001726000 0000000000000000
+<6>[  138.296073] 3e90  000000008007b000 000000008007d000 ffffffc000200180 0000004080000000 ffffffc077ef4270 0000000000000000 0000000000000002 ffffffc001726000
+<6>[  138.296093] 3ed0  ffffffc001726000 0000000100000000 ffffffc075163f20 ffffffc000857864 ffffffc077ef4270 0000000000000000 0000000000000002 0000004080000000
+<6>[  138.296112] 3f10  ffffffc07346c800 0000000000000002 ffffffc075163f70 ffffffc0002047e4 ffffffc075160000 0000000000000e11 ffffffc001563e66 ffffffc0015fe3f0
+<6>[  138.296132] 
+<4>[  138.296137] IPI backtrace for cpu 0
+<6>[  138.298928] 
+<6>[  138.298935] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W    3.10.49 #1
+<6>[  138.298942] task: ffffffc001434860 ti: ffffffc001428000 task.ti: ffffffc001428000
+<6>[  138.298949] PC is at lpm_cpuidle_enter+0x448/0x4c8
+<6>[  138.298955] LR is at lpm_cpuidle_enter+0x434/0x4c8
+<6>[  138.298962] pc : [<ffffffc00085b324>] lr : [<ffffffc00085b310>] pstate: 80000145
+<6>[  138.298966] sp : ffffffc00142bdd0
+<6>[  138.298970] x29: ffffffc00142bdd0 x28: 0000000000000001 
+<6>[  138.298979] x27: ffffffc073bff018 x26: ffffffc000c00fc0 
+<6>[  138.298987] x25: ffffffc001564000 x24: 00000000000003e8 
+<6>[  138.298995] x23: ffffffc001568e98 x22: ffffffc077ee3270 
+<6>[  138.299002] x21: ffffffc073408818 x20: 0000000000000000 
+<6>[  138.299010] x19: ffffffc001428000 x18: 0000000000000000 
+<6>[  138.299018] x17: 0000000000000000 x16: 0000000000000000 
+<6>[  138.299025] x15: 0000000000000004 x14: 0ffffffffffffffe 
+<6>[  138.299033] x13: 0000000000000020 x12: 0101010101010101 
+<6>[  138.299040] x11: 7f7f7f7f7f7f7f7f x10: 0000000000000000 
+<6>[  138.299048] x9 : ffffffc077ee0d48 x8 : 00380742d6d2fc00 
+<6>[  138.299055] x7 : 0000000000000018 x6 : 0000000034155555 
+<6>[  138.299063] x5 : 00000000121ed3a0 x4 : 0000000000000089 
+<6>[  138.299070] x3 : 00ffffffffffffff x2 : 0000000225c17d03 
+<6>[  138.299078] x1 : 0000001fe5d61a00 x0 : 000000000013320f 
+<6>[  138.299086] 
+<6>[  138.299086] PC: 0xffffffc00085b224:
+<6>[  138.299092] b220  f9400260b9005260 940de29036080040 913882f72a1403e0 97ff1e599101e2f7 52800021f9424ea0 b94008008b1b1400 53001c1c97ff1683 2a1403e02a1c03e1
+<6>[  138.299112] b260  b9400ae097ff1f8c b940526034000260 b900526011000400 b4000117f94012f7 2a1403e1f94002e3 2a1c03e2f94006e0 f8410ee0d63f0060 b9405260b5ffff40
+<6>[  138.299132] b2a0  b900526051000400 36080040f9400260 aa1503e0940de26f 2a1403e2aa1a03e1 97fffe2752800023 b9405661f9424ea0 b9008fa18b1b141b 3500008039403360
+<6>[  138.299152] b2e0  6b00029fb9448aa0 d28000a05400008b 97e85753910233a1 5280000197efd840 2a0103e32a0103e2 97e8412397e7b65b d2807d18cb180000 b9000ac09ad80800
+<6>[  138.299172] b320  91370339d50342ff b9400b20b94006d6 97e8d582340002a0 11000400b9405260 f9401335b9005260 f94002a3b4000115 f94006a012800001 d63f00602a1603e2
+<6>[  138.299193] b360  b5ffff40f8410ea0 51000400b9405260 f9400260b9005260 940de23c36080040 2a1403e097e8d547 a9425bf5a94153f3 a9446bf9a94363f7 a8c97bfda94573fb
+<6>[  138.299213] b3a0  52800140d65f03c0 a9be7bfdd65f03c0 a90153f3910003fd 2a0103f4aa0003f3 121e7800b9401000 540000417100041f 7100129f940382af f00021e0540001e8
+<6>[  138.299233] b3e0  387448009107a000 8b20882010000061 52800020d61f0000 5280006014000002 94038213b9001260 b900127f14000005 b900127f14000003 9400057e52800014
+<6>[  138.299252] b420  340000c053001c00 2a1403e1f9400260 97f2dc1052800022 f940026014000005 528000222a1403e1 2a0003f397f2dc11 f00021e134000120 9107c021f0004040
+<6>[  138.299273] 
+<6>[  138.299273] LR: 0xffffffc00085b210:
+<6>[  138.299279] b210  b5ffff60f8410f80 51000400b9405260 f9400260b9005260 940de29036080040 913882f72a1403e0 97ff1e599101e2f7 52800021f9424ea0 b94008008b1b1400
+<6>[  138.299299] b250  53001c1c97ff1683 2a1403e02a1c03e1 b9400ae097ff1f8c b940526034000260 b900526011000400 b4000117f94012f7 2a1403e1f94002e3 2a1c03e2f94006e0
+<6>[  138.299319] b290  f8410ee0d63f0060 b9405260b5ffff40 b900526051000400 36080040f9400260 aa1503e0940de26f 2a1403e2aa1a03e1 97fffe2752800023 b9405661f9424ea0
+<6>[  138.299339] b2d0  b9008fa18b1b141b 3500008039403360 6b00029fb9448aa0 d28000a05400008b 97e85753910233a1 5280000197efd840 2a0103e32a0103e2 97e8412397e7b65b
+<6>[  138.299359] b310  d2807d18cb180000 b9000ac09ad80800 91370339d50342ff b9400b20b94006d6 97e8d582340002a0 11000400b9405260 f9401335b9005260 f94002a3b4000115
+<6>[  138.299379] b350  f94006a012800001 d63f00602a1603e2 b5ffff40f8410ea0 51000400b9405260 f9400260b9005260 940de23c36080040 2a1403e097e8d547 a9425bf5a94153f3
+<6>[  138.299399] b390  a9446bf9a94363f7 a8c97bfda94573fb 52800140d65f03c0 a9be7bfdd65f03c0 a90153f3910003fd 2a0103f4aa0003f3 121e7800b9401000 540000417100041f
+<6>[  138.299419] b3d0  7100129f940382af f00021e0540001e8 387448009107a000 8b20882010000061 52800020d61f0000 5280006014000002 94038213b9001260 b900127f14000005
+<6>[  138.299440] 
+<6>[  138.299440] SP: 0xffffffc00142bcd0:
+<6>[  138.299445] bcd0  0000000000000089 00000000121ed3a0 0000000034155555 0000000000000018 00380742d6d2fc00 ffffffc077ee0d48 0000000000000000 7f7f7f7f7f7f7f7f
+<6>[  138.299465] bd10  0101010101010101 0000000000000020 0ffffffffffffffe 0000000000000004 0000000000000000 0000000000000000 0000000000000000 ffffffc001428000
+<6>[  138.299485] bd50  0000000000000000 ffffffc073408818 ffffffc077ee3270 ffffffc001568e98 00000000000003e8 ffffffc001564000 ffffffc000c00fc0 ffffffc073bff018
+<6>[  138.299505] bd90  0000000000000001 ffffffc00142bdd0 ffffffc00085b310 ffffffc00142bdd0 ffffffc00085b324 0000000080000145 ffffffc001568e98 0000001fe5d65cba
+<6>[  138.299525] bdd0  ffffffc00142be60 ffffffc000857708 ffffffc077ee3270 0000000000000000 0000001fe5d65c52 ffffffc07346c800 ffffffc001726000 0000000000000000
+<6>[  138.299544] be10  000000008007b000 000000008007d000 ffffffc000080148 0000004080000000 ffffffc077ee3270 0000000000000000 0000000000000002 ffffffc001726000
+<6>[  138.299564] be50  ffffffc001726000 0000000000000000 ffffffc00142bea0 ffffffc000857864 ffffffc077ee3270 0000000000000000 0000000000000002 0000004080000000
+<6>[  138.299584] be90  ffffffc07346c800 0000000000000002 ffffffc00142bef0 ffffffc0002047e4 ffffffc001428000 ffffffc00142bf98 ffffffc001563e66 ffffffc0015fe3f0
+<6>[  138.299604] 
+<6>[  138.382423] binder: release 804:970 transaction 17154 in, still active
+<6>[  138.382433] binder: send failed reply for transaction 17154, target dead
+<6>[  138.382444] binder: release 804:1393 transaction 17118 in, still active
+<6>[  138.382451] binder: send failed reply for transaction 17118 to 1285:1285
+<6>[  138.382472] binder: release 804:1395 transaction 17161 in, still active
+<6>[  138.382478] binder: send failed reply for transaction 17161 to 1397:1397
+<6>[  138.382503] binder: release 804:2118 transaction 17178 in, still active
+<6>[  138.382509] binder: send failed reply for transaction 17178 to 2120:2120
+<6>[  138.384004] binder: undelivered death notification, 000000556ac23230
+<6>[  138.384013] binder: undelivered death notification, 000000556ac17760
+<6>[  138.384018] binder: undelivered death notification, 000000556ac113a0
+<6>[  138.384024] binder: undelivered death notification, 000000556abf2e00
+<6>[  138.384029] binder: undelivered death notification, 000000556ab8c470
+<6>[  138.384035] binder: undelivered death notification, 000000556ac3d9c0
+<6>[  138.384040] binder: undelivered death notification, 000000556a9af3c0
+<6>[  138.385286] binder: 257:561 transaction failed 29189, size 68-0
+<6>[  138.386355] binder: 1285:1285 transaction failed 29189, size 172-8
+<6>[  138.405521] binder: 1397:1397 transaction failed 29189, size 544-8
+<6>[  138.408552] binder: 1397:1397 transaction failed 29189, size 188-0
+<6>[  138.483278] binder: 1837:1837 transaction failed 29189, size 324-16
+<6>[  138.483837] binder: 1837:1837 transaction failed 29189, size 80-0
+<6>[  138.485094] binder: 1235:1235 transaction failed 29189, size 340-16
+<6>[  138.485524] binder: 1235:1235 transaction failed 29189, size 168-0
+<6>[  138.571677] binder: 1420:1437 transaction failed 29189, size 96-8
+<6>[  138.651375] alarm_release: clear alarm, pending 0
+<6>[  138.651386] alarm_release: clear alarm, pending 0
+<3>[  140.378143] destroy_all_cal_blocks: unmap_cal failed, cal type 2, ret = -22!
+<3>[  140.384296] destroy_all_cal_blocks: unmap_cal failed, cal type 3, ret = -22!
+<3>[  140.391257] destroy_all_cal_blocks: unmap_cal failed, cal type 4, ret = -22!
+<3>[  140.398254] destroy_all_cal_blocks: unmap_cal failed, cal type 5, ret = -22!
+<11>[  140.412109] init: untracked pid 2120 killed by signal 9
+<11>[  140.441774] init: untracked pid 1370 killed by signal 9
+<11>[  140.446205] init: untracked pid 1350 killed by signal 9
+<11>[  140.470923] init: untracked pid 1420 killed by signal 9
+<11>[  140.475340] init: untracked pid 1534 killed by signal 9
+<11>[  140.480493] init: untracked pid 1675 killed by signal 9
+<11>[  140.491211] init: untracked pid 1194 killed by signal 9
+<11>[  140.497765] init: untracked pid 1397 killed by signal 9
+<11>[  140.502211] init: untracked pid 1778 killed by signal 9
+<11>[  140.507337] init: untracked pid 2077 killed by signal 9
+<11>[  140.519666] init: untracked pid 1972 killed by signal 9
+<11>[  140.536251] init: untracked pid 1009 killed by signal 9
+<11>[  140.540685] init: untracked pid 1566 killed by signal 9
+<11>[  140.545907] init: untracked pid 1715 killed by signal 9
+<11>[  140.551081] init: untracked pid 1991 killed by signal 9
+<11>[  140.556213] init: untracked pid 2011 killed by signal 9
+<11>[  140.561626] init: untracked pid 2058 killed by signal 9
+<11>[  140.567887] init: untracked pid 1496 killed by signal 9
+<11>[  140.583301] init: untracked pid 1589 killed by signal 9
+<11>[  140.636674] init: untracked pid 1439 killed by signal 9
+<11>[  140.718732] init: untracked pid 1461 killed by signal 9
+<7>[  140.769160] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+<3>[  143.766141] msm_qti_pp_get_rms_value_control, back not active to query rms be_idx:3
+<6>[  143.774856] core_get_license_status: cmdrsp_license_result.result = 0x15 for module 0x1
+<3>[  143.775000] msm_dolby_dap_param_to_get_control_get, port_id not set, do not query ADM
+<3>[  143.782186] adm_callback: cmd = 0x1032a returned error = 0x2
+<3>[  143.787439] adm_callback: ADM get param error = 2, resuming
+<12>[  144.683811] healthd: battery l=100 v=4236 t=32.0 h=2 st=3 c=473 chg=
+<3>[  144.780675] adm_get_params: get params timed out port_id = 0x0
+<3>[  144.785470] msm_dolby_dap_param_visualizer_control_get: get parameters failed
+<3>[  144.793318] msm_pcm_volume_ctl_get substream runtime not found
+<3>[  144.798704] msm_pcm_volume_ctl_get substream runtime not found
+<3>[  144.804924] msm_pcm_volume_ctl_get substream runtime not found
+<3>[  144.810305] msm_pcm_volume_ctl_get substream runtime not found
+<3>[  144.816262] msm_pcm_volume_ctl_get substream runtime not found
+<6>[  144.869267] lowmemorykiller: lowmem_shrink: convert oom_adj to oom_score_adj:
+<6>[  144.869276] lowmemorykiller: oom_adj 0 => oom_score_adj 0
+<6>[  144.869281] lowmemorykiller: oom_adj 1 => oom_score_adj 58
+<6>[  144.869286] lowmemorykiller: oom_adj 2 => oom_score_adj 117
+<6>[  144.869291] lowmemorykiller: oom_adj 3 => oom_score_adj 176
+<6>[  144.869296] lowmemorykiller: oom_adj 9 => oom_score_adj 529
+<6>[  144.869301] lowmemorykiller: oom_adj 15 => oom_score_adj 1000
+<3>[  144.871939] wcdcal_hwdep_ioctl_shared: incorrect firmware size -1425187448 for mad
+<3>[  144.879168] msm_ds2_dap_set_security_control: dmid 0 license key 0
+<3>[  144.884723] core_set_license: Invalid cal block to send
+<3>[  144.890239] wcdcal_hwdep_ioctl_shared: incorrect firmware size -1425187448 for mad
+<3>[  145.016390] msm_qti_pp_get_rms_value_control, back not active to query rms be_idx:3
+<6>[  145.024933] core_get_license_status: cmdrsp_license_result.result = 0x15 for module 0x1
+<3>[  145.025082] msm_dolby_dap_param_to_get_control_get, port_id not set, do not query ADM
+<3>[  145.032294] adm_callback: cmd = 0x1032a returned error = 0x2
+<3>[  145.037513] adm_callback: ADM get param error = 2, resuming
+<3>[  146.030647] adm_get_params: get params timed out port_id = 0x0
+<3>[  146.035450] msm_dolby_dap_param_visualizer_control_get: get parameters failed
+<3>[  146.043176] msm_pcm_volume_ctl_get substream runtime not found
+<3>[  146.048557] msm_pcm_volume_ctl_get substream runtime not found
+<3>[  146.054581] msm_pcm_volume_ctl_get substream runtime not found
+<3>[  146.060135] msm_pcm_volume_ctl_get substream runtime not found
+<3>[  146.066037] msm_pcm_volume_ctl_get substream runtime not found
+<6>[  146.106322] acc_open
+<6>[  146.106346] acc_release
+<6>[  146.824617] evrc_in_open:session id 1: NT mode encoder success
+<6>[  146.824628] evrc_in_open:session id 1: success
+<6>[  146.827166] audio_in_release: session id 1
+<6>[  146.834760] qcelp_in_open:session id 1: NT mode encoder success
+<6>[  146.834770] qcelp_in_open:session id 1: success
+<6>[  146.837568] audio_in_release: session id 1
+<6>[  146.840169] msm_vidc: info: Opening video instance: ffffffc043b04000, 0
+<6>[  146.851033] subsys-pil-tz 1de0000.qcom,venus: venus: loading from 0x000000008ed00000 to 0x000000008f200000
+<6>[  146.895337] subsys-pil-tz 1de0000.qcom,venus: venus: Brought out of reset
+<6>[  146.940356] msm_vidc: info: Closed video instance: ffffffc043b04000
+<6>[  146.941235] msm_vidc: info: Opening video instance: ffffffc043a84000, 0
+<6>[  146.958211] msm_vidc: info: Closed video instance: ffffffc043a84000
+<6>[  146.959040] msm_vidc: info: Opening video instance: ffffffc06d944000, 0
+<6>[  146.967526] msm_vidc: info: Closed video instance: ffffffc06d944000
+<6>[  146.968340] msm_vidc: info: Opening video instance: ffffffc043a84000, 0
+<6>[  146.976417] msm_vidc: info: Closed video instance: ffffffc043a84000
+<6>[  146.986672] msm_vidc: info: Opening video instance: ffffffc043a84000, 1
+<6>[  147.007619] msm_vidc: info: Closed video instance: ffffffc043a84000
+<6>[  147.008323] msm_vidc: info: Opening video instance: ffffffc043ad6000, 1
+<6>[  147.028701] msm_vidc: info: Closed video instance: ffffffc043ad6000
+<6>[  147.029462] msm_vidc: info: Opening video instance: ffffffc0439ee000, 1
+<6>[  147.040207] msm_vidc: info: Closed video instance: ffffffc0439ee000
+<6>[  147.041584] msm_vidc: info: Opening video instance: ffffffc0737be000, 1
+<6>[  147.061305] msm_vidc: info: Closed video instance: ffffffc0737be000
+<6>[  147.062009] msm_vidc: info: Opening video instance: ffffffc043b06000, 1
+<6>[  147.074030] msm_vidc: info: Closed video instance: ffffffc043b06000
+<6>[  147.074708] msm_vidc: info: Opening video instance: ffffffc043ad4000, 1
+<6>[  147.084342] msm_vidc: info: Closed video instance: ffffffc043ad4000
+<6>[  147.085029] msm_vidc: info: Opening video instance: ffffffc043b02000, 1
+<6>[  147.095521] msm_vidc: info: Closed video instance: ffffffc043b02000
+<6>[  147.096440] msm_vidc: info: Opening video instance: ffffffc043aa6000, 1
+<6>[  147.108439] msm_vidc: info: Closed video instance: ffffffc043aa6000
+<6>[  147.109390] msm_vidc: info: Opening video instance: ffffffc0738b4000, 1
+<6>[  147.119151] msm_vidc: info: Closed video instance: ffffffc0738b4000
+<6>[  147.119773] msm_vidc: info: Opening video instance: ffffffc043ad0000, 1
+<6>[  147.128869] msm_vidc: info: Closed video instance: ffffffc043ad0000
+<6>[  147.129508] msm_vidc: info: Opening video instance: ffffffc043b1a000, 1
+<6>[  147.137559] msm_vidc: info: Closed video instance: ffffffc043b1a000
+<4>[  147.241198] TimedEventQueue (2564) used greatest stack depth: 10440 bytes left
+<14>[  155.664771] Boot completed init: cannot find '/system/bin/qrngp', disabling 'qrngp'
+<6>[  155.707688] msm_thermal:store_cc_enabled Core control disabled
+<6>[  155.708159] msm_thermal:store_cc_enabled Core control enabled
+<4>[  155.708523] timer_rate not aligned to jiffy. Rounded up to 30000
+<6>[  165.718335] binder: 257:1467 transaction failed 29189, size 164-0
+<3>[  166.541540] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x011363c8 OPER:0x00000010
+<3>[  166.541681] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 1
+<3>[  166.571808] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x0d1300c8 OPER:0x00000010
+<3>[  166.571888] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 2
+<3>[  166.601541] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x0d1300c8 OPER:0x00000010
+<3>[  166.601613] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 3
+<3>[  166.631533] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x0d1300c8 OPER:0x00000010
+<3>[  166.631591] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 4
+<3>[  166.660908] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x011363c8 OPER:0x00000010
+<3>[  166.660964] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 5
+<3>[  166.691309] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x0d1300c8 OPER:0x00000010
+<3>[  166.691365] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 6
+<3>[  166.721368] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x091343c8 OPER:0x00000010
+<3>[  166.721425] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 7
+<3>[  166.750929] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x011363c8 OPER:0x00000010
+<3>[  166.750980] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 8
+<3>[  166.783521] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x0d1300c8 OPER:0x00000010
+<3>[  166.783568] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 9
+<3>[  166.812370] i2c-msm-v2 78b9000.i2c: NACK: slave not responding, ensure its powered, Invalid slave addr, I2C transfer failed, : msgs(n:2 cur:0 rx) bc(rx:1 tx:1) mode:FIFO slv_addr:0x20 MSTR_STS:0x0d1300c8 OPER:0x00000010
+<3>[  166.812440] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C retry 10
+<3>[  166.850805] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_i2c_read: I2C read over retry limit
+<3>[  166.850813] input input0: synaptics_rmi4_sensor_sleep: Failed to enter sleep mode
+<12>[  170.588652] healthd: battery l=99 v=4292 t=33.0 h=2 st=2 c=23 chg=
+<6>[  170.595594] msm_otg 78d9000.usb: USB exited from low power mode
+<12>[  170.606851] healthd: battery l=99 v=4292 t=33.0 h=2 st=2 c=23 chg=
+<12>[  170.694167] healthd: battery l=99 v=4292 t=33.0 h=2 st=2 c=23 chg=
+<6>[  170.724700] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESET_EVENT received
+<6>[  170.724734] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_CONNECT_EVENT received
+<12>[  170.726609] healthd: battery l=99 v=4292 t=33.0 h=2 st=2 c=23 chg=
+<6>[  170.890594] msm_otg 78d9000.usb: Avail curr from USB = 100
+<6>[  170.890842] android_work: android_work: did not send uevent (0 0           (null))
+<12>[  170.899392] healthd: battery l=99 v=4292 t=33.0 h=2 st=2 c=23 chg=u
+<6>[  170.917502] android_work: android_work: sent uevent USB_STATE=CONNECTED
+<6>[  170.937948] android_usb gadget: high-speed config #1: 86000c8.android_usb
+<6>[  170.938092] msm_otg 78d9000.usb: Avail curr from USB = 500
+<4>[  170.943227] mdss_mdp_fetch_programable: low vbp+vfp may lead to perf issues in some cases
+<12>[  170.954688] healthd: battery l=99 v=4292 t=33.0 h=2 st=2 c=23 chg=u
+<6>[  170.992663] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+<6>[  171.062740] binder: 2389:2767 transaction failed 29189, size 184-0
+<4>[  171.457394] ------------[ cut here ]------------
+<4>[  171.457413] WARNING: at /home2/DISK1/SF550/MSM8916/msm8916_lollipop/kernel/drivers/gpio/gpiolib.c:160 gpio_ensure_requested+0x68/0xcc()
+<6>[  171.457415] autorequest GPIO-1018
+<6>[  171.457420] Modules linked in:
+<6>[  171.457428] CPU: 0 PID: 257 Comm: surfaceflinger Tainted: G        W    3.10.49 #1
+<6>[  171.457431] Call trace:
+<6>[  171.457440] [<ffffffc000206a2c>] dump_backtrace+0x0/0x248
+<6>[  171.457448] [<ffffffc000206c84>] show_stack+0x10/0x1c
+<6>[  171.457456] [<ffffffc000bccce0>] dump_stack+0x1c/0x28
+<6>[  171.457463] [<ffffffc00021a858>] warn_slowpath_common+0x74/0x9c
+<6>[  171.457470] [<ffffffc00021a8cc>] warn_slowpath_fmt+0x4c/0x58
+<6>[  171.457477] [<ffffffc000469b4c>] gpio_ensure_requested+0x64/0xcc
+<6>[  171.457485] [<ffffffc00046ab68>] gpiod_direction_output+0x9c/0x2b8
+<6>[  171.457490] [<ffffffc00046ae84>] gpio_direction_output+0x14/0x20
+<6>[  171.457498] [<ffffffc00071b554>] synaptics_rmi4_gpio_configure+0xb0/0x288
+<6>[  171.457505] [<ffffffc00071cdc0>] synaptics_rmi4_resume+0xa0/0x1c0
+<6>[  171.457511] [<ffffffc00071cf60>] fb_notifier_callback+0x54/0x7c
+<6>[  171.457519] [<ffffffc000240bcc>] notifier_call_chain+0x44/0x80
+<6>[  171.457525] [<ffffffc000240f0c>] __blocking_notifier_call_chain+0x44/0x64
+<6>[  171.457533] [<ffffffc000240f3c>] blocking_notifier_call_chain+0x10/0x1c
+<6>[  171.457539] [<ffffffc000483de0>] fb_notifier_call_chain+0x1c/0x28
+<6>[  171.457545] [<ffffffc000484218>] fb_blank+0x78/0x8c
+<6>[  171.457551] [<ffffffc000484ad0>] do_fb_ioctl+0x508/0x554
+<6>[  171.457557] [<ffffffc000484b50>] fb_ioctl+0x34/0x48
+<6>[  171.457564] [<ffffffc000305edc>] do_vfs_ioctl+0x4c4/0x598
+<6>[  171.457570] [<ffffffc00030600c>] SyS_ioctl+0x5c/0x88
+<4>[  171.457574] ---[ end trace c591b1b62df1a534 ]---
+<3>[  171.457594] synaptics_rmi4_i2c 5-0020: [hwang] success pwr gpio true
+<3>[  171.561477] input input0: synaptics_rmi4_sensor_wake: [hwang]sleep mode ON
+<6>[  171.579213] synaptics_rmi4_i2c 5-0020: synaptics_rmi4_capacitance_button_map: capacitance_button_map not in use
+<6>[  172.895789] mtp_open

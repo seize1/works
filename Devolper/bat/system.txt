@@ -1,0 +1,921 @@
+01-25 00:46:47.731   450   450 I vold    : Vold 3.0 (the awakening) firing up
+01-25 00:46:47.731   450   450 V vold    : Detected support for: ext4 vfat
+01-25 00:46:47.786   450   456 D vold    : e4crypt_init_user0
+01-25 00:46:47.786   450   456 D vold    : e4crypt_prepare_user_storage for volume null, user 0, serial 0, flags 1
+01-25 00:46:47.786   450   456 D vold    : Preparing: /data/system/users/0
+01-25 00:46:47.786   450   456 D vold    : Preparing: /data/misc/profiles/cur/0
+01-25 00:46:47.787   450   456 D vold    : Preparing: /data/misc/profiles/cur/0/foreign-dex
+01-25 00:46:47.788   450   456 D vold    : Preparing: /data/system_de/0
+01-25 00:46:47.788   450   456 D vold    : Preparing: /data/misc_de/0
+01-25 00:46:47.788   450   456 D vold    : Preparing: /data/user_de/0
+01-25 00:46:47.789   450   456 D vold    : e4crypt_unlock_user_key 0 serial=0 token_present=0
+01-25 00:46:48.937   546   546 I irsc_util: Starting irsc tool
+01-25 00:46:48.945   546   546 I irsc_util: Num of entries:290
+01-25 00:46:48.955   546   546 I irsc_util: Ending irsc tool
+11-20 11:31:19.670   625   817 I QISL    : QSEE Interrupt Service Listener Thread is started
+11-20 11:31:19.678   625   817 I QISL    : QSEE Interrupt Service Listener was activated successfully
+11-20 11:31:23.550  1397  1397 I InstallerConnection: connecting...
+11-20 11:31:23.576  1397  1397 I InstallerConnection: disconnecting...
+11-20 11:31:23.625  1397  1397 I SystemServer: Entered the Android system server!
+11-20 11:31:23.740  1397  1397 I SystemServiceManager: Starting com.android.server.pm.Installer
+11-20 11:31:23.749  1397  1397 I Installer: Waiting for installd to be ready.
+11-20 11:31:23.749  1397  1397 I InstallerConnection: connecting...
+11-20 11:31:23.751  1397  1397 I SystemServiceManager: Starting com.android.server.am.ActivityManagerService$Lifecycle
+11-20 11:31:23.788  1397  1397 I ActivityManager: Memory class: 192
+11-20 11:31:23.790  1397  1468 I ServiceThread: Enabled StrictMode logging for ActivityManager looper.
+11-20 11:31:23.792  1397  1469 I ServiceThread: Enabled StrictMode logging for android.ui looper.
+11-20 11:31:23.807  1397  1397 D BatteryStatsImpl: Reading daily items from /data/system/batterystats-daily.xml
+11-20 11:31:24.074  1397  1397 W ProcessCpuTracker: Skipping unknown process pid 1483
+11-20 11:31:24.075  1397  1397 W ProcessCpuTracker: Skipping unknown process pid 1484
+11-20 11:31:24.092  1397  1397 I IntentFirewall: Read new rules (A:0 B:0 S:0)
+11-20 11:31:24.106  1397  1513 I ServiceThread: Enabled StrictMode logging for android.display looper.
+11-20 11:31:24.110  1397  1397 D AppOps  : AppOpsService published
+11-20 11:31:24.110  1397  1397 I SystemServiceManager: Starting com.android.server.power.PowerManagerService
+11-20 11:31:24.124  1397  1515 I ServiceThread: Enabled StrictMode logging for PowerManagerService looper.
+11-20 11:31:24.136  1397  1397 I SystemServiceManager: Starting com.android.server.lights.LightsService
+11-20 11:31:24.148  1397  1397 I SystemServiceManager: Starting com.android.server.display.DisplayManagerService
+11-20 11:31:24.151  1397  1397 I SystemServiceManager: Starting phase 100
+11-20 11:31:24.164  1397  1513 I DisplayManagerService: Display device added: DisplayDeviceInfo{"Built-in Screen": uniqueId="local:0", 320 x 480, modeId 1, defaultModeId 1, supportedModes [{id=1, width=320, height=480, fps=60.000004}], colorMode 0, supportedColorModes [0], HdrCapabilities android.view.Display$HdrCapabilities@a69d6308, density 150, 150.0 x 150.0 dpi, appVsyncOff 1000000, presDeadline 16666666, touch INTERNAL, rotation 0, type BUILT_IN, state UNKNOWN, FLAG_DEFAULT_DISPLAY, FLAG_ROTATES_WITH_CONTENT, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}
+11-20 11:31:24.166  1397  1513 I DisplayManagerService: Display device changed state: "Built-in Screen", ON
+11-20 11:31:24.167  1397  1397 I SystemServer: Regionalization Service
+11-20 11:31:24.168  1397  1397 I SystemServer: StartPackageManagerService
+11-20 11:31:24.311  1397  1397 D SELinuxMMAC: Using policy file /system/etc/security/mac_permissions.xml
+11-20 11:31:24.869  1397  1397 W PackageManager: Library not found: /system/framework/org.apache.http.legacy.jar
+11-20 11:31:25.001  1397  1397 W PackageManager: Library not found: /system/framework/org.apache.http.legacy.jar
+11-20 11:31:25.028  1397  1575 W PackageManager: Failed to parse /system/framework/arm: Missing base APK in /system/framework/arm
+11-20 11:31:25.028  1397  1576 W PackageManager: Failed to parse /system/framework/arm64: Missing base APK in /system/framework/arm64
+11-20 11:31:25.030  1397  1578 W PackageManager: Failed to parse /system/framework/oat: Missing base APK in /system/framework/oat
+11-20 11:31:25.145  1397  1580 W PackageManager: Permission android.permission.DOWNLOAD_WITHOUT_NOTIFICATION from package com.android.providers.downloads in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.146  1397  1577 W PackageParser: No actions in intent filter at /system/priv-app/Contacts/Contacts.apk Binary XML file line #434
+11-20 11:31:25.191  1397  1575 W PackageParser: No actions in intent filter at /system/priv-app/Dialer/Dialer.apk Binary XML file line #200
+11-20 11:31:25.202  1397  1578 W PackageParser: Unknown element under <manifest>: uses-library at /system/priv-app/GoogleFeedback/GoogleFeedback.apk Binary XML file line #33
+11-20 11:31:25.213  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: com.google.android.providers.gsf.permission.READ_GSERVICES in package: com.google.android.partnersetup at: Binary XML file line #32
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.OTHER_SERVICES from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.mail from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.cl from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.android from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.androidsecure from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.sierra from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.sierraqa from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.253  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.sierrasandbox from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.youtube from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.talk from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.ig from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.lh2 from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.mobile from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.cp from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.adsense from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.adwords from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.blogger from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.dodgeball from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.gbase from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.groups2 from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.health from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.jotspot from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.knol from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.news from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.orkut from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.print from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.sitemaps from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.wifi from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.finance from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.local from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.254  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.ah from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.notebook from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.writely from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.wise from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.grandcentral from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.speechpersonalization from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.googleapps.permission.GOOGLE_AUTH.speech from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.providers.talk.permission.READ_ONLY from package com.google.android.gsf in an unknown group android.permission-group.MESSAGES
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.providers.talk.permission.WRITE_ONLY from package com.google.android.gsf in an unknown group android.permission-group.MESSAGES
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.gtalkservice.permission.GTALK_SERVICE from package com.google.android.gsf in an unknown group android.permission-group.MESSAGES
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.gtalkservice.permission.SEND_HEARTBEAT from package com.google.android.gsf in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.permission.BROADCAST_DATA_MESSAGE from package com.google.android.gsf in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.c2dm.permission.SEND from package com.google.android.gsf in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.c2dm.permission.RECEIVE from package com.google.android.gsf in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.xmpp.permission.BROADCAST from package com.google.android.gsf in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.xmpp.permission.SEND_RECEIVE from package com.google.android.gsf in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.xmpp.permission.XMPP_ENDPOINT_BROADCAST from package com.google.android.gsf in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.xmpp.permission.USE_XMPP_ENDPOINT from package com.google.android.gsf in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.255  1397  1578 W PackageManager: Permission com.google.android.providers.gsf.permission.READ_GSERVICES from package com.google.android.gsf in an unknown group android.permission-group.ACCOUNTS
+11-20 11:31:25.325  1397  1577 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.INSTALL_GRANT_RUNTIME_PERMISSIONS in package: com.android.shell at: Binary XML file line #102
+11-20 11:31:25.344  1397  1575 W PackageManager: Permission com.android.vending.appdiscoveryservice.permission.ACCESS_APP_DISCOVERY_SERVICE from package com.android.vending in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.344  1397  1575 W PackageManager: Permission com.android.vending.CHECK_LICENSE from package com.android.vending in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.344  1397  1575 W PackageManager: Permission com.android.vending.BILLING from package com.android.vending in an unknown group android.permission-group.NETWORK
+11-20 11:31:25.361  1397  1580 W PackageManager: Permission com.google.android.gms.permission.ACTIVITY_RECOGNITION from package com.google.android.gms in an unknown group android.permission-group.PERSONAL_INFO
+11-20 11:31:25.440  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.CONFIGURE_WIFI_DISPLAY in package: com.android.systemui at: Binary XML file line #123
+11-20 11:31:25.456  1397  1578 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.USE_CREDENTIALS in package: com.android.settings at: Binary XML file line #56
+11-20 11:31:25.457  1397  1578 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.READ_SYNC_SETTINGS in package: com.android.settings at: Binary XML file line #61
+11-20 11:31:25.457  1397  1578 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WRITE_SYNC_SETTINGS in package: com.android.settings at: Binary XML file line #62
+11-20 11:31:25.469  1397  1578 W PackageParser: No actions in intent filter at /system/priv-app/Settings/Settings.apk Binary XML file line #621
+11-20 11:31:25.520  1397  1580 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.READ_PHONE_STATE in package: com.google.android.googlequicksearchbox at: Binary XML file line #233
+11-20 11:31:25.521  1397  1580 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.CAMERA in package: com.google.android.googlequicksearchbox at: Binary XML file line #269
+11-20 11:31:25.552  1397  1580 W PackageManager: Permission com.google.android.launcher.permission.READ_SETTINGS from package com.google.android.googlequicksearchbox in an unknown group android.permission-group.SYSTEM_TOOLS
+11-20 11:31:25.552  1397  1580 W PackageManager: Permission com.google.android.launcher.permission.WRITE_SETTINGS from package com.google.android.googlequicksearchbox in an unknown group android.permission-group.SYSTEM_TOOLS
+11-20 11:31:25.552  1397  1580 W PackageManager: Permission com.android.launcher.permission.INSTALL_SHORTCUT from package com.google.android.googlequicksearchbox in an unknown group android.permission-group.SYSTEM_TOOLS
+11-20 11:31:25.576  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.READ_CONTACTS in package: com.android.bluetooth at: Binary XML file line #61
+11-20 11:31:25.578  1397  1575 W PackageParser: No actions in intent filter at /system/app/Bluetooth/Bluetooth.apk Binary XML file line #224
+11-20 11:31:25.578  1397  1578 W PackageParser: Unknown element under <application>: uses-feature at /system/app/BluetoothExt/BluetoothExt.apk Binary XML file line #57
+11-20 11:31:25.578  1397  1578 W PackageParser: No actions in intent filter at /system/app/BluetoothExt/BluetoothExt.apk Binary XML file line #137
+11-20 11:31:25.578  1397  1578 W PackageParser: No actions in intent filter at /system/app/BluetoothExt/BluetoothExt.apk Binary XML file line #161
+11-20 11:31:25.617  1397  1576 W PackageParser: No actions in intent filter at /system/app/CMFileManager/CMFileManager.apk Binary XML file line #156
+11-20 11:31:25.634  1397  1577 W PackageManager: Non-privileged app; cap priority to 0; package: com.google.android.calendar activity: com.android.calendar.event.LaunchInfoActivity origPrio: 50
+11-20 11:31:25.634  1397  1577 W PackageManager: Non-privileged app; cap priority to 0; package: com.google.android.calendar activity: com.android.calendar.event.LaunchInfoActivity origPrio: 50
+11-20 11:31:25.651  1397  1581 W PackageManager: Non-privileged app; cap priority to 0; package: com.android.cts.ctsshim activity: com.android.cts.ctsshim.InstallPriority origPrio: 100
+11-20 11:31:25.651  1397  1581 W PackageManager: Non-privileged app; cap priority to 0; package: com.android.cts.ctsshim activity: com.android.cts.ctsshim.InstallPriority origPrio: 100
+11-20 11:31:25.651  1397  1581 W PackageManager: Non-privileged app; cap priority to 0; package: com.android.cts.ctsshim activity: com.android.cts.ctsshim.InstallPriority origPrio: 100
+11-20 11:31:25.651  1397  1581 W PackageManager: Non-privileged app; cap priority to 0; package: com.android.cts.ctsshim activity: com.android.cts.ctsshim.InstallPriority origPrio: 100
+11-20 11:31:25.651  1397  1581 W PackageManager: Non-privileged app; cap priority to 0; package: com.android.cts.ctsshim activity: com.android.cts.ctsshim.InstallPriority origPrio: 100
+11-20 11:31:25.697  1397  1580 W PackageManager: Permission com.android.chrome.permission.DEBUG from package com.android.chrome in an unknown group android.permission-group.DEVELOPMENT_TOOLS
+11-20 11:31:25.714  1397  1577 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.GET_ACCOUNTS in package: com.google.android.apps.tachyon at: Binary XML file line #58
+11-20 11:31:25.794  1397  1575 W PackageManager: Permission com.google.android.apps.docs.permission.READ_MY_DATA from package com.google.android.apps.docs in an unknown group android.permission-group.PERSONAL_INFO
+11-20 11:31:25.794  1397  1575 W PackageManager: Permission com.google.android.apps.docs.permission.SYNC_STATUS from package com.google.android.apps.docs in an unknown group android.permission-group.PERSONAL_INFO
+11-20 11:31:25.808  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_COARSE_LOCATION in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #17
+11-20 11:31:25.808  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_FINE_LOCATION in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #18
+11-20 11:31:25.808  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WRITE_SETTINGS in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #28
+11-20 11:31:25.808  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.HARDWARE_TEST in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #33
+11-20 11:31:25.808  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.MODIFY_AUDIO_SETTINGS in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #35
+11-20 11:31:25.808  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.INTERNET in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #36
+11-20 11:31:25.808  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.MODIFY_PHONE_STATE in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #37
+11-20 11:31:25.809  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.CHANGE_WIFI_STATE in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #42
+11-20 11:31:25.809  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_FINE_LOCATION in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #43
+11-20 11:31:25.809  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WRITE_SETTINGS in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #44
+11-20 11:31:25.809  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WAKE_LOCK in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #46
+11-20 11:31:25.809  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.INTERNET in package: com.bluebird.test.hiddentestmenu at: Binary XML file line #47
+11-20 11:31:25.834  1397  1578 W PackageParser: No actions in intent filter at /system/app/Gmail2/Gmail2.apk Binary XML file line #281
+11-20 11:31:25.846  1397  1578 W PackageManager: Permission com.google.android.gm.email.permission.READ_ATTACHMENT from package com.google.android.gm in an unknown group android.permission-group.MESSAGES
+11-20 11:31:25.846  1397  1578 W PackageManager: Permission com.google.android.gm.permission.READ_GMAIL from package com.google.android.gm in an unknown group android.permission-group.MESSAGES
+11-20 11:31:25.846  1397  1578 W PackageManager: Permission com.google.android.gm.permission.WRITE_GMAIL from package com.google.android.gm in an unknown group android.permission-group.MESSAGES
+11-20 11:31:25.846  1397  1578 W PackageManager: Permission com.google.android.gm.permission.AUTO_SEND from package com.google.android.gm in an unknown group android.permission-group.MESSAGES
+11-20 11:31:25.846  1397  1578 W PackageManager: Permission com.google.android.gm.permission.READ_CONTENT_PROVIDER from package com.google.android.gm in an unknown group android.permission-group.MESSAGES
+11-20 11:31:25.869  1397  1581 W PackageManager: Permission com.android.launcher3.permission.READ_SETTINGS from package com.android.launcher3 in an unknown group android.permission-group.SYSTEM_TOOLS
+11-20 11:31:25.869  1397  1581 W PackageManager: Permission com.android.launcher3.permission.WRITE_SETTINGS from package com.android.launcher3 in an unknown group android.permission-group.SYSTEM_TOOLS
+11-20 11:31:25.869  1397  1581 W PackageManager: Permission com.android.launcher.permission.INSTALL_SHORTCUT from package com.android.launcher3 in an unknown group android.permission-group.SYSTEM_TOOLS
+11-20 11:31:25.949  1397  1578 W PackageParser: Unknown element under <manifest>: meta-data at /system/app/Music2/Music2.apk Binary XML file line #92
+11-20 11:31:25.967  1397  1576 W PackageParser: Unknown element under <manifest>: meta-data at /system/app/Messages/Messages.apk Binary XML file line #89
+11-20 11:31:25.967  1397  1581 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WAKE_LOCK in package: com.google.android.apps.maps at: Binary XML file line #148
+11-20 11:31:26.018  1397  1581 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.READ_SYNC_SETTINGS in package: com.qualcomm.simcontacts at: Binary XML file line #52
+11-20 11:31:26.018  1397  1581 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WRITE_SYNC_SETTINGS in package: com.qualcomm.simcontacts at: Binary XML file line #54
+11-20 11:31:26.033  1397  1577 W PackageManager: Non-privileged app; cap priority to 0; package: com.qualcomm.qti.simsettings activity: com.qualcomm.qti.simsettings.SimSettingsActivity origPrio: 1
+11-20 11:31:26.034  1397  1577 W PackageManager: Non-privileged app; cap priority to 0; package: com.qualcomm.qti.simsettings activity: com.qualcomm.qti.simsettings.SimSettingsActivity origPrio: 2
+11-20 11:31:26.098  1397  1576 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.READ_CONTACTS in package: com.google.android.youtube at: Binary XML file line #174
+11-20 11:31:26.098  1397  1576 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.RECORD_AUDIO in package: com.google.android.youtube at: Binary XML file line #177
+11-20 11:31:26.146  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.CHANGE_WIFI_STATE in package: com.android.nfc at: Binary XML file line #48
+11-20 11:31:26.146  1397  1575 W PackageParser: Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_WIFI_STATE in package: com.android.nfc at: Binary XML file line #49
+11-20 11:31:26.149  1397  1576 W PackageManager: Permission com.qti.snapdragon.sdk.permission.DISPLAY_SETTINGS from package com.qti.service.colorservice in an unknown group android.permission-group.SYSTEM_TOOLS
+11-20 11:31:26.150  1397  1575 W PackageManager: Permission group com.gsma.services.nfc.permission from package com.android.nfc ignored: original from com.qualcomm.qti.gsma.services.nfc
+11-20 11:31:26.152  1397  1581 W PackageParser: Service exported request ignored due to singleUser: org.codeaurora.ims.ImsService at /system/vendor/app/ims/ims.apk Binary XML file line #40
+11-20 11:31:26.186  1397  1576 W PackageManager: Package net.soti.mobicontrol.pidion desires unavailable shared library com.lge.mdm; ignoring!
+11-20 11:31:26.209  1397  1397 W PackageManager: Protected action; cap priority to 0; package: com.android.cts.priv.ctsshim activity: com.android.cts.priv.ctsshim.InstallPriority origPrio: 100
+11-20 11:31:26.209  1397  1397 W PackageManager: Protected action; cap priority to 0; package: com.android.cts.priv.ctsshim activity: com.android.cts.priv.ctsshim.InstallPriority origPrio: 100
+11-20 11:31:26.209  1397  1397 W PackageManager: Protected action; cap priority to 0; package: com.android.cts.priv.ctsshim activity: com.android.cts.priv.ctsshim.InstallPriority origPrio: 100
+11-20 11:31:26.209  1397  1397 W PackageManager: Protected action; cap priority to 0; package: com.android.cts.priv.ctsshim activity: com.android.cts.priv.ctsshim.InstallPriority origPrio: 100
+11-20 11:31:26.209  1397  1397 W PackageManager: Protected action; cap priority to 0; package: com.google.android.packageinstaller activity: com.android.packageinstaller.PackageInstallerActivity origPrio: 1
+11-20 11:31:26.209  1397  1397 W PackageManager: Protected action; cap priority to 0; package: com.google.android.gms activity: com.google.android.gms.appinvite.AppInviteAcceptInvitationActivity origPrio: 900
+11-20 11:31:26.209  1397  1397 W PackageManager: Protected action; cap priority to 0; package: com.google.android.gms activity: com.google.android.gms.matchstick.ui.EntryActivity origPrio: 999
+11-20 11:31:26.209  1397  1397 W PackageManager: Protected action; cap priority to 0; package: com.google.android.gms activity: com.google.android.gms.tapandpay.tokenization.AddNewCardThroughBrowserActivity origPrio: 999
+11-20 11:31:26.209  1397  1397 W PackageManager: Protected action; cap priority to 0; package: com.google.android.gms activity: com.google.android.gms.walletp2p.feature.transfer.TransferMoneyActivity origPrio: 900
+11-20 11:31:26.209  1397  1397 W PackageManager: Package org.codeaurora.bluetooth desires unavailable shared library com.quicinc.wbc; ignoring!
+11-20 11:31:26.209  1397  1397 W PackageManager: Package com.google.android.gms desires unavailable shared library com.google.android.ble; ignoring!
+11-20 11:31:26.209  1397  1397 W PackageManager: Package com.google.android.gms desires unavailable shared library com.google.android.wearable; ignoring!
+11-20 11:31:26.209  1397  1397 W PackageManager: Package com.google.android.videos desires unavailable shared library com.google.widevine.software.drm; ignoring!
+11-20 11:31:26.209  1397  1397 W PackageManager: Package net.soti.mobicontrol.pidion desires unavailable shared library com.lge.mdm; ignoring!
+11-20 11:31:26.210  1397  1397 I PackageManager: Adjusting ABI for com.android.providers.downloads.ui to arm64-v8a (requirer=com.android.mtp, scannedPackage=null)
+11-20 11:31:26.210  1397  1397 I PackageManager: Adjusting ABI for com.android.providers.media to arm64-v8a (requirer=com.android.mtp, scannedPackage=null)
+11-20 11:31:26.211  1397  1397 I PackageManager: Adjusting ABI for com.android.providers.downloads to arm64-v8a (requirer=com.android.mtp, scannedPackage=null)
+11-20 11:31:26.211  1397  1397 I PackageManager: Adjusting ABI for com.google.android.gsf to arm64-v8a (requirer=com.google.android.gms, scannedPackage=null)
+11-20 11:31:26.212  1397  1397 I PackageManager: Adjusting ABI for com.google.android.gsf.login to arm64-v8a (requirer=com.google.android.gms, scannedPackage=null)
+11-20 11:31:26.212  1397  1397 I PackageManager: Adjusting ABI for com.google.android.backuptransport to arm64-v8a (requirer=com.google.android.gms, scannedPackage=null)
+11-20 11:31:26.213  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.atfwd to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.213  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.logkit to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.214  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.auth.fidosuiservice to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.214  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.auth.fidocryptoservice to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.215  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.securemsm.mdtp to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.215  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.fastdormancy to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.216  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.RIDL to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.216  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.location.XT to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.217  1397  1397 I PackageManager: Adjusting ABI for com.qti.launcherunreadservice to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.217  1397  1397 I PackageManager: Adjusting ABI for com.bluebird.devcheck to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.217  1397  1397 I PackageManager: Adjusting ABI for com.android.keychain to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.218  1397  1397 I PackageManager: Adjusting ABI for org.simalliance.openmobileapi.service to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.218  1397  1397 I PackageManager: Adjusting ABI for com.qti.qualcomm.deviceinfo to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.219  1397  1397 I PackageManager: Adjusting ABI for com.android.inputdevices to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.219  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.simsettings to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.220  1397  1397 I PackageManager: Adjusting ABI for com.qti.datastoragecleanerservice to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.220  1397  1397 I PackageManager: Adjusting ABI for com.qti.diagservices to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.220  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.wfd.service to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.221  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.services.secureui to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.221  1397  1397 I PackageManager: Adjusting ABI for com.android.server.telecom to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.222  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.modemtestmode to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.222  1397  1397 I PackageManager: Adjusting ABI for com.android.location.fused to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.222  1397  1397 I PackageManager: Adjusting ABI for com.android.settings to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.223  1397  1397 I PackageManager: Adjusting ABI for com.android.wallpaperbackup to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.223  1397  1397 I PackageManager: Adjusting ABI for com.qti.dpmserviceapp to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.224  1397  1397 I PackageManager: Adjusting ABI for com.qti.service.colorservice to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.224  1397  1397 I PackageManager: Adjusting ABI for com.qti.csm to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.224  1397  1397 I PackageManager: Adjusting ABI for kr.co.bluebird.android.bbupdate to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.225  1397  1397 I PackageManager: Adjusting ABI for com.quicinc.cne.CNEService to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.225  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.auth.secureextauthservice to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.226  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.qs to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.226  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.cabl to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.226  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.extsettings to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.227  1397  1397 I PackageManager: Adjusting ABI for com.android.providers.settings to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.227  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.appnetaccess to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.228  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.simcontacts to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.228  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.svi to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.229  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.auth.securesampleauthservice to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.229  1397  1397 I PackageManager: Adjusting ABI for com.bluebird.test.hiddentestmenu to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.230  1397  1397 I PackageManager: Adjusting ABI for org.codeaurora.btmultisim to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.230  1397  1397 I PackageManager: Adjusting ABI for com.dsi.ant.server to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.230  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.location to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.231  1397  1397 I PackageManager: Adjusting ABI for com.android.timerswitch to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.231  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.tetherservice to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.231  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.timeservice to arm64-v8a (requirer=android, scannedPackage=null)
+11-20 11:31:26.232  1397  1397 I PackageManager: Adjusting ABI for com.qti.xdivert to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.232  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.uimremoteserver to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.233  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.ims to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.233  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.radioconfiginterface to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.234  1397  1397 I PackageManager: Adjusting ABI for com.android.mms.service to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.234  1397  1397 I PackageManager: Adjusting ABI for com.android.providers.telephony to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.234  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.CdmaCallOptions to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.235  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.networksetting to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.235  1397  1397 I PackageManager: Adjusting ABI for com.ex.bootcomplete to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.236  1397  1397 I PackageManager: Adjusting ABI for com.android.phone to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.236  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.phonefeature to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.237  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.uimremoteclient to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.237  1397  1397 I PackageManager: Adjusting ABI for com.qti.qualcomm.datastatusnotification to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.237  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.telephony.vodafonepack to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.238  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qcrilmsgtunnel to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.238  1397  1397 I PackageManager: Adjusting ABI for com.android.stk to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.239  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.rcsbootstraputil to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.239  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.loadcarrier to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.240  1397  1397 I PackageManager: Adjusting ABI for com.qualcomm.qti.confdialer to arm64-v8a (requirer=org.codeaurora.ims, scannedPackage=null)
+11-20 11:31:26.245  1397  1397 I PackageManager: Time to scan packages: 1.621 seconds
+11-20 11:31:26.245  1397  1397 W PackageManager: Unknown permission bluebird.permission.SAM_DATA_RECEIVABLE in package com.bluebird.devcheck
+11-20 11:31:26.246  1397  1397 W PackageManager: Not granting permission android.permission.MANAGE_DOCUMENTS to package com.google.android.youtube (protectionLevel=2 flags=0x385bbe45)
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.READ in package com.google.android.youtube
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.WRITE in package com.google.android.youtube
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.htc.launcher.permission.READ_SETTINGS in package com.google.android.youtube
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.htc.launcher.permission.UPDATE_SHORTCUT in package com.google.android.youtube
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.sonyericsson.home.permission.BROADCAST_BADGE in package com.google.android.youtube
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.sonymobile.home.permission.PROVIDER_INSERT_BADGE in package com.google.android.youtube
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.google.android.launcher.permission.CONTENT_REDIRECT in package com.google.android.googlequicksearchbox
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.google.android.voicesearch.SHORTCUTS_ACCESS in package com.google.android.googlequicksearchbox
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.google.android.voicesearch.ACCESS_SETTINGS in package com.google.android.googlequicksearchbox
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.android.browser.permission.PRELOAD in package com.google.android.googlequicksearchbox
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.google.android.ears.permission.WRITE in package com.google.android.googlequicksearchbox
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.google.googlenav.friend.permission.OPT_IN in package com.google.android.googlequicksearchbox
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.google.android.apps.googlevoice.permission.AUTO_SEND in package com.google.android.googlequicksearchbox
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.google.android.hangouts.START_HANGOUT in package com.google.android.googlequicksearchbox
+11-20 11:31:26.246  1397  1397 W PackageManager: Unknown permission com.android.chrome.PRERENDER_URL in package com.google.android.googlequicksearchbox
+11-20 11:31:26.247  1397  1397 W PackageManager: Not granting permission com.google.android.googleapps.permission.GOOGLE_AUTH to package com.android.providers.calendar (protectionLevel=2 flags=0x30083e45)
+11-20 11:31:26.247  1397  1397 W PackageManager: Not granting permission com.google.android.googleapps.permission.GOOGLE_AUTH.cl to package com.android.providers.calendar (protectionLevel=2 flags=0x30083e45)
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.android.nfc.permission.NFCEE_ADMIN in package org.simalliance.openmobileapi.service
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission org.simalliance.openmobileapi.permission.SIM_STATE_CHANGED in package org.simalliance.openmobileapi.service
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.google.android.ims.providers.ACCESS_DATA in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.google.android.ims.LOG_ACCESS in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.READ in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.WRITE in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.htc.launcher.permission.READ_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.htc.launcher.permission.UPDATE_SHORTCUT in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.sonyericsson.home.permission.BROADCAST_BADGE in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.sonymobile.home.permission.PROVIDER_INSERT_BADGE in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.anddoes.launcher.permission.UPDATE_COUNT in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.majeur.launcher.permission.UPDATE_BADGE in package com.google.android.apps.messaging
+11-20 11:31:26.247  1397  1397 W PackageManager: Unknown permission com.huawei.android.launcher.permission.CHANGE_BADGE in package com.google.android.apps.messaging
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission com.huawei.android.launcher.permission.READ_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission com.huawei.android.launcher.permission.WRITE_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission android.permission.READ_APP_BADGE in package com.google.android.apps.messaging
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission com.oppo.launcher.permission.READ_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission com.oppo.launcher.permission.WRITE_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:26.248  1397  1397 W PackageManager: Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.vending (protectionLevel=2 flags=0x384abe45)
+11-20 11:31:26.248  1397  1397 W PackageManager: Not granting permission android.permission.INSTALL_GRANT_RUNTIME_PERMISSIONS to package com.android.vending (protectionLevel=770 flags=0x384abe45)
+11-20 11:31:26.248  1397  1397 W PackageManager: Not granting permission android.permission.GRANT_RUNTIME_PERMISSIONS to package com.android.vending (protectionLevel=770 flags=0x384abe45)
+11-20 11:31:26.248  1397  1397 W PackageManager: Not granting permission android.permission.REVOKE_RUNTIME_PERMISSIONS to package com.android.vending (protectionLevel=770 flags=0x384abe45)
+11-20 11:31:26.248  1397  1397 W PackageManager: Not granting permission android.permission.SET_PREFERRED_APPLICATIONS to package com.android.vending (protectionLevel=2 flags=0x384abe45)
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission android.permission.ACCESS_INSTANT_APPS in package com.android.vending
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission android.permission.ALLOCATE_AGGRESSIVE in package com.android.vending
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission android.permission.MMS_PUSH in package org.codeaurora.bluetooth
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission com.android.email.permission.ACCESS_PROVIDER in package org.codeaurora.bluetooth
+11-20 11:31:26.248  1397  1397 W PackageManager: Unknown permission com.android.email.permission.READ_ATTACHMENT in package org.codeaurora.bluetooth
+11-20 11:31:26.249  1397  1397 W PackageManager: Unknown permission com.qualcomm.qti.internal.permission.ACCESS_ENRICHED_CALL in package com.android.contacts
+11-20 11:31:26.249  1397  1397 W PackageManager: Unknown permission android.permission.NFC_UNLOCK in package com.android.nfc
+11-20 11:31:26.249  1397  1397 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.android.launcher3
+11-20 11:31:26.249  1397  1397 W PackageManager: Unknown permission com.android.launcher.permission.WRITE_SETTINGS in package com.android.launcher3
+11-20 11:31:26.249  1397  1397 W PackageManager: Not granting permission android.permission.BIND_APPWIDGET to package com.android.launcher3 (protectionLevel=18 flags=0x3c4bbe45)
+11-20 11:31:26.249  1397  1397 W PackageManager: Unknown permission com.google.android.email.permission.ACCESS_PROVIDER in package com.google.android.gm
+11-20 11:31:26.249  1397  1397 W PackageManager: Unknown permission com.google.android.gm.exchange.BIND in package com.google.android.gm
+11-20 11:31:26.249  1397  1397 W PackageManager: Unknown permission com.android.email.partnerprovider.PARTNER_PROVIDER in package com.google.android.gm
+11-20 11:31:26.249  1397  1397 W PackageManager: Unknown permission com.android.email.permission.ACCESS_PROVIDER in package com.qti.launcherunreadservice
+11-20 11:31:26.249  1397  1397 W PackageManager: Unknown permission com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY in package com.google.android.music
+11-20 11:31:26.250  1397  1397 W PackageManager: Unknown permission android.permission.WRITE_SYNC_STATS in package com.google.android.apps.docs
+11-20 11:31:26.250  1397  1397 W PackageManager: Unknown permission com.qualcomm.qti.internal.permission.ACCESS_ENRICHED_CALL in package com.android.server.telecom
+11-20 11:31:26.250  1397  1397 W PackageManager: Not granting permission android.permission.INTERACT_ACROSS_USERS to package com.google.android.syncadapters.contacts (protectionLevel=50 flags=0x38083e45)
+11-20 11:31:26.250  1397  1397 W PackageManager: Unknown permission com.google.android.syncadapters.contacts.permission.GAL_SEARCH in package com.google.android.syncadapters.contacts
+11-20 11:31:26.250  1397  1397 W PackageManager: Unknown permission com.chrome.permission.DEVICE_EXTRAS in package com.android.chrome
+11-20 11:31:26.250  1397  1397 W PackageManager: Unknown permission com.sec.enterprise.knox.MDM_CONTENT_PROVIDER in package com.android.chrome
+11-20 11:31:26.250  1397  1397 W PackageManager: Not granting permission android.permission.GRANT_RUNTIME_PERMISSIONS to package com.qualcomm.qti.calendarwidget (protectionLevel=770 flags=0x3808be45)
+11-20 11:31:26.250  1397  1397 W PackageManager: Unknown permission com.qualcomm.qti.internal.permission.ACCESS_ENRICHED_CALL in package com.android.dialer
+11-20 11:31:26.250  1397  1397 W PackageManager: Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.bluebird.test.hiddentestmenu
+11-20 11:31:26.251  1397  1397 W PackageManager: Unknown permission com.qualcomm.permission.ACCESS_LOCATION_API in package com.bluebird.test.hiddentestmenu
+11-20 11:31:26.251  1397  1397 W PackageManager: Unknown permission com.android.launcher.permission.WRITE_SETTINGS in package com.bluebird.test.hiddentestmenu
+11-20 11:31:26.251  1397  1397 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.bluebird.test.hiddentestmenu
+11-20 11:31:26.251  1397  1397 I PackageManager: Un-granting permission android.permission.CLEAR_APP_USER_DATA from package com.google.android.packageinstaller (protectionLevel=258 flags=0x38483e45)
+11-20 11:31:26.251  1397  1397 I PackageManager: Un-granting permission android.permission.GRANT_RUNTIME_PERMISSIONS from package com.google.android.packageinstaller (protectionLevel=770 flags=0x38483e45)
+11-20 11:31:26.251  1397  1397 I PackageManager: Un-granting permission android.permission.REVOKE_RUNTIME_PERMISSIONS from package com.google.android.packageinstaller (protectionLevel=770 flags=0x38483e45)
+11-20 11:31:26.251  1397  1397 I PackageManager: Un-granting permission android.permission.INSTALL_GRANT_RUNTIME_PERMISSIONS from package com.google.android.packageinstaller (protectionLevel=770 flags=0x38483e45)
+11-20 11:31:26.251  1397  1397 I PackageManager: Un-granting permission android.permission.INTERACT_ACROSS_USERS_FULL from package com.google.android.packageinstaller (protectionLevel=258 flags=0x38483e45)
+11-20 11:31:26.251  1397  1397 I PackageManager: Un-granting permission android.permission.KILL_UID from package com.google.android.packageinstaller (protectionLevel=258 flags=0x38483e45)
+11-20 11:31:26.251  1397  1397 I PackageManager: Un-granting permission android.permission.MANAGE_APP_OPS_RESTRICTIONS from package com.google.android.packageinstaller (protectionLevel=258 flags=0x38483e45)
+11-20 11:31:26.251  1397  1397 W PackageManager: Unknown permission com.google.android.permission.INSTALL_WEARABLE_PACKAGES in package com.google.android.packageinstaller
+11-20 11:31:26.251  1397  1397 W PackageManager: Unknown permission com.google.android.apps.enterprise.dmagent.permission.AutoSyncPermission in package com.google.android.gms
+11-20 11:31:26.251  1397  1397 W PackageManager: Unknown permission com.google.android.hangouts.START_HANGOUT in package com.google.android.gms
+11-20 11:31:26.252  1397  1397 W PackageManager: Unknown permission com.google.android.wearable.READ_SETTINGS in package com.google.android.gms
+11-20 11:31:26.252  1397  1397 W PackageManager: Unknown permission com.android.launcher.permission.PRELOAD_WORKSPACE in package com.google.android.partnersetup
+11-20 11:31:26.252  1397  1397 W PackageManager: Not granting permission com.google.android.googleapps.permission.GOOGLE_AUTH to package com.google.android.videos (protectionLevel=2 flags=0x385bbe45)
+11-20 11:31:26.252  1397  1397 W PackageManager: Unknown permission android.permission.ACCESS_SUPERUSER in package com.cyanogenmod.filemanager
+11-20 11:31:26.252  1397  1397 W PackageManager: Unknown permission com.cyanogenmod.filemanager.permissions.READ_THEME in package com.cyanogenmod.filemanager
+11-20 11:31:26.252  1397  1397 W PackageManager: Not granting permission android.permission.WRITE_MEDIA_STORAGE to package com.google.android.apps.photos (protectionLevel=18 flags=0x3859be45)
+11-20 11:31:26.252  1397  1397 W PackageManager: Unknown permission com.google.android.gm.exchange.BIND in package com.google.android.calendar
+11-20 11:31:26.252  1397  1397 W PackageManager: Unknown permission com.google.android.gallery3d.permission.PICASA_STORE in package com.android.dreams.phototable
+11-20 11:31:26.253  1397  1397 W PackageManager: Not granting permission android.permission.CONTROL_KEYGUARD to package com.google.android.gsf.login (protectionLevel=2 flags=0x3048be45)
+11-20 11:31:26.253  1397  1397 W PackageManager: Unknown permission com.android.vending.billing.IBillingAccountService.BIND2 in package com.google.android.gsf.login
+11-20 11:31:26.253  1397  1397 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.android.settings
+11-20 11:31:26.253  1397  1397 W PackageManager: Unknown permission com.android.launcher.permission.WRITE_SETTINGS in package com.android.settings
+11-20 11:31:26.253  1397  1397 W PackageManager: Unknown permission com.qualcomm.permission.ACCESS_LOCATION_API in package com.qualcomm.location
+11-20 11:31:26.254  1397  1397 W PackageManager: Not granting permission android.permission.INTERACT_ACROSS_USERS_FULL to package org.codeaurora.snapcam (protectionLevel=258 flags=0x3858bc45)
+11-20 11:31:26.254  1397  1397 W PackageManager: Not granting permission android.permission.SET_ORIENTATION to package org.codeaurora.snapcam (protectionLevel=2 flags=0x3858bc45)
+11-20 11:31:26.254  1397  1397 W PackageManager: Unknown permission net.soti.mobicontrol.permission.MDM_USE_ENTERPRISE_MNGT in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.CAMERA to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.READ_CONTACTS to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.READ_CALL_LOG to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.READ_PHONE_STATE to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.READ_EXTERNAL_STORAGE to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.WRITE_EXTERNAL_STORAGE to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.ACCESS_FINE_LOCATION to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.GET_ACCOUNTS to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.CALL_PHONE to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Not granting permission android.permission.PROCESS_OUTGOING_CALLS to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_APP_MGMT in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_WIFI in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_BLUETOOTH in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_ROAMING in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_HW_CONTROL in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_EXCHANGE in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_APN in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_SECURITY in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_REMOTE_CONTROL in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_RESTRICTION in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_LOCATION in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_EMAIL in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_VPN in package net.soti.mobicontrol.pidion
+11-20 11:31:26.255  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_KIOSK_MODE in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_FIREWALL in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_ENTERPRISE_VPN in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_PHONE_RESTRICTION in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission android.permission.sec.ENTERPRISE_DEVICE_ADMIN in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_DATE_TIME in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_BROWSER_SETTINGS in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission android.permission.sec.MDM_APP_BACKUP in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission com.android.email.permission.ACCESS_PROVIDER in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission net.soti.mobicontrol.password.PASSWORD_OR_POLICY_CHANGED in package net.soti.mobicontrol.pidion
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission com.google.android.gallery3d.permission.GALLERY_PROVIDER in package com.android.bluetooth
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission com.android.gallery3d.permission.GALLERY_PROVIDER in package com.android.bluetooth
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission com.android.email.permission.ACCESS_PROVIDER in package com.android.bluetooth
+11-20 11:31:26.256  1397  1397 W PackageManager: Unknown permission com.android.email.permission.READ_ATTACHMENT in package com.android.bluetooth
+11-20 11:31:26.256  1397  1397 V PackageManager: reconcileAppsData for null u0 0x3
+11-20 11:31:26.259  1397  1397 W PackageManager: Destroying /data/user/0/media due to: com.android.server.pm.PackageManagerException: Package media is unknown
+11-20 11:31:27.176  1397  1397 V PackageManager: reconcileAppsData finished 173 packages
+11-20 11:31:27.296  1397  1397 V PackageManager: Ephemeral resolver found; pkg: com.google.android.gms, info:ResolveInfo{efbf3eb com.google.android.gms/.chimera.PersistentBoundBrokerService m=0x108000}
+11-20 11:31:27.297  1397  1397 I PackageManager: Ephemeral deactivated; missing installer
+11-20 11:31:27.353  1397  1397 I SystemServer: StartOtaDexOptService
+11-20 11:31:27.355  1397  1397 I SystemServer: StartUserManagerService
+11-20 11:31:27.355  1397  1397 I SystemServiceManager: Starting com.android.server.pm.UserManagerService$LifeCycle
+11-20 11:31:27.365  1397  1397 I SystemServiceManager: Starting com.android.server.BatteryService
+11-20 11:31:27.374  1397  1397 I SystemServiceManager: Starting com.android.server.usage.UsageStatsService
+11-20 11:31:27.379  1397  1472 E BatteryStatsService: no controller energy info supplied
+11-20 11:31:27.387  1397  1472 I BatteryStatsImpl: Resetting battery stats: level=96 status=3 dischargeLevel=96 lowAmount=0 highAmount=0
+11-20 11:31:27.388  1397  1397 I SystemServiceManager: Starting com.android.server.webkit.WebViewUpdateService
+11-20 11:31:27.391  1397  1397 I SystemServer: Reading configuration...
+11-20 11:31:27.391  1397  1397 I SystemServer: StartSchedulingPolicyService
+11-20 11:31:27.393  1397  1397 I SystemServiceManager: Starting com.android.server.telecom.TelecomLoaderService
+11-20 11:31:27.393  1397  1397 I SystemServer: StartTelephonyRegistry
+11-20 11:31:27.396  1397  1397 I SystemServer: StartEntropyMixer
+11-20 11:31:27.398  1397  1397 I EntropyMixer: Writing entropy...
+11-20 11:31:27.413  1397  1397 I SystemServer: Camera Service
+11-20 11:31:27.414  1397  1397 I SystemServiceManager: Starting com.android.server.camera.CameraService
+11-20 11:31:27.417  1397  1599 I ServiceThread: Enabled StrictMode logging for CameraService_proxy looper.
+11-20 11:31:27.419  1397  1397 I SystemServer: StartAccountManagerService
+11-20 11:31:27.419  1397  1397 I SystemServiceManager: Starting com.android.server.accounts.AccountManagerService$Lifecycle
+11-20 11:31:27.426  1397  1397 I SystemServer: StartContentService
+11-20 11:31:27.426  1397  1397 I SystemServiceManager: Starting com.android.server.content.ContentService$Lifecycle
+11-20 11:31:27.428  1397  1397 I SystemServer: InstallSystemProviders
+11-20 11:31:27.514  1397  1397 I SystemServer: StartVibratorService
+11-20 11:31:27.518  1397  1397 I SystemServer: StartConsumerIrService
+11-20 11:31:27.519  1397  1397 I SystemServer: StartAlarmManagerService
+11-20 11:31:27.520  1397  1397 I SystemServiceManager: Starting com.android.server.AlarmManagerService
+11-20 11:31:27.527  1397  1397 I SystemServer: InitWatchdog
+11-20 11:31:27.528  1397  1397 I SystemServer: StartInputManagerService
+11-20 11:31:27.528  1397  1397 I InputManager: Initializing input manager, mUseDevInputEventForAudioJack=true
+11-20 11:31:27.529  1397  1397 I SystemServer: StartWindowManagerService
+11-20 11:31:27.550  1397  1513 I WindowManager: No existing display settings /data/system/display_settings.xml; starting empty
+11-20 11:31:27.570  1397  1397 I SystemServer: StartVrManagerService
+11-20 11:31:27.571  1397  1397 I SystemServiceManager: Starting com.android.server.vr.VrManagerService
+11-20 11:31:27.575  1397  1397 I InputManager: Starting input manager
+11-20 11:31:27.577  1397  1397 I SystemServiceManager: Starting com.android.server.BluetoothService
+11-20 11:31:27.579  1397  1397 D BluetoothManagerService: Loading stored name and address
+11-20 11:31:27.579  1397  1397 D BluetoothManagerService: Stored bluetooth Name=RP350,Address=22:22:1C:A2:6D:B9
+11-20 11:31:27.580  1397  1397 D BluetoothManagerService: Bluetooth persisted state: 0
+11-20 11:31:27.580  1397  1397 I SystemServer: ConnectivityMetricsLoggerService
+11-20 11:31:27.580  1397  1397 I SystemServiceManager: Starting com.android.server.connectivity.MetricsLoggerService
+11-20 11:31:27.580  1397  1397 I SystemServer: IpConnectivityMetrics
+11-20 11:31:27.581  1397  1397 I SystemServiceManager: Starting com.android.server.connectivity.IpConnectivityMetrics
+11-20 11:31:27.582  1397  1397 I SystemServer: PinnerService
+11-20 11:31:27.582  1397  1397 I SystemServiceManager: Starting com.android.server.PinnerService
+11-20 11:31:27.583  1397  1397 I SystemServiceManager: Starting com.android.server.InputMethodManagerService$Lifecycle
+11-20 11:31:27.659  1397  1397 I SystemServer: StartAccessibilityManagerService
+11-20 11:31:27.664  1397  1397 I ActivityManager: Config changes=1df8 {1.0 ?mcc?mnc [en_US] ldltr sw341dp w341dp h512dp 150dpi nrml port ?uimode ?night -touch -keyb/v/h -nav/h s.2}
+11-20 11:31:27.674  1397  1513 I ActivityManager: Config changes=400 {1.0 ?mcc?mnc [en_US] ldltr sw341dp w341dp h487dp 150dpi nrml port ?uimode ?night -touch -keyb/v/h -nav/h s.3}
+11-20 11:31:27.682  1397  1397 I SystemServiceManager: Starting com.android.server.MountService$Lifecycle
+11-20 11:31:27.689  1397  1397 I SystemServiceManager: Starting com.android.server.UiModeManagerService
+11-20 11:31:27.689  1397  1674 D MountService: Thinking about init, mSystemReady=false, mDaemonConnected=true
+11-20 11:31:27.689  1397  1674 D MountService: Thinking about reset, mSystemReady=false, mDaemonConnected=true
+11-20 11:31:27.689  1397  1674 D MountService: Thinking about init, mSystemReady=false, mDaemonConnected=true
+11-20 11:31:27.689  1397  1674 D MountService: Thinking about reset, mSystemReady=false, mDaemonConnected=true
+11-20 11:31:27.690  1397  1674 D CryptdConnector: SND -> {1 cryptfs getfield SystemLocale}
+11-20 11:31:27.690  1397  1397 I ActivityManager: Config changes=200 {1.0 ?mcc?mnc [en_US] ldltr sw341dp w341dp h487dp 150dpi nrml port -touch -keyb/v/h -nav/h s.4}
+11-20 11:31:27.690  1397  1676 D CryptdConnector: RCV <- {200 1 -1}
+11-20 11:31:27.691  1397  1674 W MountService: No primary storage mounted!
+11-20 11:31:27.691  1397  1674 D VoldConnector: SND -> {1 asec list}
+11-20 11:31:27.693  1397  1675 D VoldConnector: RCV <- {200 1 asec operation succeeded}
+11-20 11:31:27.693  1397  1674 W PackageManager: Unknown permission bluebird.permission.SAM_DATA_RECEIVABLE in package com.bluebird.devcheck
+11-20 11:31:27.694  1397  1674 W PackageManager: Not granting permission android.permission.MANAGE_DOCUMENTS to package com.google.android.youtube (protectionLevel=2 flags=0x385bbe45)
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.READ in package com.google.android.youtube
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.WRITE in package com.google.android.youtube
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.htc.launcher.permission.READ_SETTINGS in package com.google.android.youtube
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.htc.launcher.permission.UPDATE_SHORTCUT in package com.google.android.youtube
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.sonyericsson.home.permission.BROADCAST_BADGE in package com.google.android.youtube
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.sonymobile.home.permission.PROVIDER_INSERT_BADGE in package com.google.android.youtube
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.google.android.launcher.permission.CONTENT_REDIRECT in package com.google.android.googlequicksearchbox
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.google.android.voicesearch.SHORTCUTS_ACCESS in package com.google.android.googlequicksearchbox
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.google.android.voicesearch.ACCESS_SETTINGS in package com.google.android.googlequicksearchbox
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.android.browser.permission.PRELOAD in package com.google.android.googlequicksearchbox
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.google.android.ears.permission.WRITE in package com.google.android.googlequicksearchbox
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.google.googlenav.friend.permission.OPT_IN in package com.google.android.googlequicksearchbox
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.google.android.apps.googlevoice.permission.AUTO_SEND in package com.google.android.googlequicksearchbox
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.google.android.hangouts.START_HANGOUT in package com.google.android.googlequicksearchbox
+11-20 11:31:27.694  1397  1674 W PackageManager: Unknown permission com.android.chrome.PRERENDER_URL in package com.google.android.googlequicksearchbox
+11-20 11:31:27.694  1397  1674 W PackageManager: Not granting permission com.google.android.googleapps.permission.GOOGLE_AUTH to package com.android.providers.calendar (protectionLevel=2 flags=0x30083e45)
+11-20 11:31:27.694  1397  1674 W PackageManager: Not granting permission com.google.android.googleapps.permission.GOOGLE_AUTH.cl to package com.android.providers.calendar (protectionLevel=2 flags=0x30083e45)
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.android.nfc.permission.NFCEE_ADMIN in package org.simalliance.openmobileapi.service
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission org.simalliance.openmobileapi.permission.SIM_STATE_CHANGED in package org.simalliance.openmobileapi.service
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.google.android.ims.providers.ACCESS_DATA in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.google.android.ims.LOG_ACCESS in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.READ in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.sec.android.provider.badge.permission.WRITE in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.htc.launcher.permission.READ_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.htc.launcher.permission.UPDATE_SHORTCUT in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.sonyericsson.home.permission.BROADCAST_BADGE in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.sonymobile.home.permission.PROVIDER_INSERT_BADGE in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.anddoes.launcher.permission.UPDATE_COUNT in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.majeur.launcher.permission.UPDATE_BADGE in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.huawei.android.launcher.permission.CHANGE_BADGE in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.huawei.android.launcher.permission.READ_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.huawei.android.launcher.permission.WRITE_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission android.permission.READ_APP_BADGE in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.oppo.launcher.permission.READ_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Unknown permission com.oppo.launcher.permission.WRITE_SETTINGS in package com.google.android.apps.messaging
+11-20 11:31:27.695  1397  1674 W PackageManager: Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.vending (protectionLevel=2 flags=0x384abe45)
+11-20 11:31:27.695  1397  1674 W PackageManager: Not granting permission android.permission.INSTALL_GRANT_RUNTIME_PERMISSIONS to package com.android.vending (protectionLevel=770 flags=0x384abe45)
+11-20 11:31:27.695  1397  1674 W PackageManager: Not granting permission android.permission.GRANT_RUNTIME_PERMISSIONS to package com.android.vending (protectionLevel=770 flags=0x384abe45)
+11-20 11:31:27.695  1397  1674 W PackageManager: Not granting permission android.permission.REVOKE_RUNTIME_PERMISSIONS to package com.android.vending (protectionLevel=770 flags=0x384abe45)
+11-20 11:31:27.695  1397  1674 W PackageManager: Not granting permission android.permission.SET_PREFERRED_APPLICATIONS to package com.android.vending (protectionLevel=2 flags=0x384abe45)
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission android.permission.ACCESS_INSTANT_APPS in package com.android.vending
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission android.permission.ALLOCATE_AGGRESSIVE in package com.android.vending
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission android.permission.MMS_PUSH in package org.codeaurora.bluetooth
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission com.android.email.permission.ACCESS_PROVIDER in package org.codeaurora.bluetooth
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission com.android.email.permission.READ_ATTACHMENT in package org.codeaurora.bluetooth
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission com.qualcomm.qti.internal.permission.ACCESS_ENRICHED_CALL in package com.android.contacts
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission android.permission.NFC_UNLOCK in package com.android.nfc
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.android.launcher3
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission com.android.launcher.permission.WRITE_SETTINGS in package com.android.launcher3
+11-20 11:31:27.696  1397  1674 W PackageManager: Not granting permission android.permission.BIND_APPWIDGET to package com.android.launcher3 (protectionLevel=18 flags=0x3c4bbe45)
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission com.google.android.email.permission.ACCESS_PROVIDER in package com.google.android.gm
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission com.google.android.gm.exchange.BIND in package com.google.android.gm
+11-20 11:31:27.696  1397  1674 W PackageManager: Unknown permission com.android.email.partnerprovider.PARTNER_PROVIDER in package com.google.android.gm
+11-20 11:31:27.697  1397  1674 W PackageManager: Unknown permission com.android.email.permission.ACCESS_PROVIDER in package com.qti.launcherunreadservice
+11-20 11:31:27.697  1397  1674 W PackageManager: Unknown permission com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY in package com.google.android.music
+11-20 11:31:27.697  1397  1674 W PackageManager: Unknown permission android.permission.WRITE_SYNC_STATS in package com.google.android.apps.docs
+11-20 11:31:27.697  1397  1674 W PackageManager: Unknown permission com.qualcomm.qti.internal.permission.ACCESS_ENRICHED_CALL in package com.android.server.telecom
+11-20 11:31:27.697  1397  1674 W PackageManager: Not granting permission android.permission.INTERACT_ACROSS_USERS to package com.google.android.syncadapters.contacts (protectionLevel=50 flags=0x38083e45)
+11-20 11:31:27.697  1397  1674 W PackageManager: Unknown permission com.google.android.syncadapters.contacts.permission.GAL_SEARCH in package com.google.android.syncadapters.contacts
+11-20 11:31:27.697  1397  1674 W PackageManager: Unknown permission com.chrome.permission.DEVICE_EXTRAS in package com.android.chrome
+11-20 11:31:27.697  1397  1674 W PackageManager: Unknown permission com.sec.enterprise.knox.MDM_CONTENT_PROVIDER in package com.android.chrome
+11-20 11:31:27.697  1397  1674 W PackageManager: Not granting permission android.permission.GRANT_RUNTIME_PERMISSIONS to package com.qualcomm.qti.calendarwidget (protectionLevel=770 flags=0x3808be45)
+11-20 11:31:27.698  1397  1674 W PackageManager: Unknown permission com.qualcomm.qti.internal.permission.ACCESS_ENRICHED_CALL in package com.android.dialer
+11-20 11:31:27.698  1397  1674 W PackageManager: Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.bluebird.test.hiddentestmenu
+11-20 11:31:27.698  1397  1674 W PackageManager: Unknown permission com.qualcomm.permission.ACCESS_LOCATION_API in package com.bluebird.test.hiddentestmenu
+11-20 11:31:27.698  1397  1674 W PackageManager: Unknown permission com.android.launcher.permission.WRITE_SETTINGS in package com.bluebird.test.hiddentestmenu
+11-20 11:31:27.698  1397  1674 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.bluebird.test.hiddentestmenu
+11-20 11:31:27.698  1397  1674 W PackageManager: Unknown permission com.google.android.permission.INSTALL_WEARABLE_PACKAGES in package com.google.android.packageinstaller
+11-20 11:31:27.698  1397  1674 W PackageManager: Unknown permission com.google.android.apps.enterprise.dmagent.permission.AutoSyncPermission in package com.google.android.gms
+11-20 11:31:27.698  1397  1674 W PackageManager: Unknown permission com.google.android.hangouts.START_HANGOUT in package com.google.android.gms
+11-20 11:31:27.699  1397  1674 W PackageManager: Unknown permission com.google.android.wearable.READ_SETTINGS in package com.google.android.gms
+11-20 11:31:27.699  1397  1674 W PackageManager: Unknown permission com.android.launcher.permission.PRELOAD_WORKSPACE in package com.google.android.partnersetup
+11-20 11:31:27.699  1397  1674 W PackageManager: Not granting permission com.google.android.googleapps.permission.GOOGLE_AUTH to package com.google.android.videos (protectionLevel=2 flags=0x385bbe45)
+11-20 11:31:27.699  1397  1674 W PackageManager: Unknown permission android.permission.ACCESS_SUPERUSER in package com.cyanogenmod.filemanager
+11-20 11:31:27.699  1397  1674 W PackageManager: Unknown permission com.cyanogenmod.filemanager.permissions.READ_THEME in package com.cyanogenmod.filemanager
+11-20 11:31:27.699  1397  1674 W PackageManager: Not granting permission android.permission.WRITE_MEDIA_STORAGE to package com.google.android.apps.photos (protectionLevel=18 flags=0x3859be45)
+11-20 11:31:27.699  1397  1674 W PackageManager: Unknown permission com.google.android.gm.exchange.BIND in package com.google.android.calendar
+11-20 11:31:27.699  1397  1674 W PackageManager: Unknown permission com.google.android.gallery3d.permission.PICASA_STORE in package com.android.dreams.phototable
+11-20 11:31:27.700  1397  1674 W PackageManager: Not granting permission android.permission.CONTROL_KEYGUARD to package com.google.android.gsf.login (protectionLevel=2 flags=0x3048be45)
+11-20 11:31:27.700  1397  1674 W PackageManager: Unknown permission com.android.vending.billing.IBillingAccountService.BIND2 in package com.google.android.gsf.login
+11-20 11:31:27.700  1397  1674 W PackageManager: Unknown permission com.android.launcher.permission.READ_SETTINGS in package com.android.settings
+11-20 11:31:27.700  1397  1674 W PackageManager: Unknown permission com.android.launcher.permission.WRITE_SETTINGS in package com.android.settings
+11-20 11:31:27.700  1397  1674 W PackageManager: Unknown permission com.qualcomm.permission.ACCESS_LOCATION_API in package com.qualcomm.location
+11-20 11:31:27.701  1397  1674 W PackageManager: Not granting permission android.permission.INTERACT_ACROSS_USERS_FULL to package org.codeaurora.snapcam (protectionLevel=258 flags=0x3858bc45)
+11-20 11:31:27.701  1397  1674 W PackageManager: Not granting permission android.permission.SET_ORIENTATION to package org.codeaurora.snapcam (protectionLevel=2 flags=0x3858bc45)
+11-20 11:31:27.701  1397  1674 W PackageManager: Unknown permission net.soti.mobicontrol.permission.MDM_USE_ENTERPRISE_MNGT in package net.soti.mobicontrol.pidion
+11-20 11:31:27.701  1397  1674 W PackageManager: Not granting permission android.permission.CAMERA to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.701  1397  1674 W PackageManager: Not granting permission android.permission.READ_CONTACTS to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.701  1397  1674 W PackageManager: Not granting permission android.permission.READ_CALL_LOG to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.701  1397  1674 W PackageManager: Not granting permission android.permission.READ_PHONE_STATE to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.702  1397  1674 W PackageManager: Not granting permission android.permission.READ_EXTERNAL_STORAGE to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.702  1397  1674 W PackageManager: Not granting permission android.permission.WRITE_EXTERNAL_STORAGE to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.702  1397  1674 W PackageManager: Not granting permission android.permission.ACCESS_FINE_LOCATION to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.702  1397  1674 W PackageManager: Not granting permission android.permission.GET_ACCOUNTS to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.702  1397  1674 W PackageManager: Not granting permission android.permission.CALL_PHONE to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.702  1397  1674 W PackageManager: Not granting permission android.permission.PROCESS_OUTGOING_CALLS to package net.soti.mobicontrol.pidion because it was previously installed without
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_APP_MGMT in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_WIFI in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_BLUETOOTH in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_ROAMING in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_HW_CONTROL in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_EXCHANGE in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_APN in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_SECURITY in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_REMOTE_CONTROL in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_RESTRICTION in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_LOCATION in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_EMAIL in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_VPN in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_KIOSK_MODE in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1467 I UsageStatsService: User[0] Rollover scheduled @ 2017-11-17 16:25:31(1510903531771)
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_FIREWALL in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_ENTERPRISE_VPN in package net.soti.mobicontrol.pidion
+11-20 11:31:27.702  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_PHONE_RESTRICTION in package net.soti.mobicontrol.pidion
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission android.permission.sec.ENTERPRISE_DEVICE_ADMIN in package net.soti.mobicontrol.pidion
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_DATE_TIME in package net.soti.mobicontrol.pidion
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_BROWSER_SETTINGS in package net.soti.mobicontrol.pidion
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission android.permission.sec.MDM_APP_BACKUP in package net.soti.mobicontrol.pidion
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission com.android.email.permission.ACCESS_PROVIDER in package net.soti.mobicontrol.pidion
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission net.soti.mobicontrol.password.PASSWORD_OR_POLICY_CHANGED in package net.soti.mobicontrol.pidion
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission com.google.android.gallery3d.permission.GALLERY_PROVIDER in package com.android.bluetooth
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission com.android.gallery3d.permission.GALLERY_PROVIDER in package com.android.bluetooth
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission com.android.email.permission.ACCESS_PROVIDER in package com.android.bluetooth
+11-20 11:31:27.703  1397  1674 W PackageManager: Unknown permission com.android.email.permission.READ_ATTACHMENT in package com.android.bluetooth
+11-20 11:31:27.705  1397  1467 I UsageStatsService: User[0] Rolling over usage stats
+11-20 11:31:27.734  1397  1467 I UsageStatsService: User[0] Rollover scheduled @ 2017-11-21 11:31:27(1511231487664)
+11-20 11:31:27.735  1397  1467 I UsageStatsService: User[0] Rolling over usage stats complete. Took 29 milliseconds
+11-20 11:31:27.813  1397  1674 W MountService: No primary storage mounted!
+11-20 11:31:27.813  1397  1674 D VoldConnector: SND -> {2 asec list}
+11-20 11:31:27.813  1397  1397 I SystemServer: StartLockSettingsService
+11-20 11:31:27.813  1397  1397 I SystemServiceManager: Starting com.android.server.LockSettingsService$Lifecycle
+11-20 11:31:27.813  1397  1675 D VoldConnector: RCV <- {200 2 asec operation succeeded}
+11-20 11:31:27.820  1397  1397 I SystemServiceManager: Starting com.android.server.PersistentDataBlockService
+11-20 11:31:27.825  1397  1397 I SystemServiceManager: Starting com.android.server.DeviceIdleController
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: Bad device idle settings
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: java.lang.IllegalArgumentException: 'null' in 'null' is not a valid key-value pair
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at android.util.KeyValueListParser.setString(KeyValueListParser.java:57)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at com.android.server.DeviceIdleController$Constants.updateConstants(DeviceIdleController.java:791)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at com.android.server.DeviceIdleController$Constants.<init>(DeviceIdleController.java:780)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at com.android.server.DeviceIdleController.onStart(DeviceIdleController.java:1351)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at com.android.server.SystemServiceManager.startService(SystemServiceManager.java:113)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at com.android.server.SystemServer.startOtherServices(SystemServer.java:805)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at com.android.server.SystemServer.run(SystemServer.java:358)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at com.android.server.SystemServer.main(SystemServer.java:240)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at java.lang.reflect.Method.invoke(Native Method)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:889)
+11-20 11:31:27.827  1397  1397 E DeviceIdleController: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:779)
+11-20 11:31:27.830  1397  1397 I SystemServiceManager: Starting com.android.server.devicepolicy.DevicePolicyManagerService$Lifecycle
+11-20 11:31:27.840  1397  1397 I SystemServer: StartStatusBarManagerService
+11-20 11:31:27.843  1397  1397 I SystemServer: StartClipboardService
+11-20 11:31:27.845  1397  1397 I SystemServer: StartNetworkManagementService
+11-20 11:31:27.848  1397  1677 I NetworkManagement: onDaemonConnected()
+11-20 11:31:27.851  1397  1397 I SystemServiceManager: Starting com.android.server.TextServicesManagerService$Lifecycle
+11-20 11:31:27.853  1397  1397 W TextServicesManagerService: no available spell checker services found
+11-20 11:31:27.854  1397  1397 I SystemServer: StartNetworkScoreService
+11-20 11:31:27.855  1397  1397 I SystemServer: StartNetworkStatsService
+11-20 11:31:27.862  1397  1397 I SystemServer: StartNetworkPolicyManagerService
+11-20 11:31:27.866  1397  1397 I SystemServer: No Wi-Fi NAN Service (NAN support Not Present)
+11-20 11:31:27.878  1397  1397 I SystemServiceManager: Starting com.android.server.wifi.p2p.WifiP2pService
+11-20 11:31:27.905  1397  1397 I SystemServiceManager: Starting com.android.server.wifi.WifiService
+11-20 11:31:28.080  1397  1672 I ActivityManager: Config changes=8 {1.0 ?mcc?mnc [en_US] ldltr sw341dp w341dp h487dp 150dpi nrml port finger -keyb/v/h -nav/h s.5}
+11-20 11:31:28.176  1397  1397 I SystemServiceManager: Starting com.android.server.wifi.scanner.WifiScanningService
+11-20 11:31:28.179  1397  1397 I SystemServiceManager: Starting com.android.server.wifi.RttService
+11-20 11:31:28.181  1397  1397 I SystemServiceManager: Starting com.android.server.ethernet.EthernetService
+11-20 11:31:28.184  1397  1397 I SystemServer: StartConnectivityService
+11-20 11:31:28.190  1397  1397 D ConnectivityService: ConnectivityService starting up
+11-20 11:31:28.192  1397  1397 D ConnectivityService: wifiOnly=false
+11-20 11:31:28.193  1397  1397 E ConnectivityService: Ignoring protectedNetwork 14
+11-20 11:31:28.202  1397  1397 I SystemServer: StartNsdService
+11-20 11:31:28.206  1397  1397 I SystemServer: StartUpdateLockService
+11-20 11:31:28.207  1397  1397 I SystemServiceManager: Starting com.android.server.RecoverySystemService
+11-20 11:31:28.210  1397  1397 I SystemServiceManager: Starting com.android.server.notification.NotificationManagerService
+11-20 11:31:28.220  1397  1397 D ConditionProviders.SCP: new ScheduleConditionProvider()
+11-20 11:31:28.224  1397  1397 D ZenLog  : config: readXml,ZenModeConfig[user=0,allowCalls=true,allowRepeatCallers=false,allowMessages=false,allowCallsFrom=contacts,allowMessagesFrom=contacts,allowReminders=true,allowEvents=true,allowWhenScreenOff=true,allowWhenScreenOn=true,automaticRules={5c3942b98c65434988daa7af846ccb83=ZenRule[enabled=false,snoozing=false,name=Weekend,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false,condition=Condition[id=condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false,summary=...,line1=...,line2=...,icon=0,state=STATE_FALSE,flags=2],component=ComponentInfo{android/com.android.server.notification.ScheduleConditionProvider},id=5c3942b98c65434988daa7af846ccb83,creationTime=1507236063527,enabler=null], 56b2289a6d954bcf86569e23e5558ccd=ZenRule[enabled=false,snoozing=false,name=Event,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/event?userId=-10000&calendar=&reply=1,condition=Condition[id=condition://android/event?userId=-10000&calendar=&reply=1,summary=...,line1=...,line2=...,icon=0,state=STATE_FALSE,flags=2],component=ComponentInfo{android/com.android.server.notification.EventConditionProvider},id=56b2289a6d954bcf86569e23e5558ccd,creationTime=1507236063528,enabler=null], 34c64493e38443ad8601cc2a36bdaa32=ZenRule[enabled=false,snoozing=false,name=Weeknight,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false,condition=Condition[id=condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false,summary=...,line1=...,line2=...,icon=0,state=STATE_FALSE,flags=2],component=ComponentInfo{android/com.android.server.notification.ScheduleConditionProvider},id=34c64493e38443ad8601cc2a36bdaa32,creationTime=1507236063527,enabler=null]},manualRule=null],Diff[automaticRule[5c3942b98c65434988daa7af846ccb83]:insert,automaticRule[56b2289a6d954bcf86569e23e5558ccd]:insert,automaticRule[34c64493e38443ad8601cc2a36bdaa32]:insert,automaticRule[02dbd1e77d304154923ca5596df9d605]:delete,automaticRule[f129e8239f3a4dc38e792aa3162058b3]:delete,automaticRule[16031c33fa8443d288d45be86edf707f]:delete]
+11-20 11:31:28.238  1397  1397 D ZenLog  : set_zen_mode: off,init
+11-20 11:31:28.241  1397  1397 I SystemServiceManager: Starting com.android.server.storage.DeviceStorageMonitorService
+11-20 11:31:28.244  1397  1397 I SystemServer: StartLocationManagerService
+11-20 11:31:28.250  1397  1397 I SystemServer: StartCountryDetectorService
+11-20 11:31:28.252  1397  1397 I SystemServer: StartSearchManagerService
+11-20 11:31:28.252  1397  1397 I SystemServiceManager: Starting com.android.server.search.SearchManagerService$Lifecycle
+11-20 11:31:28.254  1397  1397 I SystemServiceManager: Starting com.android.server.DropBoxManagerService
+11-20 11:31:28.256  1397  1397 I SystemServer: StartWallpaperManagerService
+11-20 11:31:28.256  1397  1397 I SystemServiceManager: Starting com.android.server.wallpaper.WallpaperManagerService$Lifecycle
+11-20 11:31:28.259  1397  1397 E WallpaperManagerService: Invalid wallpaper data
+11-20 11:31:28.259  1397  1397 E WallpaperManagerService: Unable to apply new wallpaper
+11-20 11:31:28.261  1397  1397 I SystemServer: StartAudioService
+11-20 11:31:28.261  1397  1397 I SystemServiceManager: Starting com.android.server.audio.AudioService$Lifecycle
+11-20 11:31:28.311  1397  1397 I SystemServiceManager: Starting com.android.server.DockObserver
+11-20 11:31:28.312  1397  1397 W DockObserver: This kernel does not have dock station support
+11-20 11:31:28.314  1397  1397 I SystemServer: StartWiredAccessoryManager
+11-20 11:31:28.315  1397  1397 W WiredAccessoryManager: This kernel does not have usb audio support
+11-20 11:31:28.315  1397  1397 W WiredAccessoryManager: This kernel does not have HDMI audio support
+11-20 11:31:28.316  1397  1397 I SystemServiceManager: Starting com.android.server.midi.MidiService$Lifecycle
+11-20 11:31:28.317  1397  1397 I SystemServiceManager: Starting com.android.server.usb.UsbService$Lifecycle
+11-20 11:31:28.326  1397  1397 I SystemServer: StartSerialService
+11-20 11:31:28.328  1397  1397 I SystemServiceManager: Starting com.android.server.twilight.TwilightService
+11-20 11:31:28.329  1397  1397 I SystemServiceManager: Starting com.android.server.job.JobSchedulerService
+11-20 11:31:28.331  1397  1397 D JobStore: Start tag: job-info
+11-20 11:31:28.337  1397  1397 I SystemServiceManager: Starting com.android.server.soundtrigger.SoundTriggerService
+11-20 11:31:28.339  1397  1397 I SystemServiceManager: Starting com.android.server.backup.BackupManagerService$Lifecycle
+11-20 11:31:28.341  1397  1397 I SystemServiceManager: Starting com.android.server.appwidget.AppWidgetService
+11-20 11:31:28.349  1397  1397 I SystemServiceManager: Starting com.android.server.voiceinteraction.VoiceInteractionManagerService
+11-20 11:31:28.351  1397  1397 I SystemServer: Gesture Launcher Service
+11-20 11:31:28.351  1397  1397 I SystemServiceManager: Starting com.android.server.GestureLauncherService
+11-20 11:31:28.352  1397  1397 I SystemServiceManager: Starting com.android.server.SensorNotificationService
+11-20 11:31:28.352  1397  1397 I SystemServiceManager: Starting com.android.server.ContextHubSystemService
+11-20 11:31:28.353  1397  1397 I SystemServer: StartDiskStatsService
+11-20 11:31:28.355  1397  1397 I SystemServer: StartSamplingProfilerService
+11-20 11:31:28.362  1397  1397 I SystemServer: StartNetworkTimeUpdateService
+11-20 11:31:28.363  1397  1397 I SystemServer: StartCommonTimeManagementService
+11-20 11:31:28.365  1397  1397 I SystemServer: CertBlacklister
+11-20 11:31:28.365  1397  1397 I SystemServiceManager: Starting com.android.server.emergency.EmergencyAffordanceService
+11-20 11:31:28.366  1397  1397 I SystemServiceManager: Starting com.android.server.dreams.DreamManagerService
+11-20 11:31:28.368  1397  1397 I SystemServer: StartAssetAtlasService
+11-20 11:31:28.372  1397  1397 I SystemServiceManager: Starting com.android.server.print.PrintManagerService
+11-20 11:31:28.376  1397  1397 I SystemServiceManager: Starting com.android.server.restrictions.RestrictionsManagerService
+11-20 11:31:28.378  1397  1397 I SystemServiceManager: Starting com.android.server.media.MediaSessionService
+11-20 11:31:28.381  1397  1397 I SystemServer: StartMediaRouterService
+11-20 11:31:28.383  1397  1397 I SystemServiceManager: Starting com.android.server.trust.TrustManagerService
+11-20 11:31:28.384  1397  1397 I SystemServer: StartBackgroundDexOptService
+11-20 11:31:28.385  1397  1397 I SystemServiceManager: Starting com.android.server.pm.ShortcutService$Lifecycle
+11-20 11:31:28.390  1397  1397 I SystemServiceManager: Starting com.android.server.pm.LauncherAppsService
+11-20 11:31:28.393  1397  1397 I SystemServiceManager: Starting com.android.server.media.projection.MediaProjectionManagerService
+11-20 11:31:28.399  1397  1397 I SystemServer: SystemUpdateManagerService
+11-20 11:31:28.404  1397  1397 I SystemServiceManager: Starting com.android.server.MmsServiceBroker
+11-20 11:31:28.433  1397  1397 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gatekeeper.password.key: open failed: ENOENT (No such file or directory)
+11-20 11:31:28.433  1397  1397 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/password.key: open failed: ENOENT (No such file or directory)
+11-20 11:31:28.434  1397  1397 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gatekeeper.pattern.key: open failed: ENOENT (No such file or directory)
+11-20 11:31:28.434  1397  1397 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gatekeeper.gesture.key: open failed: ENOENT (No such file or directory)
+11-20 11:31:28.434  1397  1397 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gesture.key: open failed: ENOENT (No such file or directory)
+11-20 11:31:28.434  1397  1397 I SystemServiceManager: Starting phase 480
+11-20 11:31:28.452  1397  1397 I DevicePolicyManagerService: Set ro.device_owner property to false
+11-20 11:31:28.455  1397  1397 W ShortcutService: Clock rewound
+11-20 11:31:28.455  1397  1397 I SystemServiceManager: Starting phase 500
+11-20 11:31:28.474  1397  1397 I WifiService: WifiService starting up with Wi-Fi enabled
+11-20 11:31:28.476  1397  1397 D WifiService: setWifiEnabled: true pid=1397, uid=1000
+11-20 11:31:28.481  1397  1687 D ConnectivityService: Got NetworkFactory Messenger for Ethernet
+11-20 11:31:28.489  1397  1397 D ZenLog  : config: cleanUpZenRules,ZenModeConfig[user=0,allowCalls=true,allowRepeatCallers=false,allowMessages=false,allowCallsFrom=contacts,allowMessagesFrom=contacts,allowReminders=true,allowEvents=true,allowWhenScreenOff=true,allowWhenScreenOn=true,automaticRules={5c3942b98c65434988daa7af846ccb83=ZenRule[enabled=false,snoozing=false,name=Weekend,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false,condition=Condition[id=condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false,summary=...,line1=...,line2=...,icon=0,state=STATE_FALSE,flags=2],component=ComponentInfo{android/com.android.server.notification.ScheduleConditionProvider},id=5c3942b98c65434988daa7af846ccb83,creationTime=1507236063527,enabler=null], 56b2289a6d954bcf86569e23e5558ccd=ZenRule[enabled=false,snoozing=false,name=Event,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/event?userId=-10000&calendar=&reply=1,condition=Condition[id=condition://android/event?userId=-10000&calendar=&reply=1,summary=...,line1=...,line2=...,icon=0,state=STATE_FALSE,flags=2],component=ComponentInfo{android/com.android.server.notification.EventConditionProvider},id=56b2289a6d954bcf86569e23e5558ccd,creationTime=1507236063528,enabler=null], 34c64493e38443ad8601cc2a36bdaa32=ZenRule[enabled=false,snoozing=false,name=Weeknight,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false,condition=Condition[id=condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false,summary=...,line1=...,line2=...,icon=0,state=STATE_FALSE,flags=2],component=ComponentInfo{android/com.android.server.notification.ScheduleConditionProvider},id=34c64493e38443ad8601cc2a36bdaa32,creationTime=1507236063527,enabler=null]},manualRule=null],Diff[]
+11-20 11:31:28.489  1397  1397 D ZenLog  : set_zen_mode: off,onSystemReady
+11-20 11:31:28.571  1397  1397 V UserManagerService: Found /data/user_de/0 with serial number 0
+11-20 11:31:28.572  1397  1397 V UserManagerService: Found /data/user/0 with serial number 0
+11-20 11:31:28.572  1397  1397 V UserManagerService: Found /data/system_de/0 with serial number 0
+11-20 11:31:28.572  1397  1397 V UserManagerService: Found /data/system_ce/0 with serial number 0
+11-20 11:31:28.576  1397  1397 I ActivityManager: System now ready
+11-20 11:31:28.580  1397  1397 I SystemServer: Making services ready
+11-20 11:31:28.580  1397  1397 I SystemServiceManager: Starting phase 550
+11-20 11:31:28.587  1397  1515 W KeyguardServiceDelegate: onScreenTurningOn(): no keyguard service!
+11-20 11:31:28.613  1397  1397 D BluetoothManagerService: Bluetooth boot completed
+11-20 11:31:28.615  1397  1397 E InputMethodManagerService: Ignoring updateSystemUiLocked due to an invalid token. uid:1000 token:null
+11-20 11:31:28.692  1397  1397 I ActivityManager: Start proc 1716:com.google.android.inputmethod.latin/u0a71 for service com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+11-20 11:31:28.692  1397  1397 V InputMethodManagerService: Adding window token: android.os.Binder@8cd7aa1
+11-20 11:31:28.692  1397  1674 D MountService: Thinking about init, mSystemReady=true, mDaemonConnected=true
+11-20 11:31:28.692  1397  1674 D MountService: Setting up emulation state, initlocked=false
+11-20 11:31:28.692  1397  1397 W TextServicesManagerService: no available spell checker services found
+11-20 11:31:28.692  1397  1674 D CryptdConnector: SND -> {2 cryptfs unlock_user_key 0 0 ! !}
+11-20 11:31:28.693  1397  1397 E WallpaperManagerService: Invalid wallpaper data
+11-20 11:31:28.693  1397  1397 E WallpaperManagerService: Unable to apply new wallpaper
+11-20 11:31:28.693   450   456 D vold    : e4crypt_unlock_user_key 0 serial=0 token_present=0
+11-20 11:31:28.693  1397  1676 D CryptdConnector: RCV <- {200 2 Command succeeded}
+11-20 11:31:28.694  1397  1674 D MountService: Thinking about reset, mSystemReady=true, mDaemonConnected=true
+11-20 11:31:28.694  1397  1674 D VoldConnector: SND -> {3 volume reset}
+11-20 11:31:28.694  1397  1468 I ActivityManager: Force stopping com.android.providers.media appid=10010 user=-1: vold reset
+11-20 11:31:28.695  1397  1675 D VoldConnector: RCV <- {651 emulated 7}
+11-20 11:31:28.695  1397  1675 D VoldConnector: RCV <- {659 emulated}
+11-20 11:31:28.695  1397  1675 D VoldConnector: RCV <- {650 emulated 2 "" ""}
+11-20 11:31:28.695  1397  1675 D VoldConnector: RCV <- {651 emulated 0}
+11-20 11:31:28.695  1397  1675 D VoldConnector: RCV <- {200 3 Command succeeded}
+11-20 11:31:28.696  1397  1674 D VoldConnector: SND -> {4 volume user_added 0 0}
+11-20 11:31:28.696  1397  1510 V MountService: Found primary storage at VolumeInfo{emulated}:
+11-20 11:31:28.696  1397  1510 V MountService:     type=EMULATED diskId=null partGuid=null mountFlags=0 mountUserId=-1 
+11-20 11:31:28.696  1397  1510 V MountService:     state=UNMOUNTED 
+11-20 11:31:28.696  1397  1510 V MountService:     fsType=null fsUuid=null fsLabel=null 
+11-20 11:31:28.696  1397  1510 V MountService:     path=null internalPath=null 
+11-20 11:31:28.697  1397  1675 D VoldConnector: RCV <- {200 4 Command succeeded}
+11-20 11:31:28.721  1397  1397 I ActivityManager: Start proc 1730:com.android.systemui/u0a31 for service com.android.systemui/.ImageWallpaper
+11-20 11:31:28.721  1397  1674 D VoldConnector: SND -> {5 volume mount emulated 3 -1}
+11-20 11:31:28.726   450   455 V vold    : Waiting for FUSE to spin up...
+11-20 11:31:28.727  1397  1675 D VoldConnector: RCV <- {651 emulated 1}
+11-20 11:31:28.727  1397  1675 D VoldConnector: RCV <- {656 emulated /data/media}
+11-20 11:31:28.727  1397  1675 D VoldConnector: RCV <- {655 emulated /storage/emulated}
+11-20 11:31:28.730  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 42, type: 2]
+11-20 11:31:28.730  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 42, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 41, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 40, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 39, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 38, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 37, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 36, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 36, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 35, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 35, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 27, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 26, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 26, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 25, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 25, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 23, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 22, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 21, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 20, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 19, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 18, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 18, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 17, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 17, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 16, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 16, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 15, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 15, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 14, type: 2]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 14, type: 1]
+11-20 11:31:28.731  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 13, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 13, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 12, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 12, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 11, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 11, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 10, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 10, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 8, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 7, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 6, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 6, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 5, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 5, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 4, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 3, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 3, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 2, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 2, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 1, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 1, type: 1]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 0, type: 2]
+11-20 11:31:28.732  1397  1397 D UsbAlsaManager: Adding ALSA device AlsaDevice: [card: 0, device: 0, type: 1]
+11-20 11:31:28.741  1397  1397 I SystemServer: WebViewFactory preparation
+11-20 11:31:28.777  1397  1675 D VoldConnector: RCV <- {651 emulated 2}
+11-20 11:31:28.777  1397  1675 D VoldConnector: RCV <- {200 5 Command succeeded}
+11-20 11:31:28.890  1397  1397 W ActivityManager: Slow operation: 73ms so far, now at startProcess: returned from zygote!
+11-20 11:31:28.890  1397  1397 W ActivityManager: Slow operation: 74ms so far, now at startProcess: done updating battery stats
+11-20 11:31:28.890  1397  1397 W ActivityManager: Slow operation: 74ms so far, now at startProcess: building log message
+11-20 11:31:28.890  1397  1397 I ActivityManager: Start proc 1768:WebViewLoader-armeabi-v7a/1037 [android.webkit.WebViewFactory$RelroFileCreator] for 
+11-20 11:31:28.890  1397  1397 W ActivityManager: Slow operation: 74ms so far, now at startProcess: starting to update pids map
+11-20 11:31:28.890  1397  1397 W ActivityManager: Slow operation: 74ms so far, now at startProcess: done updating pids map
+11-20 11:31:28.890  1397  1397 W ActivityManager: Slow operation: 75ms so far, now at startProcess: done starting proc!
+11-20 11:31:28.915  1397  1397 I ActivityManager: Start proc 1789:WebViewLoader-arm64-v8a/1037 [android.webkit.WebViewFactory$RelroFileCreator] for 
+11-20 11:31:28.919  1397  1397 D NetworkManagement: enabling bandwidth control
+11-20 11:31:29.018  1730  1730 V FingerprintManager: FingerprintManagerService was null
+11-20 11:31:29.292  1397  1397 D NetworkPolicy: setRestrictBackgroundUL(): false
+11-20 11:31:29.336  1397  1444 I StatusBarManagerService: registerStatusBar bar=com.android.internal.statusbar.IStatusBar$Stub$Proxy@4b621e7
+11-20 11:31:29.588  1397  1469 W WindowManager: Keyguard drawn timeout. Setting mKeyguardDrawComplete
+11-20 11:31:29.597  1397  1397 I SystemServiceManager: Starting phase 600
+11-20 11:31:29.609  1397  1397 D GestureLauncherService: Gesture launcher mEmergencyNumber = 112 hits = 3
+11-20 11:31:29.611  1397  1397 D SensorNotificationService: Cannot obtain dynamic meta sensor, not supported.
+11-20 11:31:29.652  1397  1397 W LocationProviderProxy-network: Odd, no component found for service com.android.location.service.v3.NetworkLocationProvider
+11-20 11:31:29.653  1397  1397 W LocationProviderProxy-fused: Odd, no component found for service com.android.location.service.FusedLocationProvider
+11-20 11:31:29.655  1397  1397 W GeocoderProxy: Odd, no component found for service com.android.location.service.GeocodeProvider
+11-20 11:31:29.675  1397  1397 W FusedProxy: Odd, no component found for service com.android.location.service.FusedProvider
+11-20 11:31:29.680  1397  1397 W GeofenceProxy: Odd, no component found for service com.android.location.service.GeofenceProvider
+11-20 11:31:29.689  1397  1397 W ActivityRecognitionProxy: Odd, no component found for service com.android.location.service.ActivityRecognitionProvider
+11-20 11:31:29.699  1397  1397 I MmsServiceBroker: Delay connecting to MmsService until an API is called
+11-20 11:31:29.701  1397  1397 W VoiceInteractionManagerService: no available voice interaction services found for user 0
+11-20 11:31:29.701  1397  1397 W VoiceInteractionManagerService: no available voice recognition services found for user 0
+11-20 11:31:29.726  1397  1397 I ActivityManager: Start proc 1978:.dataservices/1000 for added application .dataservices
+11-20 11:31:29.754  1397  1397 I ActivityManager: Start proc 1992:com.android.phone/1001 for added application com.android.phone
+11-20 11:31:29.756  1397  1397 E ActivityManager: No home screen found for Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x100 }
+11-20 11:31:29.756  1397  1397 E ActivityManager: java.lang.Throwable
+11-20 11:31:29.756  1397  1397 E ActivityManager: 	at com.android.server.am.ActivityManagerService.startHomeActivityLocked(ActivityManagerService.java:4079)
+11-20 11:31:29.756  1397  1397 E ActivityManager: 	at com.android.server.am.ActivityManagerService.systemReady(ActivityManagerService.java:13585)
+11-20 11:31:29.756  1397  1397 E ActivityManager: 	at com.android.server.SystemServer.startOtherServices(SystemServer.java:1455)
+11-20 11:31:29.756  1397  1397 E ActivityManager: 	at com.android.server.SystemServer.run(SystemServer.java:358)
+11-20 11:31:29.756  1397  1397 E ActivityManager: 	at com.android.server.SystemServer.main(SystemServer.java:240)
+11-20 11:31:29.756  1397  1397 E ActivityManager: 	at java.lang.reflect.Method.invoke(Native Method)
+11-20 11:31:29.756  1397  1397 E ActivityManager: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:889)
+11-20 11:31:29.756  1397  1397 E ActivityManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:779)
+11-20 11:31:29.759  1397  1397 E ActivityManager: No home screen found for Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x100 }
+11-20 11:31:29.759  1397  1397 E ActivityManager: java.lang.Throwable
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.am.ActivityManagerService.startHomeActivityLocked(ActivityManagerService.java:4079)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.am.ActivityStackSupervisor.resumeHomeStackTask(ActivityStackSupervisor.java:705)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.am.ActivityStack.resumeTopActivityInnerLocked(ActivityStack.java:2199)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.am.ActivityStack.resumeTopActivityUncheckedLocked(ActivityStack.java:2146)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.am.ActivityStackSupervisor.resumeFocusedStackTopActivityLocked(ActivityStackSupervisor.java:1864)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.am.ActivityStackSupervisor.resumeFocusedStackTopActivityLocked(ActivityStackSupervisor.java:1854)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.am.ActivityManagerService.systemReady(ActivityManagerService.java:13629)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.SystemServer.startOtherServices(SystemServer.java:1455)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.SystemServer.run(SystemServer.java:358)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.server.SystemServer.main(SystemServer.java:240)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at java.lang.reflect.Method.invoke(Native Method)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:889)
+11-20 11:31:29.759  1397  1397 E ActivityManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:779)
+11-20 11:31:29.760  1397  1397 I SystemServer: Enabled StrictMode for system server main thread.
+11-20 11:31:29.766  1397  1397 D ConditionProviders.SCP: onConnected
+11-20 11:31:29.767  1397  1397 D ZenLog  : set_zen_mode: off,readXml
+11-20 11:31:29.777  1397  1397 D ConditionProviders: Subscribing to condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false with ComponentInfo{android/com.android.server.notification.ScheduleConditionProvider}
+11-20 11:31:29.777  1397  1397 D ZenLog  : subscribe: condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false,ok
+11-20 11:31:29.777  1397  1397 D ConditionProviders: Subscribing to condition://android/event?userId=-10000&calendar=&reply=1 with ComponentInfo{android/com.android.server.notification.EventConditionProvider}
+11-20 11:31:29.777  1397  1397 D ZenLog  : subscribe: condition://android/event?userId=-10000&calendar=&reply=1,ok
+11-20 11:31:29.777  1397  1397 D ConditionProviders: Subscribing to condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false with ComponentInfo{android/com.android.server.notification.ScheduleConditionProvider}
+11-20 11:31:29.777  1397  1397 D ZenLog  : subscribe: condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false,ok
+11-20 11:31:29.809  1397  1467 W LocationProviderProxy-network: Odd, no component found for service com.android.location.service.v3.NetworkLocationProvider
+11-20 11:31:29.809  1397  1467 W LocationProviderProxy-fused: Odd, no component found for service com.android.location.service.FusedLocationProvider
+11-20 11:31:29.809  1397  1467 W GeocoderProxy: Odd, no component found for service com.android.location.service.GeocodeProvider
+11-20 11:31:29.809  1397  1467 W FusedProxy: Odd, no component found for service com.android.location.service.FusedProvider
+11-20 11:31:29.809  1397  1467 W GeofenceProxy: Odd, no component found for service com.android.location.service.GeofenceProvider
+11-20 11:31:29.809  1397  1467 W ActivityRecognitionProxy: Odd, no component found for service com.android.location.service.ActivityRecognitionProvider
+11-20 11:31:29.809  1397  1397 D ZenLog  : set_zen_mode: off,cleanUpZenRules
+11-20 11:31:29.863  1978  1978 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:877 android.content.ContextWrapper.sendBroadcast:421 com.quicinc.cne.CNEService.CNEServiceApp.broadcastCNEStarted:103 com.quicinc.cne.CNEService.CNEServiceApp.startCne:123 com.quicinc.cne.CNEService.CNEServiceApp.onCreate:94 
+11-20 11:31:29.883  1397  1397 I Telecom : SystemStateProvider: Registering car mode receiver: android.content.IntentFilter@a49bb95: TS.init@AAA
+11-20 11:31:29.892  1397  2043 I Telecom : Telecom: Non-call EVENT: AUDIO_ROUTE, Entering state QuiescentEarpieceRoute
+11-20 11:31:29.897  1397  2046 I Telecom : CallAudioModeStateMachine: Message received: null.: TS.init->CAMSM.pM_1@AAA_0
+11-20 11:31:29.902  1397  1397 I Telecom : ViceNotificationImpl: ViceNotificationImpl: TS.init@AAA
+11-20 11:31:29.913  1397  2048 E ActivityThread: Failed to find provider info for call_log
+11-20 11:31:29.919  1397  1397 I Telecom : Class: TelecomSystem.INSTANCE being set
+11-20 11:31:29.920  1397  1397 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1357 android.content.ContextWrapper.startService:613 com.android.server.telecom.components.TelecomService.initializeTelecomSystem:196 com.android.server.telecom.components.TelecomService.onBind:64 android.app.ActivityThread.handleBindService:3219 
+11-20 11:31:29.924  1730  2049 E ActivityThread: Failed to find provider info for com.android.contacts
+11-20 11:31:29.926  1397  1397 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1357 com.android.server.content.SyncManager$13.run:658 android.os.Handler.handleCallback:751 android.os.Handler.dispatchMessage:95 android.os.Looper.loop:154 
+11-20 11:31:29.954  1397  1397 V WiredAccessoryManager: notifyWiredAccessoryChanged: when=0 bits= mask=54
+11-20 11:31:29.955  1397  1397 V WiredAccessoryManager: newName=h2w newState=0 headsetState=0 prev headsetState=0
+11-20 11:31:29.955  1397  1397 V WiredAccessoryManager: init()
+11-20 11:31:29.958  1397  1397 D ConditionProviders.SCP: onSubscribe condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false
+11-20 11:31:29.959  1397  1397 D ConditionProviders.SCP: setRegistered true
+11-20 11:31:29.959  1397  1397 D ConditionProviders.SCP: notifyCondition condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false STATE_FALSE reason=!meetsSchedule
+11-20 11:31:29.961  1397  1397 D ConditionProviders.SCP: Scheduling evaluate for Mon Nov 20 23:30:00 GMT+09:00 2017 (1511188200000), in +11h58m30s41ms, now=Mon Nov 20 11:31:29 GMT+09:00 2017 (1511145089959)
+11-20 11:31:29.961  1397  1397 D ConditionProviders.SCP: onSubscribe condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false
+11-20 11:31:29.962  1397  1397 D ConditionProviders.SCP: notifyCondition condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false STATE_FALSE reason=!meetsSchedule
+11-20 11:31:29.962  1397  1397 D ConditionProviders.SCP: notifyCondition condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false STATE_FALSE reason=!meetsSchedule
+11-20 11:31:29.963  1397  1397 D ConditionProviders.SCP: Scheduling evaluate for Mon Nov 20 22:00:00 GMT+09:00 2017 (1511182800000), in +10h28m30s38ms, now=Mon Nov 20 11:31:29 GMT+09:00 2017 (1511145089962)
+11-20 11:31:29.966  1397  1693 E ActivityThread: Failed to find provider info for com.android.calendar
+11-20 11:31:29.967  1397  1693 E ActivityThread: Failed to find provider info for com.android.calendar
+11-20 11:31:30.046  1397  1397 I Telecom : WiredHeadsetManager: ACTION_HEADSET_PLUG event, plugged in: false, : WHC.oADA@AAE
+11-20 11:31:30.050  1397  1397 I ActivityManager: user 0 is still locked. Cannot load recents
+11-20 11:31:30.054  1397  1467 I SyncManager: Got SyncJobService instance.
+11-20 11:31:30.096  1397  1468 I ActivityManager: Start proc 2092:com.android.cellbroadcastreceiver/u0a7 for broadcast com.android.cellbroadcastreceiver/.CellBroadcastReceiver
+11-20 11:31:30.189  1397  1443 I ActivityManager: Start proc 2116:com.qualcomm.qcrilmsgtunnel/1001 for service com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService
+11-20 11:31:30.266  1397  1687 D ConnectivityService: Got NetworkFactory Messenger for PhoneSwitcherNetworkRequstListener
+11-20 11:31:30.274  1397  1687 D ConnectivityService: Got NetworkFactory Messenger for TelephonyNetworkFactory[0]
+11-20 11:31:30.294  1992  2136 E ActivityThread: Failed to find provider info for com.android.contacts
+11-20 11:31:30.384  1397  1682 D WifiService: New client listening to asynchronous messages
+11-20 11:31:30.507  1397  1443 I ActivityManager: Start proc 2152:org.codeaurora.ims/1001 for broadcast org.codeaurora.ims/.ImsServiceAutoboot
+11-20 11:31:30.608  1397  1443 I Telecom : PhoneAccountRegistrar: [ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [e0184adedf913b076626646d3f52c3b49c39ad6d], UserHandle{0}(icon: Icon(typ=BITMAP size=18x23) -> Icon(typ=BITMAP size=18x23))]: TSI.rPA@AAc
+11-20 11:31:30.610  1397  1443 I Telecom : : Sending phone-account registered intent as user: TSI.rPA@AAc
+11-20 11:31:30.652  1397  1397 I Telecom : ViceNotificationImpl: mImsIntentReceiver: action com.android.ims.IMS_SERVICE_UP
+11-20 11:31:30.721  1397  1748 I Telecom : PhoneAccountRegistrar: [ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [e0184adedf913b076626646d3f52c3b49c39ad6d], UserHandle{0}(icon: Icon(typ=BITMAP size=18x23) -> Icon(typ=BITMAP size=18x23))]: TSI.rPA@AAo
+11-20 11:31:30.722  1397  1748 I Telecom : : Sending phone-account registered intent as user: TSI.rPA@AAo
+11-20 11:31:30.753  1397  1444 I Telecom : PhoneAccountRegistrar: [ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [e0184adedf913b076626646d3f52c3b49c39ad6d], UserHandle{0}(icon: Icon(typ=BITMAP size=18x23) -> Icon(typ=BITMAP size=18x23))]: TSI.rPA@AA0
+11-20 11:31:30.754  1397  1444 I Telecom : : Sending phone-account registered intent as user: TSI.rPA@AA0
+11-20 11:31:30.819  1992  1992 D MccTable: updateMccMncConfiguration mccmnc='' fromServiceState=false
+11-20 11:31:30.837  1397  1747 I Telecom : PhoneAccountRegistrar: [ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [e0184adedf913b076626646d3f52c3b49c39ad6d], UserHandle{0}(icon: Icon(typ=BITMAP size=18x23) -> Icon(typ=BITMAP size=18x23))]: TSI.rPA@AA4
+11-20 11:31:30.838  1397  1747 I Telecom : : Sending phone-account registered intent as user: TSI.rPA@AA4
+11-20 11:31:30.854  1397  1997 I Telecom : PhoneAccountRegistrar: [ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [e0184adedf913b076626646d3f52c3b49c39ad6d], UserHandle{0}(icon: Icon(typ=BITMAP size=18x23) -> Icon(typ=BITMAP size=18x23))]: TSI.rPA@ABE
+11-20 11:31:30.855  1397  1997 I Telecom : : Sending phone-account registered intent as user: TSI.rPA@ABE
+11-20 11:31:31.399  1397  1748 I Telecom : PhoneAccountRegistrar: [ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [e0184adedf913b076626646d3f52c3b49c39ad6d], UserHandle{0}(icon: Icon(typ=BITMAP size=18x23) -> Icon(typ=BITMAP size=18x23))]: TSI.rPA@ABM
+11-20 11:31:31.400  1397  1748 I Telecom : : Sending phone-account registered intent as user: TSI.rPA@ABM
+11-20 11:31:31.414  1397  1444 I Telecom : PhoneAccountRegistrar: [ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [e0184adedf913b076626646d3f52c3b49c39ad6d], UserHandle{0}(icon: Icon(typ=BITMAP size=18x23) -> Icon(typ=BITMAP size=18x23))]: TSI.rPA@ABc
+11-20 11:31:31.415  1397  1444 I Telecom : : Sending phone-account registered intent as user: TSI.rPA@ABc
+11-20 11:31:31.879  1397  1472 E BatteryStatsService: no controller energy info supplied
+11-20 11:31:31.909  1397  1472 E BatteryStatsService: no controller energy info supplied
+11-20 11:31:36.767  1397  1397 I EntropyMixer: Writing entropy...
+11-20 11:31:36.770  1397  1472 E BatteryStatsService: no controller energy info supplied
+11-20 11:31:36.770  1397  1472 E BatteryStatsService: no controller energy info supplied
+11-20 11:31:36.839  1397  1468 W ProcessCpuTracker: Skipping unknown process pid 2227
+11-20 11:31:38.311  1397  1997 I ActivityManager: Setting hasTopUi=true for pid=1730
+11-20 11:31:38.315  1397  1747 I ActivityManager: Setting hasTopUi=false for pid=1730
+11-20 11:31:38.338  1397  1443 I ActivityManager: Setting hasTopUi=true for pid=1730
+11-20 11:36:02.108  1397  1472 E BatteryStatsService: no controller energy info supplied
+11-20 11:36:02.108  1397  1472 E BatteryStatsService: no controller energy info supplied

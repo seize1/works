@@ -1,0 +1,4 @@
+
+
+
+echo -n 'file mdss_fb.c +p' > d/dynamic_debug/control
